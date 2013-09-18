@@ -32,11 +32,11 @@ public class Customer implements Runnable{
 		return id;
 	}
 	
-	public void notifyMe(){
+	public synchronized void notifyMe(){
 		this.notify();
 	}
 	
-	public void waitMe(){
+	public synchronized void waitMe(){
 		try {
 			this.wait();
 		} catch (InterruptedException e) {
@@ -61,6 +61,10 @@ public class Customer implements Runnable{
 		}
 		ServingArea.handleCustomer(this, false);
 		SushiBar.write(Thread.currentThread().getName()+ ": Customer "+id+" is leaving");
+	}
+	
+	public String toString(){
+		return (""+id);
 	}
 
 }

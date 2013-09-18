@@ -29,7 +29,7 @@ public class ServingArea {
 			orders += customer.getOrders();
 			eatenOrders += customer.getEatenOrders();
 			takeAwayOrders += customer.getEatenOrders();
-			System.out.println("Before Add: "+customer.getId()+id);
+			System.out.println(customers);
 			System.out.println("Add: " + ServingArea.customers.size()+ " id "+customer.getId());
 		}
 		else if(!bool){
@@ -37,10 +37,6 @@ public class ServingArea {
 			System.out.println("Remove: " + ServingArea.customers.size() + " id "+customer.getId());
 			Customer newCustomer = SushiBar.door.handleCustomer(null, false);
 			newCustomer.notifyMe();
-		}
-		else{
-			System.out.println("Else "+customer.getId());
-			customer.waitMe();
 		}
 	}
 }
