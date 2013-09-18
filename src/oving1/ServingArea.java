@@ -36,7 +36,7 @@ public class ServingArea {
 			customers.remove(customer);
 			System.out.println("Remove: " + ServingArea.customers.size() + " id "+customer.getId());
 			Customer newCustomer = SushiBar.door.handleCustomer(null, false);
-			new Thread(newCustomer).notify();
+			newCustomer.notifyMe();
 		}
 		else{
 			System.out.println("Else "+customer.getId());
