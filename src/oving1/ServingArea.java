@@ -26,6 +26,7 @@ public class ServingArea {
 		if (customers.size() < capacity && bool && customer.getId()==id){
 			id++;
 			customers.add(customer);
+			SushiBar.door.handleCustomer(null, false);
 			orders += customer.getOrders();
 			eatenOrders += customer.getEatenOrders();
 			takeAwayOrders += customer.getEatenOrders();
@@ -35,8 +36,10 @@ public class ServingArea {
 		else if(!bool){
 			customers.remove(customer);
 			System.out.println("Remove: " + ServingArea.customers.size() + " id "+customer.getId());
-			Customer newCustomer = SushiBar.door.handleCustomer(null, false);
-			newCustomer.notifyMe();
+			Customer newCustomer = SushiBar.door.getFirstCustomer();
+			if (!(newCustomer==null)){
+				newCustomer.notifyMe();
+			}
 		}
 	}
 }

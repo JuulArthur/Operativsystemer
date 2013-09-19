@@ -44,10 +44,7 @@ public class Customer implements Runnable{
 	}
 
 	public void run() {
-		if(ServingArea.isSpace()){
-			ServingArea.handleCustomer(this, true);
-		}
-		else{
+		if(!ServingArea.isSpace()){
 			waitMe();
 		}
 		ServingArea.handleCustomer(this, true);

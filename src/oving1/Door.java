@@ -14,6 +14,13 @@ public class Door implements Runnable{
 		return this.customersIsEmpty;
 	}
 	
+	public Customer getFirstCustomer(){
+		if(customersIsEmpty){
+			return null;
+		}
+		return customers.get(0);
+	}
+	
 	private void setBool(Boolean customerIsEmpty){
 		this.customersIsEmpty=customerIsEmpty;
 	}
@@ -45,7 +52,7 @@ public class Door implements Runnable{
 			new Thread(customer).start();
 			id++;
 			try {
-				Thread.sleep(100);
+				Thread.sleep(SushiBar.doorWait);
 			} catch (InterruptedException e) {
 				// TODO Auto-generated catch block
 				e.printStackTrace();

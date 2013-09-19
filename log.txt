@@ -6998,3 +6998,3259 @@
 15:54:09, Thread-30: Customer 28 is leaving
 15:54:09, Thread-31: Customer 29 is leaving
 15:54:10, Thread-32: Customer 30 is leaving
+16:32:56, Thread-1: Customer 1 is now created
+16:32:56, Thread-3: Customer 1 entering serving area
+16:32:56, Thread-3: Customer 1 eating
+16:32:56, Thread-1: Customer 2 is now created
+16:32:56, Thread-4: Customer 2 entering serving area
+16:32:56, Thread-4: Customer 2 eating
+16:32:57, Thread-1: Customer 3 is now created
+16:32:57, Thread-5: Customer 3 entering serving area
+16:32:57, Thread-5: Customer 3 eating
+16:32:57, Thread-1: Customer 4 is now created
+16:32:57, Thread-6: Customer 4 entering serving area
+16:32:57, Thread-6: Customer 4 eating
+16:32:57, Thread-1: Customer 5 is now created
+16:32:57, Thread-7: Customer 5 entering serving area
+16:32:57, Thread-7: Customer 5 eating
+16:32:57, Thread-1: Customer 6 is now created
+16:32:57, Thread-8: Customer 6 entering serving area
+16:32:57, Thread-8: Customer 6 eating
+16:32:57, Thread-1: Customer 7 is now created
+16:32:57, Thread-9: Customer 7 entering serving area
+16:32:57, Thread-9: Customer 7 eating
+16:32:57, Thread-1: Customer 8 is now created
+16:32:57, Thread-10: Customer 8 entering serving area
+16:32:57, Thread-10: Customer 8 eating
+16:32:57, Thread-1: Customer 9 is now created
+16:32:57, Thread-11: Customer 9 entering serving area
+16:32:57, Thread-11: Customer 9 eating
+16:32:57, Thread-1: Customer 10 is now created
+16:32:57, Thread-12: Customer 10 entering serving area
+16:32:57, Thread-12: Customer 10 eating
+16:32:57, Thread-1: Customer 11 is now created
+16:32:57, Thread-1: Customer 12 is now created
+16:32:58, Thread-1: Customer 13 is now created
+16:32:58, Thread-1: Customer 14 is now created
+16:32:58, Thread-1: Customer 15 is now created
+16:32:58, Thread-1: Customer 16 is now created
+16:32:58, Thread-1: Customer 17 is now created
+16:32:58, Thread-1: Customer 18 is now created
+16:32:58, Thread-1: Customer 19 is now created
+16:32:58, Thread-1: Customer 20 is now created
+16:32:58, Thread-1: Customer 21 is now created
+16:32:58, Thread-1: Customer 22 is now created
+16:32:59, Thread-1: Customer 23 is now created
+16:32:59, Thread-1: Customer 24 is now created
+16:32:59, Thread-1: Customer 25 is now created
+16:32:59, Thread-1: Customer 26 is now created
+16:32:59, Thread-1: Customer 27 is now created
+16:32:59, Thread-1: Customer 28 is now created
+16:32:59, Thread-1: Customer 29 is now created
+16:32:59, Thread-1: Customer 30 is now created
+16:32:59, Thread-3: Customer 1 is leaving
+16:32:59, Thread-1: Customer 31 is now created
+16:32:59, Thread-33: Customer 31 entering serving area
+16:32:59, Thread-33: Customer 31 eating
+16:32:59, Thread-4: Customer 2 is leaving
+16:33:00, Thread-1: Customer 32 is now created
+16:33:00, Thread-34: Customer 32 entering serving area
+16:33:00, Thread-34: Customer 32 eating
+16:33:00, Thread-5: Customer 3 is leaving
+16:33:00, Thread-1: Customer 33 is now created
+16:33:00, Thread-35: Customer 33 entering serving area
+16:33:00, Thread-35: Customer 33 eating
+16:33:00, Thread-6: Customer 4 is leaving
+16:33:00, Thread-1: Customer 34 is now created
+16:33:00, Thread-36: Customer 34 entering serving area
+16:33:00, Thread-36: Customer 34 eating
+16:33:00, Thread-7: Customer 5 is leaving
+16:33:00, Thread-1: Customer 35 is now created
+16:33:00, Thread-37: Customer 35 entering serving area
+16:33:00, Thread-37: Customer 35 eating
+16:33:00, Thread-8: Customer 6 is leaving
+16:33:00, Thread-1: Customer 36 is now created
+16:33:00, Thread-38: Customer 36 entering serving area
+16:33:00, Thread-38: Customer 36 eating
+16:33:00, Thread-9: Customer 7 is leaving
+16:33:00, Thread-1: Customer 37 is now created
+16:33:00, Thread-39: Customer 37 entering serving area
+16:33:00, Thread-39: Customer 37 eating
+16:33:00, Thread-10: Customer 8 is leaving
+16:33:00, Thread-1: Customer 38 is now created
+16:33:00, Thread-40: Customer 38 entering serving area
+16:33:00, Thread-40: Customer 38 eating
+16:33:00, Thread-11: Customer 9 is leaving
+16:33:00, Thread-1: Customer 39 is now created
+16:33:00, Thread-41: Customer 39 entering serving area
+16:33:00, Thread-41: Customer 39 eating
+16:33:00, Thread-12: Customer 10 is leaving
+16:33:00, Thread-1: Customer 40 is now created
+16:33:00, Thread-42: Customer 40 entering serving area
+16:33:00, Thread-42: Customer 40 eating
+16:33:00, Thread-1: Customer 41 is now created
+16:33:00, Thread-43: Customer 41 entering serving area
+16:33:00, Thread-43: Customer 41 eating
+16:33:01, Thread-1: Customer 42 is now created
+16:33:01, Thread-44: Customer 42 entering serving area
+16:33:01, Thread-44: Customer 42 eating
+16:33:01, Thread-1: Customer 43 is now created
+16:33:01, Thread-45: Customer 43 entering serving area
+16:33:01, Thread-45: Customer 43 eating
+16:33:01, Thread-1: Customer 44 is now created
+16:33:01, Thread-46: Customer 44 entering serving area
+16:33:01, Thread-46: Customer 44 eating
+16:33:01, Thread-1: Customer 45 is now created
+16:33:01, Thread-47: Customer 45 entering serving area
+16:33:01, Thread-47: Customer 45 eating
+16:33:01, Thread-1: Customer 46 is now created
+16:33:01, Thread-48: Customer 46 entering serving area
+16:33:01, Thread-48: Customer 46 eating
+16:33:01, Thread-1: Customer 47 is now created
+16:33:01, Thread-49: Customer 47 entering serving area
+16:33:01, Thread-49: Customer 47 eating
+16:33:01, Thread-1: Customer 48 is now created
+16:33:01, Thread-50: Customer 48 entering serving area
+16:33:01, Thread-50: Customer 48 eating
+16:33:01, Thread-1: Customer 49 is now created
+16:33:01, Thread-52: Customer 49 entering serving area
+16:33:01, Thread-52: Customer 49 eating
+16:33:01, Thread-1: The door has closed
+16:37:50, Thread-1: Customer 1 is now created
+16:37:50, Thread-3: Customer 1 entering serving area
+16:37:50, Thread-3: Customer 1 eating
+16:37:50, Thread-1: Customer 2 is now created
+16:37:50, Thread-4: Customer 2 entering serving area
+16:37:50, Thread-4: Customer 2 eating
+16:37:50, Thread-1: Customer 3 is now created
+16:37:50, Thread-5: Customer 3 entering serving area
+16:37:50, Thread-5: Customer 3 eating
+16:37:51, Thread-1: Customer 4 is now created
+16:37:51, Thread-6: Customer 4 entering serving area
+16:37:51, Thread-6: Customer 4 eating
+16:37:51, Thread-1: Customer 5 is now created
+16:37:51, Thread-7: Customer 5 entering serving area
+16:37:51, Thread-7: Customer 5 eating
+16:37:51, Thread-1: Customer 6 is now created
+16:37:51, Thread-8: Customer 6 entering serving area
+16:37:51, Thread-8: Customer 6 eating
+16:37:51, Thread-1: Customer 7 is now created
+16:37:51, Thread-9: Customer 7 entering serving area
+16:37:51, Thread-9: Customer 7 eating
+16:37:51, Thread-1: Customer 8 is now created
+16:37:51, Thread-10: Customer 8 entering serving area
+16:37:51, Thread-10: Customer 8 eating
+16:37:51, Thread-1: Customer 9 is now created
+16:37:51, Thread-11: Customer 9 entering serving area
+16:37:51, Thread-11: Customer 9 eating
+16:37:51, Thread-1: Customer 10 is now created
+16:37:51, Thread-12: Customer 10 entering serving area
+16:37:51, Thread-12: Customer 10 eating
+16:37:51, Thread-1: Customer 11 is now created
+16:37:51, Thread-1: Customer 12 is now created
+16:37:51, Thread-1: Customer 13 is now created
+16:37:52, Thread-1: Customer 14 is now created
+16:37:52, Thread-1: Customer 15 is now created
+16:37:52, Thread-1: Customer 16 is now created
+16:37:52, Thread-1: Customer 17 is now created
+16:37:52, Thread-1: Customer 18 is now created
+16:37:52, Thread-1: Customer 19 is now created
+16:37:52, Thread-1: Customer 20 is now created
+16:37:52, Thread-1: Customer 21 is now created
+16:37:52, Thread-1: Customer 22 is now created
+16:37:53, Thread-1: Customer 23 is now created
+16:37:53, Thread-1: Customer 24 is now created
+16:37:53, Thread-1: Customer 25 is now created
+16:37:53, Thread-1: Customer 26 is now created
+16:37:53, Thread-1: Customer 27 is now created
+16:37:53, Thread-1: Customer 28 is now created
+16:37:53, Thread-1: Customer 29 is now created
+16:37:53, Thread-1: Customer 30 is now created
+16:37:53, Thread-3: Customer 1 is leaving
+16:37:53, Thread-1: Customer 31 is now created
+16:37:53, Thread-33: Customer 31 entering serving area
+16:37:53, Thread-33: Customer 31 eating
+16:37:53, Thread-4: Customer 2 is leaving
+16:37:53, Thread-1: Customer 32 is now created
+16:37:53, Thread-34: Customer 32 entering serving area
+16:37:53, Thread-34: Customer 32 eating
+16:37:53, Thread-5: Customer 3 is leaving
+16:37:54, Thread-1: Customer 33 is now created
+16:37:54, Thread-35: Customer 33 entering serving area
+16:37:54, Thread-35: Customer 33 eating
+16:37:54, Thread-6: Customer 4 is leaving
+16:37:54, Thread-1: Customer 34 is now created
+16:37:54, Thread-36: Customer 34 entering serving area
+16:37:54, Thread-36: Customer 34 eating
+16:37:54, Thread-7: Customer 5 is leaving
+16:37:54, Thread-1: Customer 35 is now created
+16:37:54, Thread-37: Customer 35 entering serving area
+16:37:54, Thread-37: Customer 35 eating
+16:37:54, Thread-8: Customer 6 is leaving
+16:37:54, Thread-1: Customer 36 is now created
+16:37:54, Thread-38: Customer 36 entering serving area
+16:37:54, Thread-38: Customer 36 eating
+16:37:54, Thread-9: Customer 7 is leaving
+16:37:54, Thread-1: Customer 37 is now created
+16:37:54, Thread-39: Customer 37 entering serving area
+16:37:54, Thread-39: Customer 37 eating
+16:37:54, Thread-10: Customer 8 is leaving
+16:37:54, Thread-1: Customer 38 is now created
+16:37:54, Thread-40: Customer 38 entering serving area
+16:37:54, Thread-40: Customer 38 eating
+16:37:54, Thread-11: Customer 9 is leaving
+16:37:54, Thread-1: Customer 39 is now created
+16:37:54, Thread-41: Customer 39 entering serving area
+16:37:54, Thread-41: Customer 39 eating
+16:37:54, Thread-12: Customer 10 is leaving
+16:37:54, Thread-1: Customer 40 is now created
+16:37:54, Thread-42: Customer 40 entering serving area
+16:37:54, Thread-42: Customer 40 eating
+16:37:54, Thread-1: Customer 41 is now created
+16:37:54, Thread-43: Customer 41 entering serving area
+16:37:54, Thread-43: Customer 41 eating
+16:37:54, Thread-1: Customer 42 is now created
+16:37:54, Thread-44: Customer 42 entering serving area
+16:37:54, Thread-44: Customer 42 eating
+16:37:55, Thread-1: Customer 43 is now created
+16:37:55, Thread-45: Customer 43 entering serving area
+16:37:55, Thread-45: Customer 43 eating
+16:37:55, Thread-1: Customer 44 is now created
+16:37:55, Thread-46: Customer 44 entering serving area
+16:37:55, Thread-46: Customer 44 eating
+16:37:55, Thread-1: Customer 45 is now created
+16:37:55, Thread-47: Customer 45 entering serving area
+16:37:55, Thread-47: Customer 45 eating
+16:37:55, Thread-1: Customer 46 is now created
+16:37:55, Thread-48: Customer 46 entering serving area
+16:37:55, Thread-48: Customer 46 eating
+16:37:55, Thread-1: Customer 47 is now created
+16:37:55, Thread-49: Customer 47 entering serving area
+16:37:55, Thread-49: Customer 47 eating
+16:37:55, Thread-1: Customer 48 is now created
+16:37:55, Thread-50: Customer 48 entering serving area
+16:37:55, Thread-50: Customer 48 eating
+16:37:55, Thread-1: Customer 49 is now created
+16:37:55, Thread-52: Customer 49 entering serving area
+16:37:55, Thread-52: Customer 49 eating
+16:37:55, Thread-1: The door has closed
+16:37:56, Thread-33: Customer 31 is leaving
+16:37:56, Thread-13: Customer 11 entering serving area
+16:37:56, Thread-13: Customer 11 eating
+16:39:32, Thread-1: Customer 1 is now created
+16:39:32, Thread-3: Customer 1 entering serving area
+16:39:32, Thread-3: Customer 1 eating
+16:39:32, Thread-1: Customer 2 is now created
+16:39:32, Thread-4: Customer 2 entering serving area
+16:39:32, Thread-4: Customer 2 eating
+16:39:32, Thread-1: Customer 3 is now created
+16:39:32, Thread-5: Customer 3 entering serving area
+16:39:32, Thread-5: Customer 3 eating
+16:39:33, Thread-1: Customer 4 is now created
+16:39:33, Thread-6: Customer 4 entering serving area
+16:39:33, Thread-6: Customer 4 eating
+16:39:33, Thread-1: Customer 5 is now created
+16:39:33, Thread-7: Customer 5 entering serving area
+16:39:33, Thread-7: Customer 5 eating
+16:39:33, Thread-1: Customer 6 is now created
+16:39:33, Thread-8: Customer 6 entering serving area
+16:39:33, Thread-8: Customer 6 eating
+16:39:33, Thread-1: Customer 7 is now created
+16:39:33, Thread-9: Customer 7 entering serving area
+16:39:33, Thread-9: Customer 7 eating
+16:39:33, Thread-1: Customer 8 is now created
+16:39:33, Thread-10: Customer 8 entering serving area
+16:39:33, Thread-10: Customer 8 eating
+16:39:33, Thread-1: Customer 9 is now created
+16:39:33, Thread-11: Customer 9 entering serving area
+16:39:33, Thread-11: Customer 9 eating
+16:39:33, Thread-1: Customer 10 is now created
+16:39:33, Thread-12: Customer 10 entering serving area
+16:39:33, Thread-12: Customer 10 eating
+16:39:33, Thread-1: Customer 11 is now created
+16:39:33, Thread-1: Customer 12 is now created
+16:39:33, Thread-1: Customer 13 is now created
+16:39:34, Thread-1: Customer 14 is now created
+16:39:34, Thread-1: Customer 15 is now created
+16:39:34, Thread-1: Customer 16 is now created
+16:39:34, Thread-1: Customer 17 is now created
+16:39:34, Thread-1: Customer 18 is now created
+16:39:34, Thread-1: Customer 19 is now created
+16:39:34, Thread-1: Customer 20 is now created
+16:39:34, Thread-1: Customer 21 is now created
+16:39:34, Thread-1: Customer 22 is now created
+16:39:34, Thread-1: Customer 23 is now created
+16:39:35, Thread-1: Customer 24 is now created
+16:39:35, Thread-1: Customer 25 is now created
+16:39:35, Thread-1: Customer 26 is now created
+16:39:35, Thread-1: Customer 27 is now created
+16:39:35, Thread-1: Customer 28 is now created
+16:39:35, Thread-1: Customer 29 is now created
+16:39:35, Thread-1: Customer 30 is now created
+16:39:35, Thread-3: Customer 1 is leaving
+16:39:35, Thread-13: Customer 11 entering serving area
+16:39:35, Thread-13: Customer 11 eating
+16:39:35, Thread-1: Customer 31 is now created
+16:39:35, Thread-4: Customer 2 is leaving
+16:39:35, Thread-15: Customer 13 entering serving area
+16:39:35, Thread-15: Customer 13 eating
+16:39:35, Thread-1: Customer 32 is now created
+16:39:35, Thread-34: Customer 32 entering serving area
+16:39:35, Thread-34: Customer 32 eating
+16:39:35, Thread-5: Customer 3 is leaving
+16:39:35, Thread-16: Customer 14 entering serving area
+16:39:35, Thread-16: Customer 14 eating
+16:39:35, Thread-1: Customer 33 is now created
+16:39:35, Thread-35: Customer 33 entering serving area
+16:39:35, Thread-35: Customer 33 eating
+16:39:36, Thread-6: Customer 4 is leaving
+16:39:36, Thread-17: Customer 15 entering serving area
+16:39:36, Thread-17: Customer 15 eating
+16:39:36, Thread-1: Customer 34 is now created
+16:39:36, Thread-36: Customer 34 entering serving area
+16:39:36, Thread-36: Customer 34 eating
+16:39:36, Thread-7: Customer 5 is leaving
+16:39:36, Thread-18: Customer 16 entering serving area
+16:39:36, Thread-18: Customer 16 eating
+16:39:36, Thread-1: Customer 35 is now created
+16:39:36, Thread-37: Customer 35 entering serving area
+16:39:36, Thread-37: Customer 35 eating
+16:39:36, Thread-19: Customer 17 entering serving area
+16:39:36, Thread-8: Customer 6 is leaving
+16:39:36, Thread-19: Customer 17 eating
+16:39:36, Thread-1: Customer 36 is now created
+16:39:36, Thread-38: Customer 36 entering serving area
+16:39:36, Thread-38: Customer 36 eating
+16:39:36, Thread-20: Customer 18 entering serving area
+16:39:36, Thread-9: Customer 7 is leaving
+16:39:36, Thread-20: Customer 18 eating
+16:39:36, Thread-1: Customer 37 is now created
+16:39:36, Thread-39: Customer 37 entering serving area
+16:39:36, Thread-39: Customer 37 eating
+16:39:36, Thread-10: Customer 8 is leaving
+16:39:36, Thread-21: Customer 19 entering serving area
+16:39:36, Thread-21: Customer 19 eating
+16:39:36, Thread-1: Customer 38 is now created
+16:39:36, Thread-40: Customer 38 entering serving area
+16:39:36, Thread-40: Customer 38 eating
+16:39:36, Thread-11: Customer 9 is leaving
+16:39:36, Thread-22: Customer 20 entering serving area
+16:39:36, Thread-22: Customer 20 eating
+16:39:36, Thread-1: Customer 39 is now created
+16:39:36, Thread-41: Customer 39 entering serving area
+16:39:36, Thread-41: Customer 39 eating
+16:39:36, Thread-12: Customer 10 is leaving
+16:39:36, Thread-23: Customer 21 entering serving area
+16:39:36, Thread-23: Customer 21 eating
+16:39:36, Thread-1: Customer 40 is now created
+16:39:36, Thread-42: Customer 40 entering serving area
+16:39:36, Thread-42: Customer 40 eating
+16:39:36, Thread-1: Customer 41 is now created
+16:39:36, Thread-43: Customer 41 entering serving area
+16:39:36, Thread-43: Customer 41 eating
+16:39:36, Thread-1: Customer 42 is now created
+16:39:36, Thread-44: Customer 42 entering serving area
+16:39:36, Thread-44: Customer 42 eating
+16:39:36, Thread-1: Customer 43 is now created
+16:39:36, Thread-45: Customer 43 entering serving area
+16:39:36, Thread-45: Customer 43 eating
+16:39:37, Thread-1: Customer 44 is now created
+16:39:37, Thread-46: Customer 44 entering serving area
+16:39:37, Thread-46: Customer 44 eating
+16:39:37, Thread-1: Customer 45 is now created
+16:39:37, Thread-47: Customer 45 entering serving area
+16:39:37, Thread-47: Customer 45 eating
+16:39:37, Thread-1: Customer 46 is now created
+16:39:37, Thread-48: Customer 46 entering serving area
+16:39:37, Thread-48: Customer 46 eating
+16:39:37, Thread-1: Customer 47 is now created
+16:39:37, Thread-49: Customer 47 entering serving area
+16:39:37, Thread-49: Customer 47 eating
+16:39:37, Thread-1: Customer 48 is now created
+16:39:37, Thread-50: Customer 48 entering serving area
+16:39:37, Thread-50: Customer 48 eating
+16:39:37, Thread-1: Customer 49 is now created
+16:39:37, Thread-52: Customer 49 entering serving area
+16:39:37, Thread-52: Customer 49 eating
+16:39:37, Thread-1: The door has closed
+16:39:38, Thread-13: Customer 11 is leaving
+16:39:38, Thread-24: Customer 22 entering serving area
+16:39:38, Thread-24: Customer 22 eating
+16:39:38, Thread-15: Customer 13 is leaving
+16:39:38, Thread-25: Customer 23 entering serving area
+16:39:38, Thread-25: Customer 23 eating
+16:39:38, Thread-34: Customer 32 is leaving
+16:39:38, Thread-26: Customer 24 entering serving area
+16:39:38, Thread-26: Customer 24 eating
+16:39:38, Thread-16: Customer 14 is leaving
+16:39:38, Thread-27: Customer 25 entering serving area
+16:39:38, Thread-27: Customer 25 eating
+16:39:38, Thread-28: Customer 26 entering serving area
+16:39:38, Thread-35: Customer 33 is leaving
+16:39:38, Thread-28: Customer 26 eating
+16:39:39, Thread-17: Customer 15 is leaving
+16:39:39, Thread-29: Customer 27 entering serving area
+16:39:39, Thread-29: Customer 27 eating
+16:39:39, Thread-36: Customer 34 is leaving
+16:39:39, Thread-30: Customer 28 entering serving area
+16:39:39, Thread-30: Customer 28 eating
+16:39:39, Thread-18: Customer 16 is leaving
+16:39:39, Thread-31: Customer 29 entering serving area
+16:39:39, Thread-31: Customer 29 eating
+16:39:39, Thread-37: Customer 35 is leaving
+16:39:39, Thread-32: Customer 30 entering serving area
+16:39:39, Thread-32: Customer 30 eating
+16:39:39, Thread-19: Customer 17 is leaving
+16:39:39, Thread-33: Customer 31 entering serving area
+16:39:39, Thread-33: Customer 31 eating
+16:39:39, Thread-38: Customer 36 is leaving
+16:39:39, Thread-20: Customer 18 is leaving
+16:39:39, Thread-39: Customer 37 is leaving
+16:39:39, Thread-21: Customer 19 is leaving
+16:39:39, Thread-40: Customer 38 is leaving
+16:39:39, Thread-22: Customer 20 is leaving
+16:39:39, Thread-41: Customer 39 is leaving
+16:39:39, Thread-23: Customer 21 is leaving
+16:39:39, Thread-42: Customer 40 is leaving
+16:39:39, Thread-43: Customer 41 is leaving
+16:39:39, Thread-44: Customer 42 is leaving
+16:39:39, Thread-45: Customer 43 is leaving
+16:39:40, Thread-46: Customer 44 is leaving
+16:39:40, Thread-47: Customer 45 is leaving
+16:39:40, Thread-48: Customer 46 is leaving
+16:39:40, Thread-49: Customer 47 is leaving
+16:39:40, Thread-50: Customer 48 is leaving
+16:39:40, Thread-52: Customer 49 is leaving
+16:43:12, Thread-1: Customer 1 is now created
+16:43:12, Thread-3: Customer 1 entering serving area
+16:43:12, Thread-3: Customer 1 eating
+16:43:12, Thread-1: Customer 2 is now created
+16:43:12, Thread-4: Customer 2 entering serving area
+16:43:12, Thread-4: Customer 2 eating
+16:43:13, Thread-1: Customer 3 is now created
+16:43:13, Thread-5: Customer 3 entering serving area
+16:43:13, Thread-5: Customer 3 eating
+16:43:13, Thread-1: Customer 4 is now created
+16:43:13, Thread-6: Customer 4 entering serving area
+16:43:13, Thread-6: Customer 4 eating
+16:43:13, Thread-1: Customer 5 is now created
+16:43:13, Thread-7: Customer 5 entering serving area
+16:43:13, Thread-7: Customer 5 eating
+16:43:13, Thread-1: Customer 6 is now created
+16:43:13, Thread-8: Customer 6 entering serving area
+16:43:13, Thread-8: Customer 6 eating
+16:43:13, Thread-1: Customer 7 is now created
+16:43:13, Thread-9: Customer 7 entering serving area
+16:43:13, Thread-9: Customer 7 eating
+16:43:13, Thread-1: Customer 8 is now created
+16:43:13, Thread-10: Customer 8 entering serving area
+16:43:13, Thread-10: Customer 8 eating
+16:43:13, Thread-1: Customer 9 is now created
+16:43:13, Thread-11: Customer 9 entering serving area
+16:43:13, Thread-11: Customer 9 eating
+16:43:13, Thread-1: Customer 10 is now created
+16:43:13, Thread-12: Customer 10 entering serving area
+16:43:13, Thread-12: Customer 10 eating
+16:43:13, Thread-1: Customer 11 is now created
+16:43:13, Thread-1: Customer 12 is now created
+16:43:14, Thread-1: Customer 13 is now created
+16:43:14, Thread-1: Customer 14 is now created
+16:43:14, Thread-1: Customer 15 is now created
+16:43:14, Thread-1: Customer 16 is now created
+16:43:14, Thread-1: Customer 17 is now created
+16:43:14, Thread-1: Customer 18 is now created
+16:43:14, Thread-1: Customer 19 is now created
+16:43:14, Thread-1: Customer 20 is now created
+16:43:14, Thread-1: Customer 21 is now created
+16:43:15, Thread-1: Customer 22 is now created
+16:43:15, Thread-1: Customer 23 is now created
+16:43:15, Thread-1: Customer 24 is now created
+16:43:15, Thread-1: Customer 25 is now created
+16:43:15, Thread-1: Customer 26 is now created
+16:43:15, Thread-1: Customer 27 is now created
+16:43:15, Thread-1: Customer 28 is now created
+16:43:15, Thread-1: Customer 29 is now created
+16:43:15, Thread-1: Customer 30 is now created
+16:43:15, Thread-3: Customer 1 is leaving
+16:43:15, Thread-13: Customer 11 entering serving area
+16:43:15, Thread-13: Customer 11 eating
+16:43:15, Thread-1: Customer 31 is now created
+16:43:15, Thread-4: Customer 2 is leaving
+16:43:15, Thread-14: Customer 12 entering serving area
+16:43:15, Thread-14: Customer 12 eating
+16:43:16, Thread-1: Customer 32 is now created
+16:43:16, Thread-5: Customer 3 is leaving
+16:43:16, Thread-15: Customer 13 entering serving area
+16:43:16, Thread-15: Customer 13 eating
+16:43:16, Thread-1: Customer 33 is now created
+16:43:16, Thread-6: Customer 4 is leaving
+16:43:16, Thread-16: Customer 14 entering serving area
+16:43:16, Thread-16: Customer 14 eating
+16:43:16, Thread-1: Customer 34 is now created
+16:43:16, Thread-7: Customer 5 is leaving
+16:43:16, Thread-17: Customer 15 entering serving area
+16:43:16, Thread-17: Customer 15 eating
+16:43:16, Thread-1: Customer 35 is now created
+16:43:16, Thread-8: Customer 6 is leaving
+16:43:16, Thread-18: Customer 16 entering serving area
+16:43:16, Thread-18: Customer 16 eating
+16:43:16, Thread-1: Customer 36 is now created
+16:43:16, Thread-9: Customer 7 is leaving
+16:43:16, Thread-19: Customer 17 entering serving area
+16:43:16, Thread-19: Customer 17 eating
+16:43:16, Thread-1: Customer 37 is now created
+16:43:16, Thread-10: Customer 8 is leaving
+16:43:16, Thread-20: Customer 18 entering serving area
+16:43:16, Thread-20: Customer 18 eating
+16:43:16, Thread-1: Customer 38 is now created
+16:43:16, Thread-11: Customer 9 is leaving
+16:43:16, Thread-21: Customer 19 entering serving area
+16:43:16, Thread-21: Customer 19 eating
+16:43:16, Thread-1: Customer 39 is now created
+16:43:16, Thread-12: Customer 10 is leaving
+16:43:16, Thread-22: Customer 20 entering serving area
+16:43:16, Thread-22: Customer 20 eating
+16:43:16, Thread-1: Customer 40 is now created
+16:43:16, Thread-1: Customer 41 is now created
+16:43:17, Thread-1: Customer 42 is now created
+16:43:17, Thread-1: Customer 43 is now created
+16:43:17, Thread-1: Customer 44 is now created
+16:43:17, Thread-1: Customer 45 is now created
+16:43:17, Thread-1: Customer 46 is now created
+16:43:17, Thread-1: Customer 47 is now created
+16:43:17, Thread-1: Customer 48 is now created
+16:43:17, Thread-1: Customer 49 is now created
+16:43:17, Thread-1: The door has closed
+16:43:18, Thread-13: Customer 11 is leaving
+16:43:18, Thread-23: Customer 21 entering serving area
+16:43:18, Thread-23: Customer 21 eating
+16:43:18, Thread-14: Customer 12 is leaving
+16:43:18, Thread-24: Customer 22 entering serving area
+16:43:18, Thread-24: Customer 22 eating
+16:43:19, Thread-15: Customer 13 is leaving
+16:43:19, Thread-25: Customer 23 entering serving area
+16:43:19, Thread-25: Customer 23 eating
+16:43:19, Thread-16: Customer 14 is leaving
+16:43:19, Thread-26: Customer 24 entering serving area
+16:43:19, Thread-26: Customer 24 eating
+16:43:19, Thread-17: Customer 15 is leaving
+16:43:19, Thread-27: Customer 25 entering serving area
+16:43:19, Thread-27: Customer 25 eating
+16:43:19, Thread-18: Customer 16 is leaving
+16:43:19, Thread-28: Customer 26 entering serving area
+16:43:19, Thread-28: Customer 26 eating
+16:43:19, Thread-19: Customer 17 is leaving
+16:43:19, Thread-29: Customer 27 entering serving area
+16:43:19, Thread-29: Customer 27 eating
+16:43:19, Thread-20: Customer 18 is leaving
+16:43:19, Thread-30: Customer 28 entering serving area
+16:43:19, Thread-30: Customer 28 eating
+16:43:19, Thread-21: Customer 19 is leaving
+16:43:19, Thread-31: Customer 29 entering serving area
+16:43:19, Thread-31: Customer 29 eating
+16:43:19, Thread-22: Customer 20 is leaving
+16:43:19, Thread-32: Customer 30 entering serving area
+16:43:19, Thread-32: Customer 30 eating
+16:43:21, Thread-23: Customer 21 is leaving
+16:43:21, Thread-33: Customer 31 entering serving area
+16:43:21, Thread-33: Customer 31 eating
+16:43:21, Thread-24: Customer 22 is leaving
+16:43:21, Thread-34: Customer 32 entering serving area
+16:43:21, Thread-34: Customer 32 eating
+16:43:22, Thread-25: Customer 23 is leaving
+16:43:22, Thread-35: Customer 33 entering serving area
+16:43:22, Thread-35: Customer 33 eating
+16:43:22, Thread-26: Customer 24 is leaving
+16:43:22, Thread-36: Customer 34 entering serving area
+16:43:22, Thread-36: Customer 34 eating
+16:43:22, Thread-27: Customer 25 is leaving
+16:43:22, Thread-37: Customer 35 entering serving area
+16:43:22, Thread-37: Customer 35 eating
+16:43:22, Thread-28: Customer 26 is leaving
+16:43:22, Thread-38: Customer 36 entering serving area
+16:43:22, Thread-38: Customer 36 eating
+16:43:22, Thread-29: Customer 27 is leaving
+16:43:22, Thread-39: Customer 37 entering serving area
+16:43:22, Thread-39: Customer 37 eating
+16:43:22, Thread-30: Customer 28 is leaving
+16:43:22, Thread-40: Customer 38 entering serving area
+16:43:22, Thread-40: Customer 38 eating
+16:43:22, Thread-31: Customer 29 is leaving
+16:43:22, Thread-41: Customer 39 entering serving area
+16:43:22, Thread-41: Customer 39 eating
+16:43:22, Thread-32: Customer 30 is leaving
+16:43:22, Thread-42: Customer 40 entering serving area
+16:43:22, Thread-42: Customer 40 eating
+16:43:24, Thread-33: Customer 31 is leaving
+16:43:24, Thread-43: Customer 41 entering serving area
+16:43:24, Thread-43: Customer 41 eating
+16:43:24, Thread-34: Customer 32 is leaving
+16:43:24, Thread-44: Customer 42 entering serving area
+16:43:24, Thread-44: Customer 42 eating
+16:43:25, Thread-35: Customer 33 is leaving
+16:43:25, Thread-45: Customer 43 entering serving area
+16:43:25, Thread-45: Customer 43 eating
+16:43:25, Thread-36: Customer 34 is leaving
+16:43:25, Thread-46: Customer 44 entering serving area
+16:43:25, Thread-46: Customer 44 eating
+16:43:25, Thread-37: Customer 35 is leaving
+16:43:25, Thread-47: Customer 45 entering serving area
+16:43:25, Thread-47: Customer 45 eating
+16:43:25, Thread-38: Customer 36 is leaving
+16:43:25, Thread-48: Customer 46 entering serving area
+16:43:25, Thread-48: Customer 46 eating
+16:43:25, Thread-39: Customer 37 is leaving
+16:43:25, Thread-49: Customer 47 entering serving area
+16:43:25, Thread-49: Customer 47 eating
+16:43:25, Thread-40: Customer 38 is leaving
+16:43:25, Thread-50: Customer 48 entering serving area
+16:43:25, Thread-50: Customer 48 eating
+16:43:25, Thread-41: Customer 39 is leaving
+16:43:25, Thread-52: Customer 49 entering serving area
+16:43:25, Thread-52: Customer 49 eating
+16:44:48, Thread-1: Customer 1 is now created
+16:44:48, Thread-3: Customer 1 entering serving area
+16:44:48, Thread-3: Customer 1 eating
+16:44:48, Thread-1: Customer 2 is now created
+16:44:48, Thread-4: Customer 2 entering serving area
+16:44:48, Thread-4: Customer 2 eating
+16:44:48, Thread-1: Customer 3 is now created
+16:44:48, Thread-5: Customer 3 entering serving area
+16:44:48, Thread-5: Customer 3 eating
+16:44:48, Thread-1: Customer 4 is now created
+16:44:48, Thread-6: Customer 4 entering serving area
+16:44:48, Thread-6: Customer 4 eating
+16:44:49, Thread-1: Customer 5 is now created
+16:44:49, Thread-7: Customer 5 entering serving area
+16:44:49, Thread-7: Customer 5 eating
+16:44:49, Thread-1: Customer 6 is now created
+16:44:49, Thread-8: Customer 6 entering serving area
+16:44:49, Thread-8: Customer 6 eating
+16:44:49, Thread-1: Customer 7 is now created
+16:44:49, Thread-9: Customer 7 entering serving area
+16:44:49, Thread-9: Customer 7 eating
+16:44:49, Thread-1: Customer 8 is now created
+16:44:49, Thread-10: Customer 8 entering serving area
+16:44:49, Thread-10: Customer 8 eating
+16:44:49, Thread-1: Customer 9 is now created
+16:44:49, Thread-11: Customer 9 entering serving area
+16:44:49, Thread-11: Customer 9 eating
+16:44:49, Thread-1: Customer 10 is now created
+16:44:49, Thread-12: Customer 10 entering serving area
+16:44:49, Thread-12: Customer 10 eating
+16:44:49, Thread-1: Customer 11 is now created
+16:44:49, Thread-1: Customer 12 is now created
+16:44:49, Thread-1: Customer 13 is now created
+16:44:50, Thread-1: Customer 14 is now created
+16:44:50, Thread-1: Customer 15 is now created
+16:44:50, Thread-1: Customer 16 is now created
+16:44:50, Thread-1: Customer 17 is now created
+16:44:50, Thread-1: Customer 18 is now created
+16:44:50, Thread-1: Customer 19 is now created
+16:44:50, Thread-1: Customer 20 is now created
+16:44:50, Thread-1: Customer 21 is now created
+16:44:50, Thread-1: Customer 22 is now created
+16:44:50, Thread-1: Customer 23 is now created
+16:44:51, Thread-1: Customer 24 is now created
+16:44:51, Thread-1: Customer 25 is now created
+16:44:51, Thread-1: Customer 26 is now created
+16:44:51, Thread-1: Customer 27 is now created
+16:44:51, Thread-1: Customer 28 is now created
+16:44:51, Thread-1: Customer 29 is now created
+16:44:51, Thread-1: Customer 30 is now created
+16:44:51, Thread-3: Customer 1 is leaving
+16:44:51, Thread-13: Customer 11 entering serving area
+16:44:51, Thread-13: Customer 11 eating
+16:44:51, Thread-1: Customer 31 is now created
+16:44:51, Thread-4: Customer 2 is leaving
+16:44:51, Thread-14: Customer 12 entering serving area
+16:44:51, Thread-14: Customer 12 eating
+16:44:51, Thread-1: Customer 32 is now created
+16:44:51, Thread-5: Customer 3 is leaving
+16:44:51, Thread-15: Customer 13 entering serving area
+16:44:51, Thread-15: Customer 13 eating
+16:44:51, Thread-1: Customer 33 is now created
+16:44:51, Thread-6: Customer 4 is leaving
+16:44:51, Thread-16: Customer 14 entering serving area
+16:44:51, Thread-16: Customer 14 eating
+16:44:52, Thread-1: Customer 34 is now created
+16:44:52, Thread-7: Customer 5 is leaving
+16:44:52, Thread-17: Customer 15 entering serving area
+16:44:52, Thread-17: Customer 15 eating
+16:44:52, Thread-1: Customer 35 is now created
+16:44:52, Thread-8: Customer 6 is leaving
+16:44:52, Thread-18: Customer 16 entering serving area
+16:44:52, Thread-18: Customer 16 eating
+16:44:52, Thread-1: Customer 36 is now created
+16:44:52, Thread-9: Customer 7 is leaving
+16:44:52, Thread-19: Customer 17 entering serving area
+16:44:52, Thread-19: Customer 17 eating
+16:44:52, Thread-1: Customer 37 is now created
+16:44:52, Thread-10: Customer 8 is leaving
+16:44:52, Thread-20: Customer 18 entering serving area
+16:44:52, Thread-20: Customer 18 eating
+16:44:52, Thread-1: Customer 38 is now created
+16:44:52, Thread-11: Customer 9 is leaving
+16:44:52, Thread-21: Customer 19 entering serving area
+16:44:52, Thread-21: Customer 19 eating
+16:44:52, Thread-1: Customer 39 is now created
+16:44:52, Thread-12: Customer 10 is leaving
+16:44:52, Thread-22: Customer 20 entering serving area
+16:44:52, Thread-22: Customer 20 eating
+16:44:52, Thread-1: Customer 40 is now created
+16:44:52, Thread-1: Customer 41 is now created
+16:44:52, Thread-1: Customer 42 is now created
+16:44:52, Thread-1: Customer 43 is now created
+16:44:53, Thread-1: Customer 44 is now created
+16:44:53, Thread-1: Customer 45 is now created
+16:44:53, Thread-1: Customer 46 is now created
+16:44:53, Thread-1: Customer 47 is now created
+16:44:53, Thread-1: Customer 48 is now created
+16:44:53, Thread-1: Customer 49 is now created
+16:44:53, Thread-1: The door has closed
+16:44:54, Thread-13: Customer 11 is leaving
+16:44:54, Thread-23: Customer 21 entering serving area
+16:44:54, Thread-23: Customer 21 eating
+16:44:54, Thread-14: Customer 12 is leaving
+16:44:54, Thread-24: Customer 22 entering serving area
+16:44:54, Thread-24: Customer 22 eating
+16:44:54, Thread-15: Customer 13 is leaving
+16:44:54, Thread-25: Customer 23 entering serving area
+16:44:54, Thread-25: Customer 23 eating
+16:44:54, Thread-16: Customer 14 is leaving
+16:44:54, Thread-26: Customer 24 entering serving area
+16:44:54, Thread-26: Customer 24 eating
+16:44:55, Thread-17: Customer 15 is leaving
+16:44:55, Thread-27: Customer 25 entering serving area
+16:44:55, Thread-27: Customer 25 eating
+16:44:55, Thread-18: Customer 16 is leaving
+16:44:55, Thread-28: Customer 26 entering serving area
+16:44:55, Thread-28: Customer 26 eating
+16:44:55, Thread-19: Customer 17 is leaving
+16:44:55, Thread-29: Customer 27 entering serving area
+16:44:55, Thread-29: Customer 27 eating
+16:44:55, Thread-20: Customer 18 is leaving
+16:44:55, Thread-30: Customer 28 entering serving area
+16:44:55, Thread-30: Customer 28 eating
+16:44:55, Thread-21: Customer 19 is leaving
+16:44:55, Thread-31: Customer 29 entering serving area
+16:44:55, Thread-31: Customer 29 eating
+16:44:55, Thread-22: Customer 20 is leaving
+16:44:55, Thread-32: Customer 30 entering serving area
+16:44:55, Thread-32: Customer 30 eating
+16:44:57, Thread-23: Customer 21 is leaving
+16:44:57, Thread-33: Customer 31 entering serving area
+16:44:57, Thread-33: Customer 31 eating
+16:44:57, Thread-24: Customer 22 is leaving
+16:44:57, Thread-34: Customer 32 entering serving area
+16:44:57, Thread-34: Customer 32 eating
+16:44:57, Thread-25: Customer 23 is leaving
+16:44:57, Thread-35: Customer 33 entering serving area
+16:44:57, Thread-35: Customer 33 eating
+16:44:57, Thread-26: Customer 24 is leaving
+16:44:57, Thread-36: Customer 34 entering serving area
+16:44:57, Thread-36: Customer 34 eating
+16:44:58, Thread-27: Customer 25 is leaving
+16:44:58, Thread-37: Customer 35 entering serving area
+16:44:58, Thread-37: Customer 35 eating
+16:44:58, Thread-28: Customer 26 is leaving
+16:44:58, Thread-38: Customer 36 entering serving area
+16:44:58, Thread-38: Customer 36 eating
+16:44:58, Thread-29: Customer 27 is leaving
+16:44:58, Thread-39: Customer 37 entering serving area
+16:44:58, Thread-39: Customer 37 eating
+16:44:58, Thread-30: Customer 28 is leaving
+16:44:58, Thread-40: Customer 38 entering serving area
+16:44:58, Thread-40: Customer 38 eating
+16:44:58, Thread-31: Customer 29 is leaving
+16:44:58, Thread-41: Customer 39 entering serving area
+16:44:58, Thread-41: Customer 39 eating
+16:44:58, Thread-32: Customer 30 is leaving
+16:44:58, Thread-42: Customer 40 entering serving area
+16:44:58, Thread-42: Customer 40 eating
+16:45:00, Thread-33: Customer 31 is leaving
+16:45:00, Thread-43: Customer 41 entering serving area
+16:45:00, Thread-43: Customer 41 eating
+16:45:00, Thread-34: Customer 32 is leaving
+16:45:00, Thread-44: Customer 42 entering serving area
+16:45:00, Thread-44: Customer 42 eating
+16:45:00, Thread-35: Customer 33 is leaving
+16:45:00, Thread-45: Customer 43 entering serving area
+16:45:00, Thread-45: Customer 43 eating
+16:45:00, Thread-36: Customer 34 is leaving
+16:45:00, Thread-46: Customer 44 entering serving area
+16:45:00, Thread-46: Customer 44 eating
+16:45:01, Thread-37: Customer 35 is leaving
+16:45:01, Thread-47: Customer 45 entering serving area
+16:45:01, Thread-47: Customer 45 eating
+16:45:01, Thread-38: Customer 36 is leaving
+16:45:01, Thread-48: Customer 46 entering serving area
+16:45:01, Thread-48: Customer 46 eating
+16:45:01, Thread-39: Customer 37 is leaving
+16:45:01, Thread-49: Customer 47 entering serving area
+16:45:01, Thread-49: Customer 47 eating
+16:45:01, Thread-40: Customer 38 is leaving
+16:45:01, Thread-50: Customer 48 entering serving area
+16:45:01, Thread-50: Customer 48 eating
+16:45:01, Thread-41: Customer 39 is leaving
+16:45:01, Thread-52: Customer 49 entering serving area
+16:45:01, Thread-52: Customer 49 eating
+16:45:17, Thread-1: Customer 1 is now created
+16:45:17, Thread-3: Customer 1 entering serving area
+16:45:17, Thread-3: Customer 1 eating
+16:45:17, Thread-1: Customer 2 is now created
+16:45:17, Thread-4: Customer 2 entering serving area
+16:45:17, Thread-4: Customer 2 eating
+16:45:17, Thread-1: Customer 3 is now created
+16:45:17, Thread-5: Customer 3 entering serving area
+16:45:17, Thread-5: Customer 3 eating
+16:45:18, Thread-1: Customer 4 is now created
+16:45:18, Thread-6: Customer 4 entering serving area
+16:45:18, Thread-6: Customer 4 eating
+16:45:18, Thread-1: Customer 5 is now created
+16:45:18, Thread-7: Customer 5 entering serving area
+16:45:18, Thread-7: Customer 5 eating
+16:45:18, Thread-1: Customer 6 is now created
+16:45:18, Thread-8: Customer 6 entering serving area
+16:45:18, Thread-8: Customer 6 eating
+16:45:18, Thread-1: Customer 7 is now created
+16:45:18, Thread-9: Customer 7 entering serving area
+16:45:18, Thread-9: Customer 7 eating
+16:45:18, Thread-1: Customer 8 is now created
+16:45:18, Thread-10: Customer 8 entering serving area
+16:45:18, Thread-10: Customer 8 eating
+16:45:18, Thread-1: Customer 9 is now created
+16:45:18, Thread-11: Customer 9 entering serving area
+16:45:18, Thread-11: Customer 9 eating
+16:45:18, Thread-1: Customer 10 is now created
+16:45:18, Thread-12: Customer 10 entering serving area
+16:45:18, Thread-12: Customer 10 eating
+16:45:18, Thread-1: Customer 11 is now created
+16:45:18, Thread-1: Customer 12 is now created
+16:45:18, Thread-1: Customer 13 is now created
+16:45:19, Thread-1: Customer 14 is now created
+16:45:19, Thread-1: Customer 15 is now created
+16:45:19, Thread-1: Customer 16 is now created
+16:45:19, Thread-1: Customer 17 is now created
+16:45:19, Thread-1: Customer 18 is now created
+16:45:19, Thread-1: Customer 19 is now created
+16:45:19, Thread-1: Customer 20 is now created
+16:45:19, Thread-1: Customer 21 is now created
+16:45:19, Thread-1: Customer 22 is now created
+16:45:19, Thread-1: Customer 23 is now created
+16:45:20, Thread-1: Customer 24 is now created
+16:45:20, Thread-1: Customer 25 is now created
+16:45:20, Thread-1: Customer 26 is now created
+16:45:20, Thread-1: Customer 27 is now created
+16:45:20, Thread-1: Customer 28 is now created
+16:45:20, Thread-1: Customer 29 is now created
+16:45:20, Thread-1: Customer 30 is now created
+16:45:20, Thread-3: Customer 1 is leaving
+16:45:20, Thread-13: Customer 11 entering serving area
+16:45:20, Thread-13: Customer 11 eating
+16:45:20, Thread-1: Customer 31 is now created
+16:45:20, Thread-4: Customer 2 is leaving
+16:45:20, Thread-14: Customer 12 entering serving area
+16:45:20, Thread-14: Customer 12 eating
+16:45:20, Thread-1: Customer 32 is now created
+16:45:20, Thread-5: Customer 3 is leaving
+16:45:20, Thread-15: Customer 13 entering serving area
+16:45:20, Thread-15: Customer 13 eating
+16:45:21, Thread-1: Customer 33 is now created
+16:45:21, Thread-6: Customer 4 is leaving
+16:45:21, Thread-16: Customer 14 entering serving area
+16:45:21, Thread-16: Customer 14 eating
+16:45:21, Thread-1: Customer 34 is now created
+16:45:21, Thread-7: Customer 5 is leaving
+16:45:21, Thread-17: Customer 15 entering serving area
+16:45:21, Thread-17: Customer 15 eating
+16:45:21, Thread-1: Customer 35 is now created
+16:45:21, Thread-8: Customer 6 is leaving
+16:45:21, Thread-18: Customer 16 entering serving area
+16:45:21, Thread-18: Customer 16 eating
+16:45:21, Thread-1: Customer 36 is now created
+16:45:21, Thread-9: Customer 7 is leaving
+16:45:21, Thread-19: Customer 17 entering serving area
+16:45:21, Thread-19: Customer 17 eating
+16:45:21, Thread-1: Customer 37 is now created
+16:45:21, Thread-10: Customer 8 is leaving
+16:45:21, Thread-20: Customer 18 entering serving area
+16:45:21, Thread-20: Customer 18 eating
+16:45:21, Thread-1: Customer 38 is now created
+16:45:21, Thread-11: Customer 9 is leaving
+16:45:21, Thread-21: Customer 19 entering serving area
+16:45:21, Thread-21: Customer 19 eating
+16:45:21, Thread-1: Customer 39 is now created
+16:45:21, Thread-12: Customer 10 is leaving
+16:45:21, Thread-22: Customer 20 entering serving area
+16:45:21, Thread-22: Customer 20 eating
+16:45:21, Thread-1: Customer 40 is now created
+16:45:21, Thread-1: Customer 41 is now created
+16:45:21, Thread-1: Customer 42 is now created
+16:45:22, Thread-1: Customer 43 is now created
+16:45:22, Thread-1: Customer 44 is now created
+16:45:22, Thread-1: Customer 45 is now created
+16:45:22, Thread-1: Customer 46 is now created
+16:45:22, Thread-1: Customer 47 is now created
+16:45:22, Thread-1: Customer 48 is now created
+16:45:22, Thread-1: Customer 49 is now created
+16:45:22, Thread-1: The door has closed
+16:45:23, Thread-13: Customer 11 is leaving
+16:45:23, Thread-23: Customer 21 entering serving area
+16:45:23, Thread-23: Customer 21 eating
+16:45:23, Thread-14: Customer 12 is leaving
+16:45:23, Thread-24: Customer 22 entering serving area
+16:45:23, Thread-24: Customer 22 eating
+16:45:23, Thread-15: Customer 13 is leaving
+16:45:23, Thread-25: Customer 23 entering serving area
+16:45:23, Thread-25: Customer 23 eating
+16:45:24, Thread-16: Customer 14 is leaving
+16:45:24, Thread-26: Customer 24 entering serving area
+16:45:24, Thread-26: Customer 24 eating
+16:45:24, Thread-17: Customer 15 is leaving
+16:45:24, Thread-27: Customer 25 entering serving area
+16:45:24, Thread-27: Customer 25 eating
+16:45:24, Thread-18: Customer 16 is leaving
+16:45:24, Thread-28: Customer 26 entering serving area
+16:45:24, Thread-28: Customer 26 eating
+16:45:24, Thread-19: Customer 17 is leaving
+16:45:24, Thread-29: Customer 27 entering serving area
+16:45:24, Thread-29: Customer 27 eating
+16:45:24, Thread-20: Customer 18 is leaving
+16:45:24, Thread-30: Customer 28 entering serving area
+16:45:24, Thread-30: Customer 28 eating
+16:45:24, Thread-21: Customer 19 is leaving
+16:45:24, Thread-31: Customer 29 entering serving area
+16:45:24, Thread-31: Customer 29 eating
+16:45:24, Thread-22: Customer 20 is leaving
+16:45:24, Thread-32: Customer 30 entering serving area
+16:45:24, Thread-32: Customer 30 eating
+16:45:26, Thread-23: Customer 21 is leaving
+16:45:26, Thread-33: Customer 31 entering serving area
+16:45:26, Thread-33: Customer 31 eating
+16:45:26, Thread-24: Customer 22 is leaving
+16:45:26, Thread-34: Customer 32 entering serving area
+16:45:26, Thread-34: Customer 32 eating
+16:45:26, Thread-25: Customer 23 is leaving
+16:45:26, Thread-35: Customer 33 entering serving area
+16:45:26, Thread-35: Customer 33 eating
+16:45:27, Thread-26: Customer 24 is leaving
+16:45:27, Thread-36: Customer 34 entering serving area
+16:45:27, Thread-36: Customer 34 eating
+16:45:27, Thread-27: Customer 25 is leaving
+16:45:27, Thread-37: Customer 35 entering serving area
+16:45:27, Thread-37: Customer 35 eating
+16:45:27, Thread-28: Customer 26 is leaving
+16:45:27, Thread-38: Customer 36 entering serving area
+16:45:27, Thread-38: Customer 36 eating
+16:45:27, Thread-29: Customer 27 is leaving
+16:45:27, Thread-39: Customer 37 entering serving area
+16:45:27, Thread-39: Customer 37 eating
+16:45:27, Thread-30: Customer 28 is leaving
+16:45:27, Thread-40: Customer 38 entering serving area
+16:45:27, Thread-40: Customer 38 eating
+16:45:27, Thread-31: Customer 29 is leaving
+16:45:27, Thread-41: Customer 39 entering serving area
+16:45:27, Thread-41: Customer 39 eating
+16:45:27, Thread-32: Customer 30 is leaving
+16:45:27, Thread-42: Customer 40 entering serving area
+16:45:27, Thread-42: Customer 40 eating
+16:45:29, Thread-33: Customer 31 is leaving
+16:45:29, Thread-43: Customer 41 entering serving area
+16:45:29, Thread-43: Customer 41 eating
+16:45:29, Thread-34: Customer 32 is leaving
+16:45:29, Thread-44: Customer 42 entering serving area
+16:45:29, Thread-44: Customer 42 eating
+16:45:29, Thread-35: Customer 33 is leaving
+16:45:29, Thread-45: Customer 43 entering serving area
+16:45:29, Thread-45: Customer 43 eating
+16:45:30, Thread-36: Customer 34 is leaving
+16:45:30, Thread-46: Customer 44 entering serving area
+16:45:30, Thread-46: Customer 44 eating
+16:45:30, Thread-37: Customer 35 is leaving
+16:45:30, Thread-47: Customer 45 entering serving area
+16:45:30, Thread-47: Customer 45 eating
+16:45:30, Thread-38: Customer 36 is leaving
+16:45:30, Thread-48: Customer 46 entering serving area
+16:45:30, Thread-48: Customer 46 eating
+16:45:30, Thread-39: Customer 37 is leaving
+16:45:30, Thread-49: Customer 47 entering serving area
+16:45:30, Thread-49: Customer 47 eating
+16:45:30, Thread-40: Customer 38 is leaving
+16:45:30, Thread-50: Customer 48 entering serving area
+16:45:30, Thread-50: Customer 48 eating
+16:45:30, Thread-41: Customer 39 is leaving
+16:45:30, Thread-52: Customer 49 entering serving area
+16:45:30, Thread-52: Customer 49 eating
+16:46:15, Thread-1: Customer 1 is now created
+16:46:15, Thread-3: Customer 1 entering serving area
+16:46:15, Thread-3: Customer 1 eating
+16:46:16, Thread-1: Customer 2 is now created
+16:46:16, Thread-4: Customer 2 entering serving area
+16:46:16, Thread-4: Customer 2 eating
+16:46:16, Thread-1: Customer 3 is now created
+16:46:16, Thread-5: Customer 3 entering serving area
+16:46:16, Thread-5: Customer 3 eating
+16:46:16, Thread-1: Customer 4 is now created
+16:46:16, Thread-6: Customer 4 entering serving area
+16:46:16, Thread-6: Customer 4 eating
+16:46:16, Thread-1: Customer 5 is now created
+16:46:16, Thread-7: Customer 5 entering serving area
+16:46:16, Thread-7: Customer 5 eating
+16:46:16, Thread-1: Customer 6 is now created
+16:46:16, Thread-8: Customer 6 entering serving area
+16:46:16, Thread-8: Customer 6 eating
+16:46:16, Thread-1: Customer 7 is now created
+16:46:16, Thread-9: Customer 7 entering serving area
+16:46:16, Thread-9: Customer 7 eating
+16:46:16, Thread-1: Customer 8 is now created
+16:46:16, Thread-10: Customer 8 entering serving area
+16:46:16, Thread-10: Customer 8 eating
+16:46:16, Thread-1: Customer 9 is now created
+16:46:16, Thread-11: Customer 9 entering serving area
+16:46:16, Thread-11: Customer 9 eating
+16:46:16, Thread-1: Customer 10 is now created
+16:46:16, Thread-12: Customer 10 entering serving area
+16:46:16, Thread-12: Customer 10 eating
+16:46:17, Thread-1: Customer 11 is now created
+16:46:17, Thread-1: Customer 12 is now created
+16:46:17, Thread-1: Customer 13 is now created
+16:46:17, Thread-1: Customer 14 is now created
+16:46:17, Thread-1: Customer 15 is now created
+16:46:17, Thread-1: Customer 16 is now created
+16:46:17, Thread-1: Customer 17 is now created
+16:46:17, Thread-1: Customer 18 is now created
+16:46:17, Thread-1: Customer 19 is now created
+16:46:17, Thread-1: Customer 20 is now created
+16:46:18, Thread-1: Customer 21 is now created
+16:46:18, Thread-1: Customer 22 is now created
+16:46:18, Thread-1: Customer 23 is now created
+16:46:18, Thread-1: Customer 24 is now created
+16:46:18, Thread-1: Customer 25 is now created
+16:46:18, Thread-1: Customer 26 is now created
+16:46:18, Thread-1: Customer 27 is now created
+16:46:18, Thread-1: Customer 28 is now created
+16:46:18, Thread-1: Customer 29 is now created
+16:46:18, Thread-1: Customer 30 is now created
+16:46:18, Thread-3: Customer 1 is leaving
+16:46:18, Thread-13: Customer 11 entering serving area
+16:46:18, Thread-13: Customer 11 eating
+16:46:19, Thread-1: Customer 31 is now created
+16:46:19, Thread-4: Customer 2 is leaving
+16:46:19, Thread-14: Customer 12 entering serving area
+16:46:19, Thread-14: Customer 12 eating
+16:46:19, Thread-1: Customer 32 is now created
+16:46:19, Thread-5: Customer 3 is leaving
+16:46:19, Thread-15: Customer 13 entering serving area
+16:46:19, Thread-15: Customer 13 eating
+16:46:19, Thread-1: Customer 33 is now created
+16:46:19, Thread-6: Customer 4 is leaving
+16:46:19, Thread-16: Customer 14 entering serving area
+16:46:19, Thread-16: Customer 14 eating
+16:46:19, Thread-1: Customer 34 is now created
+16:46:19, Thread-7: Customer 5 is leaving
+16:46:19, Thread-17: Customer 15 entering serving area
+16:46:19, Thread-17: Customer 15 eating
+16:46:19, Thread-1: Customer 35 is now created
+16:46:19, Thread-8: Customer 6 is leaving
+16:46:19, Thread-18: Customer 16 entering serving area
+16:46:19, Thread-18: Customer 16 eating
+16:46:19, Thread-1: Customer 36 is now created
+16:46:19, Thread-9: Customer 7 is leaving
+16:46:19, Thread-19: Customer 17 entering serving area
+16:46:19, Thread-19: Customer 17 eating
+16:46:19, Thread-1: Customer 37 is now created
+16:46:19, Thread-10: Customer 8 is leaving
+16:46:19, Thread-20: Customer 18 entering serving area
+16:46:19, Thread-20: Customer 18 eating
+16:46:19, Thread-1: Customer 38 is now created
+16:46:19, Thread-11: Customer 9 is leaving
+16:46:19, Thread-21: Customer 19 entering serving area
+16:46:19, Thread-21: Customer 19 eating
+16:46:19, Thread-1: Customer 39 is now created
+16:46:19, Thread-12: Customer 10 is leaving
+16:46:19, Thread-22: Customer 20 entering serving area
+16:46:19, Thread-22: Customer 20 eating
+16:46:19, Thread-1: Customer 40 is now created
+16:46:20, Thread-1: Customer 41 is now created
+16:46:20, Thread-1: Customer 42 is now created
+16:46:20, Thread-1: Customer 43 is now created
+16:46:20, Thread-1: Customer 44 is now created
+16:46:20, Thread-1: Customer 45 is now created
+16:46:20, Thread-1: Customer 46 is now created
+16:46:20, Thread-1: Customer 47 is now created
+16:46:20, Thread-1: Customer 48 is now created
+16:46:20, Thread-1: Customer 49 is now created
+16:46:20, Thread-1: The door has closed
+16:46:21, Thread-13: Customer 11 is leaving
+16:46:21, Thread-23: Customer 21 entering serving area
+16:46:21, Thread-23: Customer 21 eating
+16:46:22, Thread-14: Customer 12 is leaving
+16:46:22, Thread-24: Customer 22 entering serving area
+16:46:22, Thread-24: Customer 22 eating
+16:46:22, Thread-15: Customer 13 is leaving
+16:46:22, Thread-25: Customer 23 entering serving area
+16:46:22, Thread-25: Customer 23 eating
+16:46:22, Thread-16: Customer 14 is leaving
+16:46:22, Thread-26: Customer 24 entering serving area
+16:46:22, Thread-26: Customer 24 eating
+16:46:22, Thread-17: Customer 15 is leaving
+16:46:22, Thread-27: Customer 25 entering serving area
+16:46:22, Thread-27: Customer 25 eating
+16:46:22, Thread-18: Customer 16 is leaving
+16:46:22, Thread-28: Customer 26 entering serving area
+16:46:22, Thread-28: Customer 26 eating
+16:46:22, Thread-19: Customer 17 is leaving
+16:46:22, Thread-29: Customer 27 entering serving area
+16:46:22, Thread-29: Customer 27 eating
+16:46:22, Thread-20: Customer 18 is leaving
+16:46:22, Thread-30: Customer 28 entering serving area
+16:46:22, Thread-30: Customer 28 eating
+16:46:22, Thread-21: Customer 19 is leaving
+16:46:22, Thread-31: Customer 29 entering serving area
+16:46:22, Thread-31: Customer 29 eating
+16:46:22, Thread-22: Customer 20 is leaving
+16:46:22, Thread-32: Customer 30 entering serving area
+16:46:22, Thread-32: Customer 30 eating
+16:46:24, Thread-23: Customer 21 is leaving
+16:46:24, Thread-33: Customer 31 entering serving area
+16:46:24, Thread-33: Customer 31 eating
+16:46:25, Thread-24: Customer 22 is leaving
+16:46:25, Thread-34: Customer 32 entering serving area
+16:46:25, Thread-34: Customer 32 eating
+16:46:25, Thread-25: Customer 23 is leaving
+16:46:25, Thread-35: Customer 33 entering serving area
+16:46:25, Thread-35: Customer 33 eating
+16:46:25, Thread-26: Customer 24 is leaving
+16:46:25, Thread-36: Customer 34 entering serving area
+16:46:25, Thread-36: Customer 34 eating
+16:46:25, Thread-27: Customer 25 is leaving
+16:46:25, Thread-37: Customer 35 entering serving area
+16:46:25, Thread-37: Customer 35 eating
+16:46:25, Thread-28: Customer 26 is leaving
+16:46:25, Thread-38: Customer 36 entering serving area
+16:46:25, Thread-38: Customer 36 eating
+16:46:25, Thread-29: Customer 27 is leaving
+16:46:25, Thread-39: Customer 37 entering serving area
+16:46:25, Thread-39: Customer 37 eating
+16:46:25, Thread-30: Customer 28 is leaving
+16:46:25, Thread-40: Customer 38 entering serving area
+16:46:25, Thread-40: Customer 38 eating
+16:46:25, Thread-31: Customer 29 is leaving
+16:46:25, Thread-41: Customer 39 entering serving area
+16:46:25, Thread-41: Customer 39 eating
+16:46:25, Thread-32: Customer 30 is leaving
+16:46:25, Thread-42: Customer 40 entering serving area
+16:46:25, Thread-42: Customer 40 eating
+16:46:28, Thread-33: Customer 31 is leaving
+16:46:28, Thread-43: Customer 41 entering serving area
+16:46:28, Thread-43: Customer 41 eating
+16:46:28, Thread-34: Customer 32 is leaving
+16:46:28, Thread-44: Customer 42 entering serving area
+16:46:28, Thread-44: Customer 42 eating
+16:46:28, Thread-35: Customer 33 is leaving
+16:46:28, Thread-45: Customer 43 entering serving area
+16:46:28, Thread-45: Customer 43 eating
+16:46:28, Thread-36: Customer 34 is leaving
+16:46:28, Thread-46: Customer 44 entering serving area
+16:46:28, Thread-46: Customer 44 eating
+16:46:28, Thread-37: Customer 35 is leaving
+16:46:28, Thread-47: Customer 45 entering serving area
+16:46:28, Thread-47: Customer 45 eating
+16:46:28, Thread-38: Customer 36 is leaving
+16:46:28, Thread-48: Customer 46 entering serving area
+16:46:28, Thread-48: Customer 46 eating
+16:46:28, Thread-39: Customer 37 is leaving
+16:46:28, Thread-49: Customer 47 entering serving area
+16:46:28, Thread-49: Customer 47 eating
+16:46:28, Thread-40: Customer 38 is leaving
+16:46:28, Thread-50: Customer 48 entering serving area
+16:46:28, Thread-50: Customer 48 eating
+16:46:28, Thread-41: Customer 39 is leaving
+16:46:28, Thread-52: Customer 49 entering serving area
+16:46:28, Thread-52: Customer 49 eating
+16:46:28, Thread-42: Customer 40 is leaving
+16:46:31, Thread-43: Customer 41 is leaving
+16:46:31, Thread-44: Customer 42 is leaving
+16:46:31, Thread-45: Customer 43 is leaving
+16:46:31, Thread-46: Customer 44 is leaving
+16:46:31, Thread-47: Customer 45 is leaving
+16:46:31, Thread-48: Customer 46 is leaving
+16:46:31, Thread-49: Customer 47 is leaving
+16:46:31, Thread-50: Customer 48 is leaving
+16:46:31, Thread-52: Customer 49 is leaving
+09:28:38, Thread-1: Customer 1 is now created
+09:28:38, Thread-1: Customer 2 is now created
+09:28:39, Thread-3: Customer 1 entering serving area
+09:28:39, Thread-4: Customer 2 entering serving area
+09:28:39, Thread-1: Customer 3 is now created
+09:28:39, Thread-4: Customer 2 eating
+09:28:39, Thread-3: Customer 1 eating
+09:28:39, Thread-5: Customer 3 entering serving area
+09:28:39, Thread-5: Customer 3 eating
+09:28:39, Thread-1: Customer 4 is now created
+09:28:39, Thread-6: Customer 4 entering serving area
+09:28:39, Thread-6: Customer 4 eating
+09:28:39, Thread-1: Customer 5 is now created
+09:28:39, Thread-7: Customer 5 entering serving area
+09:28:39, Thread-7: Customer 5 eating
+09:28:39, Thread-1: Customer 6 is now created
+09:28:39, Thread-8: Customer 6 entering serving area
+09:28:39, Thread-8: Customer 6 eating
+09:28:39, Thread-1: Customer 7 is now created
+09:28:39, Thread-9: Customer 7 entering serving area
+09:28:39, Thread-9: Customer 7 eating
+09:28:39, Thread-1: Customer 8 is now created
+09:28:39, Thread-10: Customer 8 entering serving area
+09:28:39, Thread-10: Customer 8 eating
+09:28:39, Thread-1: Customer 9 is now created
+09:28:39, Thread-11: Customer 9 entering serving area
+09:28:39, Thread-1: Customer 10 is now created
+09:28:39, Thread-11: Customer 9 eating
+09:28:39, Thread-12: Customer 10 entering serving area
+09:28:39, Thread-12: Customer 10 eating
+09:28:39, Thread-1: Customer 11 is now created
+09:28:39, Thread-1: Customer 12 is now created
+09:28:39, Thread-1: Customer 13 is now created
+09:28:39, Thread-1: Customer 14 is now created
+09:28:39, Thread-1: Customer 15 is now created
+09:28:39, Thread-1: Customer 16 is now created
+09:28:39, Thread-1: Customer 17 is now created
+09:28:39, Thread-1: Customer 18 is now created
+09:28:39, Thread-1: Customer 19 is now created
+09:28:39, Thread-1: Customer 20 is now created
+09:28:39, Thread-1: Customer 21 is now created
+09:28:39, Thread-1: Customer 22 is now created
+09:28:39, Thread-1: Customer 23 is now created
+09:28:39, Thread-1: Customer 24 is now created
+09:28:39, Thread-1: Customer 25 is now created
+09:28:39, Thread-1: Customer 26 is now created
+09:28:39, Thread-1: Customer 27 is now created
+09:28:39, Thread-1: Customer 28 is now created
+09:28:39, Thread-1: Customer 29 is now created
+09:28:39, Thread-1: Customer 30 is now created
+09:28:39, Thread-1: Customer 31 is now created
+09:28:39, Thread-1: Customer 32 is now created
+09:28:39, Thread-1: Customer 33 is now created
+09:28:39, Thread-1: Customer 34 is now created
+09:28:39, Thread-1: Customer 35 is now created
+09:28:39, Thread-1: Customer 36 is now created
+09:28:39, Thread-1: Customer 37 is now created
+09:28:39, Thread-1: Customer 38 is now created
+09:28:39, Thread-1: Customer 39 is now created
+09:28:39, Thread-1: Customer 40 is now created
+09:28:39, Thread-1: Customer 41 is now created
+09:28:39, Thread-1: Customer 42 is now created
+09:28:39, Thread-1: Customer 43 is now created
+09:28:39, Thread-1: Customer 44 is now created
+09:28:39, Thread-1: Customer 45 is now created
+09:28:39, Thread-1: Customer 46 is now created
+09:28:39, Thread-1: Customer 47 is now created
+09:28:39, Thread-1: Customer 48 is now created
+09:28:39, Thread-1: Customer 49 is now created
+09:28:39, Thread-1: Customer 50 is now created
+09:28:39, Thread-1: Customer 51 is now created
+09:28:39, Thread-1: Customer 52 is now created
+09:28:39, Thread-1: Customer 53 is now created
+09:28:39, Thread-1: Customer 54 is now created
+09:28:39, Thread-1: Customer 55 is now created
+09:28:39, Thread-1: Customer 56 is now created
+09:28:39, Thread-1: Customer 57 is now created
+09:28:39, Thread-1: Customer 58 is now created
+09:28:39, Thread-1: Customer 59 is now created
+09:28:39, Thread-1: Customer 60 is now created
+09:28:39, Thread-1: Customer 61 is now created
+09:28:39, Thread-1: Customer 62 is now created
+09:28:39, Thread-1: Customer 63 is now created
+09:28:39, Thread-1: Customer 64 is now created
+09:28:39, Thread-1: Customer 65 is now created
+09:28:39, Thread-1: Customer 66 is now created
+09:28:39, Thread-1: Customer 67 is now created
+09:28:39, Thread-1: Customer 68 is now created
+09:28:39, Thread-1: Customer 69 is now created
+09:28:39, Thread-1: Customer 70 is now created
+09:28:39, Thread-1: Customer 71 is now created
+09:28:39, Thread-1: Customer 72 is now created
+09:28:39, Thread-1: Customer 73 is now created
+09:28:39, Thread-1: Customer 74 is now created
+09:28:39, Thread-1: Customer 75 is now created
+09:28:39, Thread-1: Customer 76 is now created
+09:28:39, Thread-1: Customer 77 is now created
+09:28:39, Thread-1: Customer 78 is now created
+09:28:39, Thread-1: Customer 79 is now created
+09:28:39, Thread-1: Customer 80 is now created
+09:28:39, Thread-1: Customer 81 is now created
+09:28:39, Thread-1: Customer 82 is now created
+09:28:40, Thread-1: Customer 83 is now created
+09:28:40, Thread-1: Customer 84 is now created
+09:28:40, Thread-1: Customer 85 is now created
+09:28:40, Thread-1: Customer 86 is now created
+09:28:40, Thread-1: Customer 87 is now created
+09:28:40, Thread-1: Customer 88 is now created
+09:28:40, Thread-1: Customer 89 is now created
+09:28:40, Thread-1: Customer 90 is now created
+09:28:40, Thread-1: Customer 91 is now created
+09:28:40, Thread-1: Customer 92 is now created
+09:28:40, Thread-1: Customer 93 is now created
+09:28:40, Thread-1: Customer 94 is now created
+09:28:40, Thread-1: Customer 95 is now created
+09:28:40, Thread-1: Customer 96 is now created
+09:28:40, Thread-1: Customer 97 is now created
+09:28:40, Thread-1: Customer 98 is now created
+09:28:40, Thread-1: Customer 99 is now created
+09:28:40, Thread-1: Customer 100 is now created
+09:28:40, Thread-1: Customer 101 is now created
+09:28:40, Thread-1: Customer 102 is now created
+09:28:40, Thread-1: Customer 103 is now created
+09:28:40, Thread-1: Customer 104 is now created
+09:28:40, Thread-1: Customer 105 is now created
+09:28:40, Thread-1: Customer 106 is now created
+09:28:40, Thread-1: Customer 107 is now created
+09:28:40, Thread-1: Customer 108 is now created
+09:28:40, Thread-1: Customer 109 is now created
+09:28:40, Thread-1: Customer 110 is now created
+09:28:40, Thread-1: Customer 111 is now created
+09:28:40, Thread-1: Customer 112 is now created
+09:28:40, Thread-1: Customer 113 is now created
+09:28:40, Thread-1: Customer 114 is now created
+09:28:40, Thread-1: Customer 115 is now created
+09:28:40, Thread-1: Customer 116 is now created
+09:28:40, Thread-1: Customer 117 is now created
+09:28:40, Thread-1: Customer 118 is now created
+09:28:40, Thread-1: Customer 119 is now created
+09:28:40, Thread-1: Customer 120 is now created
+09:28:40, Thread-1: Customer 121 is now created
+09:28:40, Thread-1: Customer 122 is now created
+09:28:40, Thread-1: Customer 123 is now created
+09:28:40, Thread-1: Customer 124 is now created
+09:28:40, Thread-1: Customer 125 is now created
+09:28:40, Thread-1: Customer 126 is now created
+09:28:40, Thread-1: Customer 127 is now created
+09:28:40, Thread-1: Customer 128 is now created
+09:28:40, Thread-1: Customer 129 is now created
+09:28:40, Thread-1: Customer 130 is now created
+09:28:40, Thread-1: Customer 131 is now created
+09:28:40, Thread-1: Customer 132 is now created
+09:28:40, Thread-1: Customer 133 is now created
+09:28:40, Thread-1: Customer 134 is now created
+09:28:40, Thread-1: Customer 135 is now created
+09:28:40, Thread-1: Customer 136 is now created
+09:28:40, Thread-1: Customer 137 is now created
+09:28:40, Thread-1: Customer 138 is now created
+09:28:40, Thread-1: Customer 139 is now created
+09:28:40, Thread-1: Customer 140 is now created
+09:28:40, Thread-1: Customer 141 is now created
+09:28:40, Thread-1: Customer 142 is now created
+09:28:40, Thread-1: Customer 143 is now created
+09:28:40, Thread-1: Customer 144 is now created
+09:28:40, Thread-1: Customer 145 is now created
+09:28:40, Thread-1: Customer 146 is now created
+09:28:40, Thread-1: Customer 147 is now created
+09:28:40, Thread-1: Customer 148 is now created
+09:28:40, Thread-1: Customer 149 is now created
+09:28:40, Thread-1: Customer 150 is now created
+09:28:40, Thread-1: Customer 151 is now created
+09:28:40, Thread-1: Customer 152 is now created
+09:28:40, Thread-1: Customer 153 is now created
+09:28:40, Thread-1: Customer 154 is now created
+09:28:40, Thread-1: Customer 155 is now created
+09:28:40, Thread-1: Customer 156 is now created
+09:28:40, Thread-1: Customer 157 is now created
+09:28:40, Thread-1: Customer 158 is now created
+09:28:40, Thread-1: Customer 159 is now created
+09:28:40, Thread-1: Customer 160 is now created
+09:28:40, Thread-1: Customer 161 is now created
+09:28:40, Thread-1: Customer 162 is now created
+09:28:40, Thread-1: The door has closed
+09:28:42, Thread-3: Customer 1 is leaving
+09:28:42, Thread-4: Customer 2 is leaving
+09:28:42, Thread-13: Customer 11 entering serving area
+09:28:42, Thread-13: Customer 11 eating
+09:28:42, Thread-5: Customer 3 is leaving
+09:28:42, Thread-14: Customer 12 entering serving area
+09:28:42, Thread-14: Customer 12 eating
+09:28:42, Thread-6: Customer 4 is leaving
+09:28:42, Thread-15: Customer 13 entering serving area
+09:28:42, Thread-15: Customer 13 eating
+09:28:42, Thread-7: Customer 5 is leaving
+09:28:42, Thread-16: Customer 14 entering serving area
+09:28:42, Thread-16: Customer 14 eating
+09:28:42, Thread-8: Customer 6 is leaving
+09:28:42, Thread-17: Customer 15 entering serving area
+09:28:42, Thread-17: Customer 15 eating
+09:28:42, Thread-9: Customer 7 is leaving
+09:28:42, Thread-18: Customer 16 entering serving area
+09:28:42, Thread-18: Customer 16 eating
+09:28:42, Thread-10: Customer 8 is leaving
+09:28:42, Thread-19: Customer 17 entering serving area
+09:28:42, Thread-19: Customer 17 eating
+09:28:42, Thread-11: Customer 9 is leaving
+09:28:42, Thread-20: Customer 18 entering serving area
+09:28:42, Thread-20: Customer 18 eating
+09:28:42, Thread-12: Customer 10 is leaving
+09:28:42, Thread-21: Customer 19 entering serving area
+09:28:42, Thread-21: Customer 19 eating
+09:28:45, Thread-13: Customer 11 is leaving
+09:28:45, Thread-22: Customer 20 entering serving area
+09:28:45, Thread-22: Customer 20 eating
+09:28:45, Thread-14: Customer 12 is leaving
+09:28:45, Thread-23: Customer 21 entering serving area
+09:28:45, Thread-23: Customer 21 eating
+09:28:45, Thread-15: Customer 13 is leaving
+09:28:45, Thread-24: Customer 22 entering serving area
+09:28:45, Thread-24: Customer 22 eating
+09:28:45, Thread-16: Customer 14 is leaving
+09:28:45, Thread-25: Customer 23 entering serving area
+09:28:45, Thread-25: Customer 23 eating
+09:28:45, Thread-17: Customer 15 is leaving
+09:28:45, Thread-26: Customer 24 entering serving area
+09:28:45, Thread-26: Customer 24 eating
+09:28:45, Thread-18: Customer 16 is leaving
+09:28:45, Thread-27: Customer 25 entering serving area
+09:28:45, Thread-27: Customer 25 eating
+09:28:45, Thread-19: Customer 17 is leaving
+09:28:45, Thread-28: Customer 26 entering serving area
+09:28:45, Thread-28: Customer 26 eating
+09:28:45, Thread-20: Customer 18 is leaving
+09:28:45, Thread-29: Customer 27 entering serving area
+09:28:45, Thread-29: Customer 27 eating
+09:28:45, Thread-21: Customer 19 is leaving
+09:28:45, Thread-30: Customer 28 entering serving area
+09:28:45, Thread-30: Customer 28 eating
+09:28:48, Thread-22: Customer 20 is leaving
+09:28:48, Thread-31: Customer 29 entering serving area
+09:28:48, Thread-31: Customer 29 eating
+09:28:48, Thread-23: Customer 21 is leaving
+09:28:48, Thread-32: Customer 30 entering serving area
+09:28:48, Thread-32: Customer 30 eating
+09:28:48, Thread-24: Customer 22 is leaving
+09:28:48, Thread-33: Customer 31 entering serving area
+09:28:48, Thread-33: Customer 31 eating
+09:28:48, Thread-25: Customer 23 is leaving
+09:28:48, Thread-34: Customer 32 entering serving area
+09:28:48, Thread-34: Customer 32 eating
+09:28:48, Thread-26: Customer 24 is leaving
+09:28:48, Thread-35: Customer 33 entering serving area
+09:28:48, Thread-35: Customer 33 eating
+09:28:48, Thread-27: Customer 25 is leaving
+09:28:48, Thread-36: Customer 34 entering serving area
+09:28:48, Thread-28: Customer 26 is leaving
+09:28:48, Thread-37: Customer 35 entering serving area
+09:28:48, Thread-36: Customer 34 eating
+09:28:48, Thread-37: Customer 35 eating
+09:28:48, Thread-29: Customer 27 is leaving
+09:28:48, Thread-38: Customer 36 entering serving area
+09:28:48, Thread-38: Customer 36 eating
+09:28:48, Thread-30: Customer 28 is leaving
+09:28:48, Thread-39: Customer 37 entering serving area
+09:28:48, Thread-39: Customer 37 eating
+09:28:51, Thread-31: Customer 29 is leaving
+09:28:51, Thread-40: Customer 38 entering serving area
+09:28:51, Thread-40: Customer 38 eating
+09:28:51, Thread-32: Customer 30 is leaving
+09:28:51, Thread-41: Customer 39 entering serving area
+09:28:51, Thread-41: Customer 39 eating
+09:28:51, Thread-33: Customer 31 is leaving
+09:28:51, Thread-42: Customer 40 entering serving area
+09:28:51, Thread-42: Customer 40 eating
+09:28:51, Thread-34: Customer 32 is leaving
+09:28:51, Thread-43: Customer 41 entering serving area
+09:28:51, Thread-43: Customer 41 eating
+09:28:51, Thread-35: Customer 33 is leaving
+09:28:51, Thread-44: Customer 42 entering serving area
+09:28:51, Thread-44: Customer 42 eating
+09:28:51, Thread-36: Customer 34 is leaving
+09:28:51, Thread-45: Customer 43 entering serving area
+09:28:51, Thread-45: Customer 43 eating
+09:28:51, Thread-37: Customer 35 is leaving
+09:28:51, Thread-46: Customer 44 entering serving area
+09:28:51, Thread-46: Customer 44 eating
+09:28:51, Thread-38: Customer 36 is leaving
+09:28:51, Thread-47: Customer 45 entering serving area
+09:28:51, Thread-47: Customer 45 eating
+09:28:51, Thread-39: Customer 37 is leaving
+09:28:51, Thread-48: Customer 46 entering serving area
+09:28:51, Thread-48: Customer 46 eating
+09:28:54, Thread-40: Customer 38 is leaving
+09:28:54, Thread-49: Customer 47 entering serving area
+09:28:54, Thread-49: Customer 47 eating
+09:28:54, Thread-41: Customer 39 is leaving
+09:28:54, Thread-50: Customer 48 entering serving area
+09:28:54, Thread-50: Customer 48 eating
+09:28:54, Thread-42: Customer 40 is leaving
+09:28:54, Thread-51: Customer 49 entering serving area
+09:28:54, Thread-51: Customer 49 eating
+09:28:54, Thread-43: Customer 41 is leaving
+09:28:54, Thread-52: Customer 50 entering serving area
+09:28:54, Thread-52: Customer 50 eating
+09:28:54, Thread-44: Customer 42 is leaving
+09:28:54, Thread-53: Customer 51 entering serving area
+09:28:54, Thread-53: Customer 51 eating
+09:28:54, Thread-46: Customer 44 is leaving
+09:28:54, Thread-45: Customer 43 is leaving
+09:28:54, Thread-54: Customer 52 entering serving area
+09:28:54, Thread-54: Customer 52 eating
+09:28:54, Thread-47: Customer 45 is leaving
+09:28:54, Thread-55: Customer 53 entering serving area
+09:28:54, Thread-55: Customer 53 eating
+09:28:54, Thread-48: Customer 46 is leaving
+09:28:54, Thread-56: Customer 54 entering serving area
+09:28:54, Thread-56: Customer 54 eating
+09:28:57, Thread-49: Customer 47 is leaving
+09:28:57, Thread-57: Customer 55 entering serving area
+09:28:57, Thread-57: Customer 55 eating
+09:28:57, Thread-50: Customer 48 is leaving
+09:28:57, Thread-58: Customer 56 entering serving area
+09:28:57, Thread-58: Customer 56 eating
+09:28:57, Thread-51: Customer 49 is leaving
+09:28:57, Thread-59: Customer 57 entering serving area
+09:28:57, Thread-59: Customer 57 eating
+09:28:57, Thread-52: Customer 50 is leaving
+09:28:57, Thread-60: Customer 58 entering serving area
+09:28:57, Thread-60: Customer 58 eating
+09:28:57, Thread-53: Customer 51 is leaving
+09:28:57, Thread-61: Customer 59 entering serving area
+09:28:57, Thread-61: Customer 59 eating
+09:28:57, Thread-54: Customer 52 is leaving
+09:28:57, Thread-62: Customer 60 entering serving area
+09:28:57, Thread-62: Customer 60 eating
+09:28:57, Thread-55: Customer 53 is leaving
+09:28:57, Thread-63: Customer 61 entering serving area
+09:28:57, Thread-63: Customer 61 eating
+09:28:57, Thread-56: Customer 54 is leaving
+09:28:57, Thread-64: Customer 62 entering serving area
+09:28:57, Thread-64: Customer 62 eating
+09:29:00, Thread-57: Customer 55 is leaving
+09:29:00, Thread-65: Customer 63 entering serving area
+09:29:00, Thread-65: Customer 63 eating
+09:29:00, Thread-58: Customer 56 is leaving
+09:29:00, Thread-66: Customer 64 entering serving area
+09:29:00, Thread-66: Customer 64 eating
+09:29:00, Thread-59: Customer 57 is leaving
+09:29:00, Thread-67: Customer 65 entering serving area
+09:29:00, Thread-67: Customer 65 eating
+09:29:00, Thread-60: Customer 58 is leaving
+09:29:00, Thread-68: Customer 66 entering serving area
+09:29:00, Thread-68: Customer 66 eating
+09:29:00, Thread-61: Customer 59 is leaving
+09:29:00, Thread-69: Customer 67 entering serving area
+09:29:00, Thread-69: Customer 67 eating
+09:29:00, Thread-62: Customer 60 is leaving
+09:29:00, Thread-70: Customer 68 entering serving area
+09:29:00, Thread-70: Customer 68 eating
+09:29:00, Thread-63: Customer 61 is leaving
+09:29:00, Thread-71: Customer 69 entering serving area
+09:29:00, Thread-71: Customer 69 eating
+09:29:00, Thread-64: Customer 62 is leaving
+09:29:00, Thread-72: Customer 70 entering serving area
+09:29:00, Thread-72: Customer 70 eating
+09:29:03, Thread-65: Customer 63 is leaving
+09:29:03, Thread-73: Customer 71 entering serving area
+09:29:03, Thread-73: Customer 71 eating
+09:29:03, Thread-66: Customer 64 is leaving
+09:29:03, Thread-74: Customer 72 entering serving area
+09:29:03, Thread-74: Customer 72 eating
+09:29:03, Thread-67: Customer 65 is leaving
+09:29:03, Thread-75: Customer 73 entering serving area
+09:29:03, Thread-68: Customer 66 is leaving
+09:29:03, Thread-75: Customer 73 eating
+09:29:03, Thread-76: Customer 74 entering serving area
+09:29:03, Thread-69: Customer 67 is leaving
+09:29:03, Thread-77: Customer 75 entering serving area
+09:29:03, Thread-76: Customer 74 eating
+09:29:03, Thread-77: Customer 75 eating
+09:29:03, Thread-70: Customer 68 is leaving
+09:29:03, Thread-78: Customer 76 entering serving area
+09:29:03, Thread-78: Customer 76 eating
+09:29:03, Thread-71: Customer 69 is leaving
+09:29:03, Thread-79: Customer 77 entering serving area
+09:29:03, Thread-79: Customer 77 eating
+09:29:03, Thread-72: Customer 70 is leaving
+09:29:03, Thread-80: Customer 78 entering serving area
+09:29:03, Thread-80: Customer 78 eating
+09:29:06, Thread-73: Customer 71 is leaving
+09:29:06, Thread-81: Customer 79 entering serving area
+09:29:06, Thread-81: Customer 79 eating
+09:29:06, Thread-74: Customer 72 is leaving
+09:29:06, Thread-82: Customer 80 entering serving area
+09:29:06, Thread-82: Customer 80 eating
+09:29:06, Thread-75: Customer 73 is leaving
+09:29:06, Thread-83: Customer 81 entering serving area
+09:29:06, Thread-83: Customer 81 eating
+09:29:06, Thread-76: Customer 74 is leaving
+09:29:06, Thread-77: Customer 75 is leaving
+09:29:06, Thread-84: Customer 82 entering serving area
+09:29:06, Thread-84: Customer 82 eating
+09:29:06, Thread-78: Customer 76 is leaving
+09:29:06, Thread-85: Customer 83 entering serving area
+09:29:06, Thread-85: Customer 83 eating
+09:29:06, Thread-79: Customer 77 is leaving
+09:29:06, Thread-86: Customer 84 entering serving area
+09:29:06, Thread-86: Customer 84 eating
+09:29:06, Thread-80: Customer 78 is leaving
+09:29:06, Thread-87: Customer 85 entering serving area
+09:29:06, Thread-87: Customer 85 eating
+09:29:09, Thread-81: Customer 79 is leaving
+09:29:09, Thread-88: Customer 86 entering serving area
+09:29:09, Thread-88: Customer 86 eating
+09:29:09, Thread-82: Customer 80 is leaving
+09:29:09, Thread-89: Customer 87 entering serving area
+09:29:09, Thread-89: Customer 87 eating
+09:29:09, Thread-83: Customer 81 is leaving
+09:29:09, Thread-90: Customer 88 entering serving area
+09:29:09, Thread-90: Customer 88 eating
+09:29:09, Thread-84: Customer 82 is leaving
+09:29:09, Thread-91: Customer 89 entering serving area
+09:29:09, Thread-91: Customer 89 eating
+09:29:09, Thread-85: Customer 83 is leaving
+09:29:09, Thread-92: Customer 90 entering serving area
+09:29:09, Thread-92: Customer 90 eating
+09:29:09, Thread-86: Customer 84 is leaving
+09:29:09, Thread-93: Customer 91 entering serving area
+09:29:09, Thread-93: Customer 91 eating
+09:29:09, Thread-87: Customer 85 is leaving
+09:29:09, Thread-94: Customer 92 entering serving area
+09:29:09, Thread-94: Customer 92 eating
+09:29:12, Thread-88: Customer 86 is leaving
+09:29:12, Thread-95: Customer 93 entering serving area
+09:29:12, Thread-95: Customer 93 eating
+09:29:12, Thread-89: Customer 87 is leaving
+09:29:12, Thread-96: Customer 94 entering serving area
+09:29:12, Thread-96: Customer 94 eating
+09:29:12, Thread-90: Customer 88 is leaving
+09:29:12, Thread-97: Customer 95 entering serving area
+09:29:12, Thread-97: Customer 95 eating
+09:29:12, Thread-91: Customer 89 is leaving
+09:29:12, Thread-98: Customer 96 entering serving area
+09:29:12, Thread-98: Customer 96 eating
+09:29:12, Thread-92: Customer 90 is leaving
+09:29:12, Thread-99: Customer 97 entering serving area
+09:29:12, Thread-99: Customer 97 eating
+09:29:12, Thread-93: Customer 91 is leaving
+09:29:12, Thread-100: Customer 98 entering serving area
+09:29:12, Thread-100: Customer 98 eating
+09:29:12, Thread-94: Customer 92 is leaving
+09:29:12, Thread-101: Customer 99 entering serving area
+09:29:12, Thread-101: Customer 99 eating
+09:29:15, Thread-95: Customer 93 is leaving
+09:29:15, Thread-102: Customer 100 entering serving area
+09:29:15, Thread-102: Customer 100 eating
+09:29:15, Thread-96: Customer 94 is leaving
+09:29:15, Thread-103: Customer 101 entering serving area
+09:29:15, Thread-103: Customer 101 eating
+09:29:15, Thread-97: Customer 95 is leaving
+09:29:15, Thread-104: Customer 102 entering serving area
+09:29:15, Thread-104: Customer 102 eating
+09:29:15, Thread-98: Customer 96 is leaving
+09:29:15, Thread-105: Customer 103 entering serving area
+09:29:15, Thread-105: Customer 103 eating
+09:29:15, Thread-99: Customer 97 is leaving
+09:29:15, Thread-106: Customer 104 entering serving area
+09:29:15, Thread-106: Customer 104 eating
+09:29:15, Thread-100: Customer 98 is leaving
+09:29:15, Thread-107: Customer 105 entering serving area
+09:29:15, Thread-107: Customer 105 eating
+09:29:15, Thread-101: Customer 99 is leaving
+09:29:15, Thread-108: Customer 106 entering serving area
+09:29:15, Thread-108: Customer 106 eating
+09:29:18, Thread-102: Customer 100 is leaving
+09:29:18, Thread-109: Customer 107 entering serving area
+09:29:18, Thread-109: Customer 107 eating
+09:29:18, Thread-103: Customer 101 is leaving
+09:29:18, Thread-110: Customer 108 entering serving area
+09:29:18, Thread-110: Customer 108 eating
+09:29:18, Thread-104: Customer 102 is leaving
+09:29:18, Thread-111: Customer 109 entering serving area
+09:29:18, Thread-111: Customer 109 eating
+09:29:18, Thread-105: Customer 103 is leaving
+09:29:18, Thread-112: Customer 110 entering serving area
+09:29:18, Thread-112: Customer 110 eating
+09:29:18, Thread-106: Customer 104 is leaving
+09:29:18, Thread-113: Customer 111 entering serving area
+09:29:18, Thread-113: Customer 111 eating
+09:29:18, Thread-107: Customer 105 is leaving
+09:29:18, Thread-114: Customer 112 entering serving area
+09:29:18, Thread-114: Customer 112 eating
+09:29:18, Thread-108: Customer 106 is leaving
+09:29:18, Thread-115: Customer 113 entering serving area
+09:29:18, Thread-115: Customer 113 eating
+09:29:21, Thread-109: Customer 107 is leaving
+09:29:21, Thread-116: Customer 114 entering serving area
+09:29:21, Thread-116: Customer 114 eating
+09:29:21, Thread-110: Customer 108 is leaving
+09:29:21, Thread-117: Customer 115 entering serving area
+09:29:21, Thread-117: Customer 115 eating
+09:29:21, Thread-111: Customer 109 is leaving
+09:29:21, Thread-118: Customer 116 entering serving area
+09:29:21, Thread-118: Customer 116 eating
+09:29:21, Thread-119: Customer 117 entering serving area
+09:29:21, Thread-112: Customer 110 is leaving
+09:29:21, Thread-119: Customer 117 eating
+09:29:21, Thread-113: Customer 111 is leaving
+09:29:21, Thread-120: Customer 118 entering serving area
+09:29:21, Thread-120: Customer 118 eating
+09:29:21, Thread-114: Customer 112 is leaving
+09:29:21, Thread-121: Customer 119 entering serving area
+09:29:21, Thread-121: Customer 119 eating
+09:29:21, Thread-115: Customer 113 is leaving
+09:29:21, Thread-122: Customer 120 entering serving area
+09:29:21, Thread-122: Customer 120 eating
+09:29:24, Thread-116: Customer 114 is leaving
+09:29:24, Thread-123: Customer 121 entering serving area
+09:29:24, Thread-123: Customer 121 eating
+09:29:24, Thread-117: Customer 115 is leaving
+09:29:24, Thread-124: Customer 122 entering serving area
+09:29:24, Thread-124: Customer 122 eating
+09:29:24, Thread-118: Customer 116 is leaving
+09:29:24, Thread-125: Customer 123 entering serving area
+09:29:24, Thread-125: Customer 123 eating
+09:29:24, Thread-119: Customer 117 is leaving
+09:29:24, Thread-126: Customer 124 entering serving area
+09:29:24, Thread-126: Customer 124 eating
+09:29:24, Thread-120: Customer 118 is leaving
+09:29:24, Thread-127: Customer 125 entering serving area
+09:29:24, Thread-127: Customer 125 eating
+09:29:24, Thread-121: Customer 119 is leaving
+09:29:24, Thread-128: Customer 126 entering serving area
+09:29:24, Thread-128: Customer 126 eating
+09:29:24, Thread-122: Customer 120 is leaving
+09:29:24, Thread-129: Customer 127 entering serving area
+09:29:24, Thread-129: Customer 127 eating
+09:29:27, Thread-123: Customer 121 is leaving
+09:29:27, Thread-130: Customer 128 entering serving area
+09:29:27, Thread-130: Customer 128 eating
+09:29:27, Thread-124: Customer 122 is leaving
+09:29:27, Thread-131: Customer 129 entering serving area
+09:29:27, Thread-131: Customer 129 eating
+09:29:27, Thread-125: Customer 123 is leaving
+09:29:27, Thread-132: Customer 130 entering serving area
+09:29:27, Thread-132: Customer 130 eating
+09:29:27, Thread-126: Customer 124 is leaving
+09:29:27, Thread-133: Customer 131 entering serving area
+09:29:27, Thread-133: Customer 131 eating
+09:29:27, Thread-127: Customer 125 is leaving
+09:29:27, Thread-134: Customer 132 entering serving area
+09:29:27, Thread-134: Customer 132 eating
+09:29:27, Thread-128: Customer 126 is leaving
+09:29:27, Thread-135: Customer 133 entering serving area
+09:29:27, Thread-135: Customer 133 eating
+09:29:27, Thread-129: Customer 127 is leaving
+09:29:27, Thread-136: Customer 134 entering serving area
+09:29:27, Thread-136: Customer 134 eating
+09:29:30, Thread-130: Customer 128 is leaving
+09:29:30, Thread-137: Customer 135 entering serving area
+09:29:30, Thread-137: Customer 135 eating
+09:29:30, Thread-131: Customer 129 is leaving
+09:29:30, Thread-138: Customer 136 entering serving area
+09:29:30, Thread-138: Customer 136 eating
+09:29:30, Thread-132: Customer 130 is leaving
+09:29:30, Thread-139: Customer 137 entering serving area
+09:29:30, Thread-139: Customer 137 eating
+09:29:30, Thread-133: Customer 131 is leaving
+09:29:30, Thread-140: Customer 138 entering serving area
+09:29:30, Thread-140: Customer 138 eating
+09:29:30, Thread-134: Customer 132 is leaving
+09:29:30, Thread-141: Customer 139 entering serving area
+09:29:30, Thread-141: Customer 139 eating
+09:29:30, Thread-135: Customer 133 is leaving
+09:29:30, Thread-142: Customer 140 entering serving area
+09:29:30, Thread-142: Customer 140 eating
+09:29:30, Thread-136: Customer 134 is leaving
+09:29:30, Thread-143: Customer 141 entering serving area
+09:29:30, Thread-143: Customer 141 eating
+09:29:33, Thread-137: Customer 135 is leaving
+09:29:33, Thread-144: Customer 142 entering serving area
+09:29:33, Thread-144: Customer 142 eating
+09:29:33, Thread-138: Customer 136 is leaving
+09:29:33, Thread-145: Customer 143 entering serving area
+09:29:33, Thread-145: Customer 143 eating
+09:29:33, Thread-139: Customer 137 is leaving
+09:29:33, Thread-146: Customer 144 entering serving area
+09:29:33, Thread-146: Customer 144 eating
+09:29:33, Thread-140: Customer 138 is leaving
+09:29:33, Thread-147: Customer 145 entering serving area
+09:29:33, Thread-147: Customer 145 eating
+09:29:33, Thread-141: Customer 139 is leaving
+09:29:33, Thread-148: Customer 146 entering serving area
+09:29:33, Thread-148: Customer 146 eating
+09:29:33, Thread-142: Customer 140 is leaving
+09:29:33, Thread-149: Customer 147 entering serving area
+09:29:33, Thread-149: Customer 147 eating
+09:29:33, Thread-143: Customer 141 is leaving
+09:29:33, Thread-150: Customer 148 entering serving area
+09:29:33, Thread-150: Customer 148 eating
+09:29:36, Thread-144: Customer 142 is leaving
+09:29:36, Thread-151: Customer 149 entering serving area
+09:29:36, Thread-151: Customer 149 eating
+09:29:36, Thread-145: Customer 143 is leaving
+09:29:36, Thread-152: Customer 150 entering serving area
+09:29:36, Thread-152: Customer 150 eating
+09:29:36, Thread-146: Customer 144 is leaving
+09:29:36, Thread-153: Customer 151 entering serving area
+09:29:36, Thread-153: Customer 151 eating
+09:29:36, Thread-147: Customer 145 is leaving
+09:29:36, Thread-154: Customer 152 entering serving area
+09:29:36, Thread-154: Customer 152 eating
+09:29:36, Thread-148: Customer 146 is leaving
+09:29:36, Thread-155: Customer 153 entering serving area
+09:29:36, Thread-155: Customer 153 eating
+09:29:36, Thread-149: Customer 147 is leaving
+09:29:36, Thread-156: Customer 154 entering serving area
+09:29:36, Thread-156: Customer 154 eating
+09:29:36, Thread-150: Customer 148 is leaving
+09:29:36, Thread-157: Customer 155 entering serving area
+09:29:36, Thread-157: Customer 155 eating
+09:29:39, Thread-151: Customer 149 is leaving
+09:29:39, Thread-158: Customer 156 entering serving area
+09:29:39, Thread-158: Customer 156 eating
+09:29:39, Thread-152: Customer 150 is leaving
+09:29:39, Thread-159: Customer 157 entering serving area
+09:29:39, Thread-159: Customer 157 eating
+09:29:39, Thread-153: Customer 151 is leaving
+09:29:39, Thread-160: Customer 158 entering serving area
+09:29:39, Thread-160: Customer 158 eating
+09:29:39, Thread-154: Customer 152 is leaving
+09:29:39, Thread-161: Customer 159 entering serving area
+09:29:39, Thread-161: Customer 159 eating
+09:29:39, Thread-155: Customer 153 is leaving
+09:29:39, Thread-162: Customer 160 entering serving area
+09:29:39, Thread-162: Customer 160 eating
+09:29:39, Thread-156: Customer 154 is leaving
+09:29:39, Thread-163: Customer 161 entering serving area
+09:29:39, Thread-163: Customer 161 eating
+09:29:39, Thread-157: Customer 155 is leaving
+09:29:39, Thread-164: Customer 162 entering serving area
+09:29:39, Thread-164: Customer 162 eating
+09:29:42, Thread-158: Customer 156 is leaving
+09:29:42, Thread-159: Customer 157 is leaving
+09:29:42, Thread-160: Customer 158 is leaving
+09:29:42, Thread-161: Customer 159 is leaving
+09:29:42, Thread-162: Customer 160 is leaving
+09:29:42, Thread-163: Customer 161 is leaving
+09:29:42, Thread-164: Customer 162 is leaving
+09:30:35, Thread-1: Customer 1 is now created
+09:30:35, Thread-3: Customer 1 entering serving area
+09:30:35, Thread-3: Customer 1 eating
+09:30:35, Thread-1: Customer 2 is now created
+09:30:35, Thread-4: Customer 2 entering serving area
+09:30:35, Thread-4: Customer 2 eating
+09:30:35, Thread-1: Customer 3 is now created
+09:30:35, Thread-5: Customer 3 entering serving area
+09:30:35, Thread-5: Customer 3 eating
+09:30:35, Thread-1: Customer 4 is now created
+09:30:35, Thread-6: Customer 4 entering serving area
+09:30:35, Thread-6: Customer 4 eating
+09:30:35, Thread-1: Customer 5 is now created
+09:30:35, Thread-1: Customer 6 is now created
+09:30:35, Thread-3: Customer 1 is leaving
+09:30:35, Thread-7: Customer 5 entering serving area
+09:30:35, Thread-7: Customer 5 eating
+09:30:35, Thread-1: Customer 7 is now created
+09:30:35, Thread-4: Customer 2 is leaving
+09:30:35, Thread-8: Customer 6 entering serving area
+09:30:35, Thread-8: Customer 6 eating
+09:30:35, Thread-1: Customer 8 is now created
+09:30:35, Thread-5: Customer 3 is leaving
+09:30:35, Thread-9: Customer 7 entering serving area
+09:30:35, Thread-9: Customer 7 eating
+09:30:35, Thread-1: Customer 9 is now created
+09:30:35, Thread-6: Customer 4 is leaving
+09:30:35, Thread-10: Customer 8 entering serving area
+09:30:35, Thread-10: Customer 8 eating
+09:30:35, Thread-1: Customer 10 is now created
+09:30:35, Thread-1: Customer 11 is now created
+09:30:35, Thread-1: Customer 12 is now created
+09:30:35, Thread-7: Customer 5 is leaving
+09:30:35, Thread-11: Customer 9 entering serving area
+09:30:35, Thread-11: Customer 9 eating
+09:30:35, Thread-1: Customer 13 is now created
+09:30:35, Thread-8: Customer 6 is leaving
+09:30:35, Thread-12: Customer 10 entering serving area
+09:30:35, Thread-12: Customer 10 eating
+09:30:35, Thread-1: Customer 14 is now created
+09:30:35, Thread-9: Customer 7 is leaving
+09:30:35, Thread-13: Customer 11 entering serving area
+09:30:35, Thread-13: Customer 11 eating
+09:30:35, Thread-1: Customer 15 is now created
+09:30:35, Thread-10: Customer 8 is leaving
+09:30:35, Thread-14: Customer 12 entering serving area
+09:30:35, Thread-14: Customer 12 eating
+09:30:35, Thread-1: Customer 16 is now created
+09:30:35, Thread-1: Customer 17 is now created
+09:30:35, Thread-1: Customer 18 is now created
+09:30:35, Thread-11: Customer 9 is leaving
+09:30:35, Thread-15: Customer 13 entering serving area
+09:30:35, Thread-15: Customer 13 eating
+09:30:35, Thread-1: Customer 19 is now created
+09:30:36, Thread-12: Customer 10 is leaving
+09:30:36, Thread-16: Customer 14 entering serving area
+09:30:36, Thread-16: Customer 14 eating
+09:30:36, Thread-1: Customer 20 is now created
+09:30:36, Thread-13: Customer 11 is leaving
+09:30:36, Thread-17: Customer 15 entering serving area
+09:30:36, Thread-17: Customer 15 eating
+09:30:36, Thread-1: Customer 21 is now created
+09:30:36, Thread-14: Customer 12 is leaving
+09:30:36, Thread-18: Customer 16 entering serving area
+09:30:36, Thread-18: Customer 16 eating
+09:30:36, Thread-1: Customer 22 is now created
+09:30:36, Thread-1: Customer 23 is now created
+09:30:36, Thread-1: Customer 24 is now created
+09:30:36, Thread-15: Customer 13 is leaving
+09:30:36, Thread-19: Customer 17 entering serving area
+09:30:36, Thread-19: Customer 17 eating
+09:30:36, Thread-1: Customer 25 is now created
+09:30:36, Thread-16: Customer 14 is leaving
+09:30:36, Thread-20: Customer 18 entering serving area
+09:30:36, Thread-20: Customer 18 eating
+09:30:36, Thread-1: Customer 26 is now created
+09:30:36, Thread-17: Customer 15 is leaving
+09:30:36, Thread-21: Customer 19 entering serving area
+09:30:36, Thread-21: Customer 19 eating
+09:30:36, Thread-1: Customer 27 is now created
+09:30:36, Thread-18: Customer 16 is leaving
+09:30:36, Thread-22: Customer 20 entering serving area
+09:30:36, Thread-22: Customer 20 eating
+09:30:36, Thread-1: Customer 28 is now created
+09:30:36, Thread-1: Customer 29 is now created
+09:30:36, Thread-1: Customer 30 is now created
+09:30:36, Thread-19: Customer 17 is leaving
+09:30:36, Thread-23: Customer 21 entering serving area
+09:30:36, Thread-23: Customer 21 eating
+09:30:36, Thread-1: Customer 31 is now created
+09:30:36, Thread-20: Customer 18 is leaving
+09:30:36, Thread-24: Customer 22 entering serving area
+09:30:36, Thread-24: Customer 22 eating
+09:30:36, Thread-1: Customer 32 is now created
+09:30:36, Thread-21: Customer 19 is leaving
+09:30:36, Thread-25: Customer 23 entering serving area
+09:30:36, Thread-25: Customer 23 eating
+09:30:36, Thread-1: Customer 33 is now created
+09:30:36, Thread-22: Customer 20 is leaving
+09:30:36, Thread-26: Customer 24 entering serving area
+09:30:36, Thread-26: Customer 24 eating
+09:30:36, Thread-1: Customer 34 is now created
+09:30:36, Thread-1: Customer 35 is now created
+09:30:36, Thread-1: Customer 36 is now created
+09:30:36, Thread-23: Customer 21 is leaving
+09:30:36, Thread-27: Customer 25 entering serving area
+09:30:36, Thread-27: Customer 25 eating
+09:30:36, Thread-1: Customer 37 is now created
+09:30:36, Thread-24: Customer 22 is leaving
+09:30:36, Thread-28: Customer 26 entering serving area
+09:30:36, Thread-28: Customer 26 eating
+09:30:36, Thread-25: Customer 23 is leaving
+09:30:36, Thread-29: Customer 27 entering serving area
+09:30:36, Thread-29: Customer 27 eating
+09:30:36, Thread-1: Customer 38 is now created
+09:30:37, Thread-1: Customer 39 is now created
+09:30:37, Thread-26: Customer 24 is leaving
+09:30:37, Thread-30: Customer 28 entering serving area
+09:30:37, Thread-30: Customer 28 eating
+09:30:37, Thread-1: Customer 40 is now created
+09:30:37, Thread-1: Customer 41 is now created
+09:30:37, Thread-27: Customer 25 is leaving
+09:30:37, Thread-31: Customer 29 entering serving area
+09:30:37, Thread-31: Customer 29 eating
+09:30:37, Thread-1: Customer 42 is now created
+09:30:37, Thread-28: Customer 26 is leaving
+09:30:37, Thread-32: Customer 30 entering serving area
+09:30:37, Thread-32: Customer 30 eating
+09:30:37, Thread-1: Customer 43 is now created
+09:30:37, Thread-29: Customer 27 is leaving
+09:30:37, Thread-33: Customer 31 entering serving area
+09:30:37, Thread-33: Customer 31 eating
+09:30:37, Thread-1: Customer 44 is now created
+09:30:37, Thread-30: Customer 28 is leaving
+09:30:37, Thread-34: Customer 32 entering serving area
+09:30:37, Thread-34: Customer 32 eating
+09:30:37, Thread-1: Customer 45 is now created
+09:30:37, Thread-1: Customer 46 is now created
+09:30:37, Thread-1: Customer 47 is now created
+09:30:37, Thread-31: Customer 29 is leaving
+09:30:37, Thread-35: Customer 33 entering serving area
+09:30:37, Thread-35: Customer 33 eating
+09:30:37, Thread-1: Customer 48 is now created
+09:30:37, Thread-32: Customer 30 is leaving
+09:30:37, Thread-36: Customer 34 entering serving area
+09:30:37, Thread-36: Customer 34 eating
+09:30:37, Thread-1: Customer 49 is now created
+09:30:37, Thread-33: Customer 31 is leaving
+09:30:37, Thread-37: Customer 35 entering serving area
+09:30:37, Thread-37: Customer 35 eating
+09:30:37, Thread-1: Customer 50 is now created
+09:30:37, Thread-34: Customer 32 is leaving
+09:30:37, Thread-38: Customer 36 entering serving area
+09:30:37, Thread-38: Customer 36 eating
+09:30:37, Thread-1: Customer 51 is now created
+09:30:37, Thread-1: Customer 52 is now created
+09:30:37, Thread-1: Customer 53 is now created
+09:30:37, Thread-35: Customer 33 is leaving
+09:30:37, Thread-39: Customer 37 entering serving area
+09:30:37, Thread-39: Customer 37 eating
+09:30:37, Thread-1: Customer 54 is now created
+09:30:37, Thread-36: Customer 34 is leaving
+09:30:37, Thread-40: Customer 38 entering serving area
+09:30:37, Thread-40: Customer 38 eating
+09:30:37, Thread-1: Customer 55 is now created
+09:30:37, Thread-37: Customer 35 is leaving
+09:30:37, Thread-41: Customer 39 entering serving area
+09:30:37, Thread-41: Customer 39 eating
+09:30:37, Thread-1: Customer 56 is now created
+09:30:37, Thread-38: Customer 36 is leaving
+09:30:37, Thread-42: Customer 40 entering serving area
+09:30:37, Thread-42: Customer 40 eating
+09:30:37, Thread-1: Customer 57 is now created
+09:30:38, Thread-1: Customer 58 is now created
+09:30:38, Thread-1: Customer 59 is now created
+09:30:38, Thread-39: Customer 37 is leaving
+09:30:38, Thread-43: Customer 41 entering serving area
+09:30:38, Thread-43: Customer 41 eating
+09:30:38, Thread-1: Customer 60 is now created
+09:30:38, Thread-40: Customer 38 is leaving
+09:30:38, Thread-44: Customer 42 entering serving area
+09:30:38, Thread-44: Customer 42 eating
+09:30:38, Thread-1: Customer 61 is now created
+09:30:38, Thread-41: Customer 39 is leaving
+09:30:38, Thread-45: Customer 43 entering serving area
+09:30:38, Thread-45: Customer 43 eating
+09:30:38, Thread-1: Customer 62 is now created
+09:30:38, Thread-42: Customer 40 is leaving
+09:30:38, Thread-46: Customer 44 entering serving area
+09:30:38, Thread-46: Customer 44 eating
+09:30:38, Thread-1: Customer 63 is now created
+09:30:38, Thread-1: Customer 64 is now created
+09:30:38, Thread-1: Customer 65 is now created
+09:30:38, Thread-43: Customer 41 is leaving
+09:30:38, Thread-47: Customer 45 entering serving area
+09:30:38, Thread-47: Customer 45 eating
+09:30:38, Thread-1: Customer 66 is now created
+09:30:38, Thread-44: Customer 42 is leaving
+09:30:38, Thread-48: Customer 46 entering serving area
+09:30:38, Thread-48: Customer 46 eating
+09:30:38, Thread-1: Customer 67 is now created
+09:30:38, Thread-45: Customer 43 is leaving
+09:30:38, Thread-49: Customer 47 entering serving area
+09:30:38, Thread-49: Customer 47 eating
+09:30:38, Thread-1: Customer 68 is now created
+09:30:38, Thread-46: Customer 44 is leaving
+09:30:38, Thread-50: Customer 48 entering serving area
+09:30:38, Thread-50: Customer 48 eating
+09:30:38, Thread-1: Customer 69 is now created
+09:30:38, Thread-1: Customer 70 is now created
+09:30:38, Thread-1: Customer 71 is now created
+09:30:38, Thread-47: Customer 45 is leaving
+09:30:38, Thread-51: Customer 49 entering serving area
+09:30:38, Thread-51: Customer 49 eating
+09:30:38, Thread-1: Customer 72 is now created
+09:30:38, Thread-48: Customer 46 is leaving
+09:30:38, Thread-52: Customer 50 entering serving area
+09:30:38, Thread-52: Customer 50 eating
+09:30:38, Thread-1: Customer 73 is now created
+09:30:38, Thread-49: Customer 47 is leaving
+09:30:38, Thread-53: Customer 51 entering serving area
+09:30:38, Thread-53: Customer 51 eating
+09:30:38, Thread-1: Customer 74 is now created
+09:30:38, Thread-50: Customer 48 is leaving
+09:30:38, Thread-54: Customer 52 entering serving area
+09:30:38, Thread-54: Customer 52 eating
+09:30:38, Thread-1: Customer 75 is now created
+09:30:38, Thread-1: Customer 76 is now created
+09:30:38, Thread-51: Customer 49 is leaving
+09:30:38, Thread-55: Customer 53 entering serving area
+09:30:38, Thread-55: Customer 53 eating
+09:30:38, Thread-1: Customer 77 is now created
+09:30:39, Thread-52: Customer 50 is leaving
+09:30:39, Thread-56: Customer 54 entering serving area
+09:30:39, Thread-56: Customer 54 eating
+09:30:39, Thread-1: Customer 78 is now created
+09:30:39, Thread-53: Customer 51 is leaving
+09:30:39, Thread-57: Customer 55 entering serving area
+09:30:39, Thread-57: Customer 55 eating
+09:30:39, Thread-1: Customer 79 is now created
+09:30:39, Thread-54: Customer 52 is leaving
+09:30:39, Thread-58: Customer 56 entering serving area
+09:30:39, Thread-58: Customer 56 eating
+09:30:39, Thread-1: Customer 80 is now created
+09:30:39, Thread-1: Customer 81 is now created
+09:30:39, Thread-1: Customer 82 is now created
+09:30:39, Thread-55: Customer 53 is leaving
+09:30:39, Thread-59: Customer 57 entering serving area
+09:30:39, Thread-59: Customer 57 eating
+09:30:39, Thread-1: Customer 83 is now created
+09:30:39, Thread-56: Customer 54 is leaving
+09:30:39, Thread-60: Customer 58 entering serving area
+09:30:39, Thread-60: Customer 58 eating
+09:30:39, Thread-1: Customer 84 is now created
+09:30:39, Thread-57: Customer 55 is leaving
+09:30:39, Thread-61: Customer 59 entering serving area
+09:30:39, Thread-61: Customer 59 eating
+09:30:39, Thread-1: Customer 85 is now created
+09:30:39, Thread-58: Customer 56 is leaving
+09:30:39, Thread-62: Customer 60 entering serving area
+09:30:39, Thread-62: Customer 60 eating
+09:30:39, Thread-1: Customer 86 is now created
+09:30:39, Thread-1: Customer 87 is now created
+09:30:39, Thread-1: Customer 88 is now created
+09:30:39, Thread-59: Customer 57 is leaving
+09:30:39, Thread-63: Customer 61 entering serving area
+09:30:39, Thread-63: Customer 61 eating
+09:30:39, Thread-1: Customer 89 is now created
+09:30:39, Thread-60: Customer 58 is leaving
+09:30:39, Thread-64: Customer 62 entering serving area
+09:30:39, Thread-64: Customer 62 eating
+09:30:39, Thread-1: Customer 90 is now created
+09:30:39, Thread-61: Customer 59 is leaving
+09:30:39, Thread-65: Customer 63 entering serving area
+09:30:39, Thread-65: Customer 63 eating
+09:30:39, Thread-1: Customer 91 is now created
+09:30:39, Thread-62: Customer 60 is leaving
+09:30:39, Thread-66: Customer 64 entering serving area
+09:30:39, Thread-66: Customer 64 eating
+09:30:39, Thread-1: Customer 92 is now created
+09:30:39, Thread-1: Customer 93 is now created
+09:30:39, Thread-1: Customer 94 is now created
+09:30:39, Thread-63: Customer 61 is leaving
+09:30:39, Thread-67: Customer 65 entering serving area
+09:30:39, Thread-67: Customer 65 eating
+09:30:39, Thread-1: Customer 95 is now created
+09:30:39, Thread-64: Customer 62 is leaving
+09:30:39, Thread-68: Customer 66 entering serving area
+09:30:39, Thread-68: Customer 66 eating
+09:30:39, Thread-1: Customer 96 is now created
+09:30:39, Thread-65: Customer 63 is leaving
+09:30:39, Thread-69: Customer 67 entering serving area
+09:30:39, Thread-69: Customer 67 eating
+09:30:40, Thread-1: Customer 97 is now created
+09:30:40, Thread-66: Customer 64 is leaving
+09:30:40, Thread-70: Customer 68 entering serving area
+09:30:40, Thread-70: Customer 68 eating
+09:30:40, Thread-1: The door has closed
+09:30:40, Thread-67: Customer 65 is leaving
+09:30:40, Thread-71: Customer 69 entering serving area
+09:30:40, Thread-71: Customer 69 eating
+09:30:40, Thread-72: Customer 70 entering serving area
+09:30:40, Thread-68: Customer 66 is leaving
+09:30:40, Thread-72: Customer 70 eating
+09:30:40, Thread-69: Customer 67 is leaving
+09:30:40, Thread-73: Customer 71 entering serving area
+09:30:40, Thread-73: Customer 71 eating
+09:30:40, Thread-70: Customer 68 is leaving
+09:30:40, Thread-74: Customer 72 entering serving area
+09:30:40, Thread-74: Customer 72 eating
+09:30:40, Thread-71: Customer 69 is leaving
+09:30:40, Thread-75: Customer 73 entering serving area
+09:30:40, Thread-75: Customer 73 eating
+09:30:40, Thread-72: Customer 70 is leaving
+09:30:40, Thread-76: Customer 74 entering serving area
+09:30:40, Thread-76: Customer 74 eating
+09:30:40, Thread-73: Customer 71 is leaving
+09:30:40, Thread-77: Customer 75 entering serving area
+09:30:40, Thread-77: Customer 75 eating
+09:30:40, Thread-74: Customer 72 is leaving
+09:30:40, Thread-78: Customer 76 entering serving area
+09:30:40, Thread-78: Customer 76 eating
+09:30:40, Thread-75: Customer 73 is leaving
+09:30:40, Thread-79: Customer 77 entering serving area
+09:30:40, Thread-79: Customer 77 eating
+09:30:40, Thread-76: Customer 74 is leaving
+09:30:40, Thread-80: Customer 78 entering serving area
+09:30:40, Thread-80: Customer 78 eating
+09:30:40, Thread-77: Customer 75 is leaving
+09:30:40, Thread-81: Customer 79 entering serving area
+09:30:40, Thread-81: Customer 79 eating
+09:30:40, Thread-78: Customer 76 is leaving
+09:30:40, Thread-82: Customer 80 entering serving area
+09:30:40, Thread-82: Customer 80 eating
+09:30:41, Thread-79: Customer 77 is leaving
+09:30:41, Thread-83: Customer 81 entering serving area
+09:30:41, Thread-83: Customer 81 eating
+09:30:41, Thread-80: Customer 78 is leaving
+09:30:41, Thread-84: Customer 82 entering serving area
+09:30:41, Thread-84: Customer 82 eating
+09:30:41, Thread-81: Customer 79 is leaving
+09:30:41, Thread-85: Customer 83 entering serving area
+09:30:41, Thread-85: Customer 83 eating
+09:30:41, Thread-82: Customer 80 is leaving
+09:30:41, Thread-86: Customer 84 entering serving area
+09:30:41, Thread-86: Customer 84 eating
+09:30:41, Thread-83: Customer 81 is leaving
+09:30:41, Thread-87: Customer 85 entering serving area
+09:30:41, Thread-87: Customer 85 eating
+09:30:41, Thread-84: Customer 82 is leaving
+09:30:41, Thread-88: Customer 86 entering serving area
+09:30:41, Thread-88: Customer 86 eating
+09:30:41, Thread-85: Customer 83 is leaving
+09:30:41, Thread-89: Customer 87 entering serving area
+09:30:41, Thread-89: Customer 87 eating
+09:30:41, Thread-86: Customer 84 is leaving
+09:30:41, Thread-90: Customer 88 entering serving area
+09:30:41, Thread-90: Customer 88 eating
+09:30:41, Thread-87: Customer 85 is leaving
+09:30:41, Thread-91: Customer 89 entering serving area
+09:30:41, Thread-91: Customer 89 eating
+09:30:41, Thread-88: Customer 86 is leaving
+09:30:41, Thread-92: Customer 90 entering serving area
+09:30:41, Thread-92: Customer 90 eating
+09:30:41, Thread-89: Customer 87 is leaving
+09:30:41, Thread-93: Customer 91 entering serving area
+09:30:41, Thread-93: Customer 91 eating
+09:30:41, Thread-90: Customer 88 is leaving
+09:30:41, Thread-94: Customer 92 entering serving area
+09:30:41, Thread-94: Customer 92 eating
+09:30:42, Thread-91: Customer 89 is leaving
+09:30:42, Thread-95: Customer 93 entering serving area
+09:30:42, Thread-95: Customer 93 eating
+09:30:42, Thread-92: Customer 90 is leaving
+09:30:42, Thread-96: Customer 94 entering serving area
+09:30:42, Thread-96: Customer 94 eating
+09:30:42, Thread-93: Customer 91 is leaving
+09:30:42, Thread-98: Customer 95 entering serving area
+09:30:42, Thread-98: Customer 95 eating
+09:30:42, Thread-94: Customer 92 is leaving
+09:30:42, Thread-99: Customer 96 entering serving area
+09:30:42, Thread-99: Customer 96 eating
+09:30:42, Thread-95: Customer 93 is leaving
+09:30:42, Thread-100: Customer 97 entering serving area
+09:30:42, Thread-100: Customer 97 eating
+09:30:42, Thread-96: Customer 94 is leaving
+09:30:42, Thread-98: Customer 95 is leaving
+09:30:42, Thread-99: Customer 96 is leaving
+09:30:42, Thread-100: Customer 97 is leaving
+09:32:09, Thread-1: Customer 1 is now created
+09:32:09, Thread-3: Customer 1 entering serving area
+09:32:09, Thread-3: Customer 1 eating
+09:32:09, Thread-1: Customer 2 is now created
+09:32:09, Thread-4: Customer 2 entering serving area
+09:32:09, Thread-4: Customer 2 eating
+09:32:09, Thread-1: Customer 3 is now created
+09:32:09, Thread-5: Customer 3 entering serving area
+09:32:09, Thread-5: Customer 3 eating
+09:32:09, Thread-1: Customer 4 is now created
+09:32:09, Thread-3: Customer 1 is leaving
+09:32:09, Thread-6: Customer 4 entering serving area
+09:32:09, Thread-6: Customer 4 eating
+09:32:09, Thread-4: Customer 2 is leaving
+09:32:09, Thread-1: Customer 5 is now created
+09:32:09, Thread-7: Customer 5 entering serving area
+09:32:09, Thread-7: Customer 5 eating
+09:32:09, Thread-5: Customer 3 is leaving
+09:32:09, Thread-1: Customer 6 is now created
+09:32:09, Thread-8: Customer 6 entering serving area
+09:32:09, Thread-8: Customer 6 eating
+09:32:09, Thread-6: Customer 4 is leaving
+09:32:09, Thread-1: Customer 7 is now created
+09:32:09, Thread-9: Customer 7 entering serving area
+09:32:09, Thread-9: Customer 7 eating
+09:32:09, Thread-7: Customer 5 is leaving
+09:32:09, Thread-1: Customer 8 is now created
+09:32:09, Thread-10: Customer 8 entering serving area
+09:32:09, Thread-10: Customer 8 eating
+09:32:09, Thread-8: Customer 6 is leaving
+09:32:09, Thread-1: Customer 9 is now created
+09:32:09, Thread-11: Customer 9 entering serving area
+09:32:09, Thread-11: Customer 9 eating
+09:32:09, Thread-9: Customer 7 is leaving
+09:32:09, Thread-1: Customer 10 is now created
+09:32:09, Thread-12: Customer 10 entering serving area
+09:32:09, Thread-12: Customer 10 eating
+09:32:09, Thread-10: Customer 8 is leaving
+09:32:09, Thread-1: Customer 11 is now created
+09:32:09, Thread-13: Customer 11 entering serving area
+09:32:09, Thread-13: Customer 11 eating
+09:32:09, Thread-11: Customer 9 is leaving
+09:32:09, Thread-1: Customer 12 is now created
+09:32:09, Thread-14: Customer 12 entering serving area
+09:32:09, Thread-14: Customer 12 eating
+09:32:09, Thread-12: Customer 10 is leaving
+09:32:09, Thread-1: Customer 13 is now created
+09:32:09, Thread-15: Customer 13 entering serving area
+09:32:09, Thread-15: Customer 13 eating
+09:32:09, Thread-13: Customer 11 is leaving
+09:32:09, Thread-1: Customer 14 is now created
+09:32:09, Thread-16: Customer 14 entering serving area
+09:32:09, Thread-16: Customer 14 eating
+09:32:09, Thread-14: Customer 12 is leaving
+09:32:09, Thread-1: Customer 15 is now created
+09:32:09, Thread-17: Customer 15 entering serving area
+09:32:09, Thread-17: Customer 15 eating
+09:32:09, Thread-15: Customer 13 is leaving
+09:32:09, Thread-1: Customer 16 is now created
+09:32:09, Thread-18: Customer 16 entering serving area
+09:32:09, Thread-18: Customer 16 eating
+09:32:09, Thread-16: Customer 14 is leaving
+09:32:09, Thread-1: Customer 17 is now created
+09:32:09, Thread-19: Customer 17 entering serving area
+09:32:09, Thread-19: Customer 17 eating
+09:32:09, Thread-17: Customer 15 is leaving
+09:32:09, Thread-1: Customer 18 is now created
+09:32:09, Thread-20: Customer 18 entering serving area
+09:32:09, Thread-20: Customer 18 eating
+09:32:09, Thread-18: Customer 16 is leaving
+09:32:09, Thread-1: Customer 19 is now created
+09:32:09, Thread-21: Customer 19 entering serving area
+09:32:09, Thread-21: Customer 19 eating
+09:32:09, Thread-19: Customer 17 is leaving
+09:32:09, Thread-1: Customer 20 is now created
+09:32:09, Thread-22: Customer 20 entering serving area
+09:32:09, Thread-22: Customer 20 eating
+09:32:09, Thread-1: Customer 21 is now created
+09:32:09, Thread-20: Customer 18 is leaving
+09:32:09, Thread-23: Customer 21 entering serving area
+09:32:09, Thread-23: Customer 21 eating
+09:32:09, Thread-21: Customer 19 is leaving
+09:32:09, Thread-1: Customer 22 is now created
+09:32:09, Thread-24: Customer 22 entering serving area
+09:32:09, Thread-24: Customer 22 eating
+09:32:09, Thread-22: Customer 20 is leaving
+09:32:09, Thread-1: Customer 23 is now created
+09:32:09, Thread-25: Customer 23 entering serving area
+09:32:09, Thread-25: Customer 23 eating
+09:32:09, Thread-23: Customer 21 is leaving
+09:32:09, Thread-1: Customer 24 is now created
+09:32:09, Thread-26: Customer 24 entering serving area
+09:32:09, Thread-26: Customer 24 eating
+09:32:09, Thread-24: Customer 22 is leaving
+09:32:09, Thread-1: Customer 25 is now created
+09:32:09, Thread-27: Customer 25 entering serving area
+09:32:09, Thread-27: Customer 25 eating
+09:32:09, Thread-25: Customer 23 is leaving
+09:32:09, Thread-1: Customer 26 is now created
+09:32:09, Thread-28: Customer 26 entering serving area
+09:32:09, Thread-28: Customer 26 eating
+09:32:09, Thread-26: Customer 24 is leaving
+09:32:09, Thread-1: Customer 27 is now created
+09:32:09, Thread-29: Customer 27 entering serving area
+09:32:09, Thread-29: Customer 27 eating
+09:32:09, Thread-27: Customer 25 is leaving
+09:32:09, Thread-1: Customer 28 is now created
+09:32:09, Thread-30: Customer 28 entering serving area
+09:32:09, Thread-30: Customer 28 eating
+09:32:09, Thread-28: Customer 26 is leaving
+09:32:09, Thread-1: Customer 29 is now created
+09:32:09, Thread-31: Customer 29 entering serving area
+09:32:09, Thread-31: Customer 29 eating
+09:32:09, Thread-29: Customer 27 is leaving
+09:32:09, Thread-1: Customer 30 is now created
+09:32:09, Thread-32: Customer 30 entering serving area
+09:32:09, Thread-32: Customer 30 eating
+09:32:09, Thread-30: Customer 28 is leaving
+09:32:09, Thread-1: Customer 31 is now created
+09:32:09, Thread-33: Customer 31 entering serving area
+09:32:09, Thread-33: Customer 31 eating
+09:32:09, Thread-31: Customer 29 is leaving
+09:32:09, Thread-1: Customer 32 is now created
+09:32:09, Thread-34: Customer 32 entering serving area
+09:32:09, Thread-34: Customer 32 eating
+09:32:09, Thread-32: Customer 30 is leaving
+09:32:09, Thread-1: Customer 33 is now created
+09:32:09, Thread-35: Customer 33 entering serving area
+09:32:09, Thread-35: Customer 33 eating
+09:32:09, Thread-33: Customer 31 is leaving
+09:32:09, Thread-1: Customer 34 is now created
+09:32:09, Thread-36: Customer 34 entering serving area
+09:32:09, Thread-36: Customer 34 eating
+09:32:09, Thread-34: Customer 32 is leaving
+09:32:09, Thread-1: Customer 35 is now created
+09:32:09, Thread-37: Customer 35 entering serving area
+09:32:09, Thread-37: Customer 35 eating
+09:32:09, Thread-35: Customer 33 is leaving
+09:32:09, Thread-1: Customer 36 is now created
+09:32:09, Thread-38: Customer 36 entering serving area
+09:32:09, Thread-38: Customer 36 eating
+09:32:09, Thread-36: Customer 34 is leaving
+09:32:09, Thread-1: Customer 37 is now created
+09:32:09, Thread-39: Customer 37 entering serving area
+09:32:09, Thread-39: Customer 37 eating
+09:32:09, Thread-37: Customer 35 is leaving
+09:32:09, Thread-1: Customer 38 is now created
+09:32:09, Thread-40: Customer 38 entering serving area
+09:32:09, Thread-40: Customer 38 eating
+09:32:09, Thread-38: Customer 36 is leaving
+09:32:09, Thread-1: Customer 39 is now created
+09:32:09, Thread-41: Customer 39 entering serving area
+09:32:09, Thread-41: Customer 39 eating
+09:32:09, Thread-39: Customer 37 is leaving
+09:32:09, Thread-1: Customer 40 is now created
+09:32:09, Thread-42: Customer 40 entering serving area
+09:32:09, Thread-42: Customer 40 eating
+09:32:09, Thread-40: Customer 38 is leaving
+09:32:09, Thread-1: Customer 41 is now created
+09:32:09, Thread-43: Customer 41 entering serving area
+09:32:09, Thread-43: Customer 41 eating
+09:32:09, Thread-41: Customer 39 is leaving
+09:32:09, Thread-1: Customer 42 is now created
+09:32:09, Thread-44: Customer 42 entering serving area
+09:32:09, Thread-44: Customer 42 eating
+09:32:09, Thread-42: Customer 40 is leaving
+09:32:09, Thread-1: Customer 43 is now created
+09:32:09, Thread-45: Customer 43 entering serving area
+09:32:09, Thread-45: Customer 43 eating
+09:32:09, Thread-1: Customer 44 is now created
+09:32:09, Thread-46: Customer 44 entering serving area
+09:32:09, Thread-46: Customer 44 eating
+09:32:09, Thread-43: Customer 41 is leaving
+09:32:09, Thread-44: Customer 42 is leaving
+09:32:09, Thread-1: Customer 45 is now created
+09:32:09, Thread-47: Customer 45 entering serving area
+09:32:09, Thread-47: Customer 45 eating
+09:32:09, Thread-45: Customer 43 is leaving
+09:32:09, Thread-1: Customer 46 is now created
+09:32:09, Thread-48: Customer 46 entering serving area
+09:32:09, Thread-48: Customer 46 eating
+09:32:09, Thread-46: Customer 44 is leaving
+09:32:09, Thread-1: Customer 47 is now created
+09:32:09, Thread-49: Customer 47 entering serving area
+09:32:09, Thread-49: Customer 47 eating
+09:32:09, Thread-47: Customer 45 is leaving
+09:32:09, Thread-1: Customer 48 is now created
+09:32:09, Thread-50: Customer 48 entering serving area
+09:32:09, Thread-50: Customer 48 eating
+09:32:09, Thread-48: Customer 46 is leaving
+09:32:09, Thread-1: Customer 49 is now created
+09:32:09, Thread-51: Customer 49 entering serving area
+09:32:09, Thread-51: Customer 49 eating
+09:32:09, Thread-49: Customer 47 is leaving
+09:32:09, Thread-1: Customer 50 is now created
+09:32:09, Thread-52: Customer 50 entering serving area
+09:32:09, Thread-52: Customer 50 eating
+09:32:09, Thread-50: Customer 48 is leaving
+09:32:09, Thread-1: Customer 51 is now created
+09:32:09, Thread-53: Customer 51 entering serving area
+09:32:09, Thread-53: Customer 51 eating
+09:32:09, Thread-51: Customer 49 is leaving
+09:32:09, Thread-1: Customer 52 is now created
+09:32:09, Thread-54: Customer 52 entering serving area
+09:32:09, Thread-54: Customer 52 eating
+09:32:09, Thread-52: Customer 50 is leaving
+09:32:09, Thread-1: Customer 53 is now created
+09:32:09, Thread-55: Customer 53 entering serving area
+09:32:09, Thread-55: Customer 53 eating
+09:32:09, Thread-53: Customer 51 is leaving
+09:32:09, Thread-1: Customer 54 is now created
+09:32:09, Thread-56: Customer 54 entering serving area
+09:32:09, Thread-56: Customer 54 eating
+09:32:09, Thread-54: Customer 52 is leaving
+09:32:09, Thread-1: Customer 55 is now created
+09:32:09, Thread-57: Customer 55 entering serving area
+09:32:09, Thread-57: Customer 55 eating
+09:32:09, Thread-55: Customer 53 is leaving
+09:32:09, Thread-1: Customer 56 is now created
+09:32:09, Thread-58: Customer 56 entering serving area
+09:32:09, Thread-58: Customer 56 eating
+09:32:09, Thread-56: Customer 54 is leaving
+09:32:09, Thread-1: Customer 57 is now created
+09:32:09, Thread-59: Customer 57 entering serving area
+09:32:09, Thread-59: Customer 57 eating
+09:32:09, Thread-57: Customer 55 is leaving
+09:32:09, Thread-1: Customer 58 is now created
+09:32:09, Thread-60: Customer 58 entering serving area
+09:32:09, Thread-60: Customer 58 eating
+09:32:10, Thread-58: Customer 56 is leaving
+09:32:10, Thread-1: Customer 59 is now created
+09:32:10, Thread-61: Customer 59 entering serving area
+09:32:10, Thread-61: Customer 59 eating
+09:32:10, Thread-59: Customer 57 is leaving
+09:32:10, Thread-1: Customer 60 is now created
+09:32:10, Thread-62: Customer 60 entering serving area
+09:32:10, Thread-62: Customer 60 eating
+09:32:10, Thread-60: Customer 58 is leaving
+09:32:10, Thread-1: Customer 61 is now created
+09:32:10, Thread-63: Customer 61 entering serving area
+09:32:10, Thread-63: Customer 61 eating
+09:32:10, Thread-61: Customer 59 is leaving
+09:32:10, Thread-1: Customer 62 is now created
+09:32:10, Thread-64: Customer 62 entering serving area
+09:32:10, Thread-64: Customer 62 eating
+09:32:10, Thread-62: Customer 60 is leaving
+09:32:10, Thread-1: Customer 63 is now created
+09:32:10, Thread-65: Customer 63 entering serving area
+09:32:10, Thread-65: Customer 63 eating
+09:32:10, Thread-63: Customer 61 is leaving
+09:32:10, Thread-1: Customer 64 is now created
+09:32:10, Thread-66: Customer 64 entering serving area
+09:32:10, Thread-66: Customer 64 eating
+09:32:10, Thread-64: Customer 62 is leaving
+09:32:10, Thread-1: Customer 65 is now created
+09:32:10, Thread-67: Customer 65 entering serving area
+09:32:10, Thread-67: Customer 65 eating
+09:32:10, Thread-65: Customer 63 is leaving
+09:32:10, Thread-1: Customer 66 is now created
+09:32:10, Thread-68: Customer 66 entering serving area
+09:32:10, Thread-68: Customer 66 eating
+09:32:10, Thread-66: Customer 64 is leaving
+09:32:10, Thread-1: Customer 67 is now created
+09:32:10, Thread-69: Customer 67 entering serving area
+09:32:10, Thread-69: Customer 67 eating
+09:32:10, Thread-67: Customer 65 is leaving
+09:32:10, Thread-1: Customer 68 is now created
+09:32:10, Thread-70: Customer 68 entering serving area
+09:32:10, Thread-70: Customer 68 eating
+09:32:10, Thread-68: Customer 66 is leaving
+09:32:10, Thread-1: Customer 69 is now created
+09:32:10, Thread-71: Customer 69 entering serving area
+09:32:10, Thread-71: Customer 69 eating
+09:32:10, Thread-69: Customer 67 is leaving
+09:32:10, Thread-1: Customer 70 is now created
+09:32:10, Thread-72: Customer 70 entering serving area
+09:32:10, Thread-72: Customer 70 eating
+09:32:10, Thread-70: Customer 68 is leaving
+09:32:10, Thread-1: Customer 71 is now created
+09:32:10, Thread-73: Customer 71 entering serving area
+09:32:10, Thread-73: Customer 71 eating
+09:32:10, Thread-71: Customer 69 is leaving
+09:32:10, Thread-1: Customer 72 is now created
+09:32:10, Thread-74: Customer 72 entering serving area
+09:32:10, Thread-74: Customer 72 eating
+09:32:10, Thread-72: Customer 70 is leaving
+09:32:10, Thread-1: Customer 73 is now created
+09:32:10, Thread-75: Customer 73 entering serving area
+09:32:10, Thread-75: Customer 73 eating
+09:32:10, Thread-73: Customer 71 is leaving
+09:32:10, Thread-1: Customer 74 is now created
+09:32:10, Thread-76: Customer 74 entering serving area
+09:32:10, Thread-76: Customer 74 eating
+09:32:10, Thread-74: Customer 72 is leaving
+09:32:10, Thread-1: Customer 75 is now created
+09:32:10, Thread-77: Customer 75 entering serving area
+09:32:10, Thread-77: Customer 75 eating
+09:32:10, Thread-75: Customer 73 is leaving
+09:32:10, Thread-1: Customer 76 is now created
+09:32:10, Thread-78: Customer 76 entering serving area
+09:32:10, Thread-78: Customer 76 eating
+09:32:10, Thread-76: Customer 74 is leaving
+09:32:10, Thread-1: Customer 77 is now created
+09:32:10, Thread-79: Customer 77 entering serving area
+09:32:10, Thread-79: Customer 77 eating
+09:32:10, Thread-77: Customer 75 is leaving
+09:32:10, Thread-1: Customer 78 is now created
+09:32:10, Thread-80: Customer 78 entering serving area
+09:32:10, Thread-80: Customer 78 eating
+09:32:10, Thread-78: Customer 76 is leaving
+09:32:10, Thread-1: Customer 79 is now created
+09:32:10, Thread-81: Customer 79 entering serving area
+09:32:10, Thread-81: Customer 79 eating
+09:32:10, Thread-79: Customer 77 is leaving
+09:32:10, Thread-1: Customer 80 is now created
+09:32:10, Thread-82: Customer 80 entering serving area
+09:32:10, Thread-82: Customer 80 eating
+09:32:10, Thread-80: Customer 78 is leaving
+09:32:10, Thread-1: Customer 81 is now created
+09:32:10, Thread-83: Customer 81 entering serving area
+09:32:10, Thread-83: Customer 81 eating
+09:32:10, Thread-81: Customer 79 is leaving
+09:32:10, Thread-1: Customer 82 is now created
+09:32:10, Thread-84: Customer 82 entering serving area
+09:32:10, Thread-84: Customer 82 eating
+09:32:10, Thread-82: Customer 80 is leaving
+09:32:10, Thread-1: Customer 83 is now created
+09:32:10, Thread-85: Customer 83 entering serving area
+09:32:10, Thread-85: Customer 83 eating
+09:32:10, Thread-83: Customer 81 is leaving
+09:32:10, Thread-1: Customer 84 is now created
+09:32:10, Thread-86: Customer 84 entering serving area
+09:32:10, Thread-86: Customer 84 eating
+09:32:10, Thread-84: Customer 82 is leaving
+09:32:10, Thread-1: Customer 85 is now created
+09:32:10, Thread-87: Customer 85 entering serving area
+09:32:10, Thread-87: Customer 85 eating
+09:32:10, Thread-85: Customer 83 is leaving
+09:32:10, Thread-1: Customer 86 is now created
+09:32:10, Thread-88: Customer 86 entering serving area
+09:32:10, Thread-88: Customer 86 eating
+09:32:10, Thread-86: Customer 84 is leaving
+09:32:10, Thread-1: Customer 87 is now created
+09:32:10, Thread-89: Customer 87 entering serving area
+09:32:10, Thread-89: Customer 87 eating
+09:32:10, Thread-87: Customer 85 is leaving
+09:32:10, Thread-1: Customer 88 is now created
+09:32:10, Thread-90: Customer 88 entering serving area
+09:32:10, Thread-90: Customer 88 eating
+09:32:10, Thread-88: Customer 86 is leaving
+09:32:10, Thread-1: Customer 89 is now created
+09:32:10, Thread-91: Customer 89 entering serving area
+09:32:10, Thread-91: Customer 89 eating
+09:32:10, Thread-89: Customer 87 is leaving
+09:32:10, Thread-1: Customer 90 is now created
+09:32:10, Thread-92: Customer 90 entering serving area
+09:32:10, Thread-92: Customer 90 eating
+09:32:10, Thread-90: Customer 88 is leaving
+09:32:10, Thread-1: Customer 91 is now created
+09:32:10, Thread-93: Customer 91 entering serving area
+09:32:10, Thread-93: Customer 91 eating
+09:32:10, Thread-91: Customer 89 is leaving
+09:32:10, Thread-1: Customer 92 is now created
+09:32:10, Thread-94: Customer 92 entering serving area
+09:32:10, Thread-94: Customer 92 eating
+09:32:10, Thread-92: Customer 90 is leaving
+09:32:10, Thread-1: Customer 93 is now created
+09:32:10, Thread-95: Customer 93 entering serving area
+09:32:10, Thread-95: Customer 93 eating
+09:32:10, Thread-93: Customer 91 is leaving
+09:32:10, Thread-1: Customer 94 is now created
+09:32:10, Thread-96: Customer 94 entering serving area
+09:32:10, Thread-96: Customer 94 eating
+09:32:10, Thread-94: Customer 92 is leaving
+09:32:10, Thread-1: Customer 95 is now created
+09:32:10, Thread-97: Customer 95 entering serving area
+09:32:10, Thread-97: Customer 95 eating
+09:32:10, Thread-95: Customer 93 is leaving
+09:32:10, Thread-1: Customer 96 is now created
+09:32:10, Thread-98: Customer 96 entering serving area
+09:32:10, Thread-98: Customer 96 eating
+09:32:10, Thread-96: Customer 94 is leaving
+09:32:10, Thread-1: Customer 97 is now created
+09:32:10, Thread-99: Customer 97 entering serving area
+09:32:10, Thread-99: Customer 97 eating
+09:32:10, Thread-97: Customer 95 is leaving
+09:32:10, Thread-1: Customer 98 is now created
+09:32:10, Thread-100: Customer 98 entering serving area
+09:32:10, Thread-100: Customer 98 eating
+09:32:10, Thread-98: Customer 96 is leaving
+09:32:10, Thread-1: Customer 99 is now created
+09:32:10, Thread-101: Customer 99 entering serving area
+09:32:10, Thread-101: Customer 99 eating
+09:32:10, Thread-99: Customer 97 is leaving
+09:32:10, Thread-1: Customer 100 is now created
+09:32:10, Thread-102: Customer 100 entering serving area
+09:32:10, Thread-102: Customer 100 eating
+09:32:10, Thread-100: Customer 98 is leaving
+09:32:10, Thread-1: Customer 101 is now created
+09:32:10, Thread-103: Customer 101 entering serving area
+09:32:10, Thread-103: Customer 101 eating
+09:32:10, Thread-101: Customer 99 is leaving
+09:32:10, Thread-1: Customer 102 is now created
+09:32:10, Thread-104: Customer 102 entering serving area
+09:32:10, Thread-104: Customer 102 eating
+09:32:10, Thread-102: Customer 100 is leaving
+09:32:10, Thread-1: Customer 103 is now created
+09:32:10, Thread-105: Customer 103 entering serving area
+09:32:10, Thread-105: Customer 103 eating
+09:32:10, Thread-103: Customer 101 is leaving
+09:32:10, Thread-1: Customer 104 is now created
+09:32:10, Thread-106: Customer 104 entering serving area
+09:32:10, Thread-106: Customer 104 eating
+09:32:10, Thread-104: Customer 102 is leaving
+09:32:10, Thread-1: Customer 105 is now created
+09:32:10, Thread-107: Customer 105 entering serving area
+09:32:10, Thread-107: Customer 105 eating
+09:32:10, Thread-105: Customer 103 is leaving
+09:32:10, Thread-1: Customer 106 is now created
+09:32:10, Thread-108: Customer 106 entering serving area
+09:32:10, Thread-108: Customer 106 eating
+09:32:10, Thread-106: Customer 104 is leaving
+09:32:10, Thread-1: Customer 107 is now created
+09:32:10, Thread-109: Customer 107 entering serving area
+09:32:10, Thread-109: Customer 107 eating
+09:32:10, Thread-107: Customer 105 is leaving
+09:32:10, Thread-1: Customer 108 is now created
+09:32:10, Thread-110: Customer 108 entering serving area
+09:32:10, Thread-110: Customer 108 eating
+09:32:10, Thread-108: Customer 106 is leaving
+09:32:10, Thread-1: Customer 109 is now created
+09:32:10, Thread-111: Customer 109 entering serving area
+09:32:10, Thread-111: Customer 109 eating
+09:32:10, Thread-109: Customer 107 is leaving
+09:32:10, Thread-1: Customer 110 is now created
+09:32:10, Thread-112: Customer 110 entering serving area
+09:32:10, Thread-112: Customer 110 eating
+09:32:10, Thread-110: Customer 108 is leaving
+09:32:10, Thread-1: Customer 111 is now created
+09:32:10, Thread-113: Customer 111 entering serving area
+09:32:10, Thread-113: Customer 111 eating
+09:32:10, Thread-111: Customer 109 is leaving
+09:32:10, Thread-1: Customer 112 is now created
+09:32:10, Thread-114: Customer 112 entering serving area
+09:32:10, Thread-114: Customer 112 eating
+09:32:10, Thread-112: Customer 110 is leaving
+09:32:10, Thread-1: Customer 113 is now created
+09:32:10, Thread-115: Customer 113 entering serving area
+09:32:10, Thread-115: Customer 113 eating
+09:32:10, Thread-113: Customer 111 is leaving
+09:32:10, Thread-1: Customer 114 is now created
+09:32:10, Thread-116: Customer 114 entering serving area
+09:32:10, Thread-116: Customer 114 eating
+09:32:10, Thread-114: Customer 112 is leaving
+09:32:10, Thread-1: Customer 115 is now created
+09:32:10, Thread-117: Customer 115 entering serving area
+09:32:10, Thread-117: Customer 115 eating
+09:32:10, Thread-115: Customer 113 is leaving
+09:32:10, Thread-1: Customer 116 is now created
+09:32:10, Thread-118: Customer 116 entering serving area
+09:32:10, Thread-118: Customer 116 eating
+09:32:10, Thread-116: Customer 114 is leaving
+09:32:10, Thread-1: Customer 117 is now created
+09:32:10, Thread-119: Customer 117 entering serving area
+09:32:10, Thread-119: Customer 117 eating
+09:32:10, Thread-117: Customer 115 is leaving
+09:32:10, Thread-1: Customer 118 is now created
+09:32:10, Thread-120: Customer 118 entering serving area
+09:32:10, Thread-120: Customer 118 eating
+09:32:10, Thread-118: Customer 116 is leaving
+09:32:10, Thread-1: Customer 119 is now created
+09:32:10, Thread-121: Customer 119 entering serving area
+09:32:10, Thread-121: Customer 119 eating
+09:32:10, Thread-119: Customer 117 is leaving
+09:32:10, Thread-1: Customer 120 is now created
+09:32:10, Thread-122: Customer 120 entering serving area
+09:32:10, Thread-122: Customer 120 eating
+09:32:10, Thread-120: Customer 118 is leaving
+09:32:10, Thread-1: Customer 121 is now created
+09:32:10, Thread-123: Customer 121 entering serving area
+09:32:10, Thread-123: Customer 121 eating
+09:32:10, Thread-1: Customer 122 is now created
+09:32:10, Thread-121: Customer 119 is leaving
+09:32:10, Thread-124: Customer 122 entering serving area
+09:32:10, Thread-124: Customer 122 eating
+09:32:10, Thread-1: Customer 123 is now created
+09:32:10, Thread-122: Customer 120 is leaving
+09:32:10, Thread-125: Customer 123 entering serving area
+09:32:10, Thread-125: Customer 123 eating
+09:32:10, Thread-123: Customer 121 is leaving
+09:32:10, Thread-1: Customer 124 is now created
+09:32:10, Thread-126: Customer 124 entering serving area
+09:32:10, Thread-126: Customer 124 eating
+09:32:10, Thread-124: Customer 122 is leaving
+09:32:10, Thread-1: Customer 125 is now created
+09:32:10, Thread-127: Customer 125 entering serving area
+09:32:10, Thread-127: Customer 125 eating
+09:32:10, Thread-125: Customer 123 is leaving
+09:32:10, Thread-1: Customer 126 is now created
+09:32:10, Thread-128: Customer 126 entering serving area
+09:32:10, Thread-128: Customer 126 eating
+09:32:10, Thread-126: Customer 124 is leaving
+09:32:10, Thread-1: Customer 127 is now created
+09:32:10, Thread-129: Customer 127 entering serving area
+09:32:10, Thread-129: Customer 127 eating
+09:32:10, Thread-127: Customer 125 is leaving
+09:32:10, Thread-1: Customer 128 is now created
+09:32:10, Thread-130: Customer 128 entering serving area
+09:32:10, Thread-130: Customer 128 eating
+09:32:10, Thread-128: Customer 126 is leaving
+09:32:10, Thread-1: Customer 129 is now created
+09:32:10, Thread-131: Customer 129 entering serving area
+09:32:10, Thread-131: Customer 129 eating
+09:32:10, Thread-129: Customer 127 is leaving
+09:32:10, Thread-1: Customer 130 is now created
+09:32:10, Thread-132: Customer 130 entering serving area
+09:32:10, Thread-132: Customer 130 eating
+09:32:10, Thread-130: Customer 128 is leaving
+09:32:10, Thread-1: Customer 131 is now created
+09:32:10, Thread-133: Customer 131 entering serving area
+09:32:10, Thread-133: Customer 131 eating
+09:32:10, Thread-131: Customer 129 is leaving
+09:32:10, Thread-1: Customer 132 is now created
+09:32:10, Thread-134: Customer 132 entering serving area
+09:32:10, Thread-134: Customer 132 eating
+09:32:10, Thread-132: Customer 130 is leaving
+09:32:10, Thread-1: Customer 133 is now created
+09:32:10, Thread-135: Customer 133 entering serving area
+09:32:10, Thread-135: Customer 133 eating
+09:32:10, Thread-133: Customer 131 is leaving
+09:32:10, Thread-1: Customer 134 is now created
+09:32:10, Thread-136: Customer 134 entering serving area
+09:32:10, Thread-136: Customer 134 eating
+09:32:10, Thread-134: Customer 132 is leaving
+09:32:10, Thread-1: Customer 135 is now created
+09:32:10, Thread-137: Customer 135 entering serving area
+09:32:10, Thread-137: Customer 135 eating
+09:32:10, Thread-135: Customer 133 is leaving
+09:32:10, Thread-1: Customer 136 is now created
+09:32:10, Thread-138: Customer 136 entering serving area
+09:32:10, Thread-138: Customer 136 eating
+09:32:10, Thread-136: Customer 134 is leaving
+09:32:10, Thread-1: Customer 137 is now created
+09:32:10, Thread-139: Customer 137 entering serving area
+09:32:10, Thread-139: Customer 137 eating
+09:32:10, Thread-137: Customer 135 is leaving
+09:32:10, Thread-1: Customer 138 is now created
+09:32:10, Thread-140: Customer 138 entering serving area
+09:32:10, Thread-140: Customer 138 eating
+09:32:10, Thread-138: Customer 136 is leaving
+09:32:10, Thread-1: Customer 139 is now created
+09:32:10, Thread-141: Customer 139 entering serving area
+09:32:10, Thread-141: Customer 139 eating
+09:32:10, Thread-139: Customer 137 is leaving
+09:32:10, Thread-1: Customer 140 is now created
+09:32:10, Thread-142: Customer 140 entering serving area
+09:32:10, Thread-142: Customer 140 eating
+09:32:10, Thread-140: Customer 138 is leaving
+09:32:10, Thread-1: Customer 141 is now created
+09:32:10, Thread-143: Customer 141 entering serving area
+09:32:10, Thread-143: Customer 141 eating
+09:32:10, Thread-141: Customer 139 is leaving
+09:32:10, Thread-1: Customer 142 is now created
+09:32:10, Thread-144: Customer 142 entering serving area
+09:32:10, Thread-144: Customer 142 eating
+09:32:10, Thread-142: Customer 140 is leaving
+09:32:10, Thread-1: Customer 143 is now created
+09:32:10, Thread-145: Customer 143 entering serving area
+09:32:10, Thread-145: Customer 143 eating
+09:32:10, Thread-143: Customer 141 is leaving
+09:32:10, Thread-1: Customer 144 is now created
+09:32:10, Thread-146: Customer 144 entering serving area
+09:32:10, Thread-146: Customer 144 eating
+09:32:11, Thread-144: Customer 142 is leaving
+09:32:11, Thread-1: Customer 145 is now created
+09:32:11, Thread-147: Customer 145 entering serving area
+09:32:11, Thread-147: Customer 145 eating
+09:32:11, Thread-145: Customer 143 is leaving
+09:32:11, Thread-1: Customer 146 is now created
+09:32:11, Thread-148: Customer 146 entering serving area
+09:32:11, Thread-148: Customer 146 eating
+09:32:11, Thread-146: Customer 144 is leaving
+09:32:11, Thread-1: Customer 147 is now created
+09:32:11, Thread-149: Customer 147 entering serving area
+09:32:11, Thread-149: Customer 147 eating
+09:32:11, Thread-1: Customer 148 is now created
+09:32:11, Thread-147: Customer 145 is leaving
+09:32:11, Thread-150: Customer 148 entering serving area
+09:32:11, Thread-150: Customer 148 eating
+09:32:11, Thread-148: Customer 146 is leaving
+09:32:11, Thread-1: Customer 149 is now created
+09:32:11, Thread-151: Customer 149 entering serving area
+09:32:11, Thread-151: Customer 149 eating
+09:32:11, Thread-149: Customer 147 is leaving
+09:32:11, Thread-1: Customer 150 is now created
+09:32:11, Thread-152: Customer 150 entering serving area
+09:32:11, Thread-152: Customer 150 eating
+09:32:11, Thread-150: Customer 148 is leaving
+09:32:11, Thread-1: Customer 151 is now created
+09:32:11, Thread-153: Customer 151 entering serving area
+09:32:11, Thread-153: Customer 151 eating
+09:32:11, Thread-151: Customer 149 is leaving
+09:32:11, Thread-1: Customer 152 is now created
+09:32:11, Thread-154: Customer 152 entering serving area
+09:32:11, Thread-154: Customer 152 eating
+09:32:11, Thread-152: Customer 150 is leaving
+09:32:11, Thread-1: Customer 153 is now created
+09:32:11, Thread-155: Customer 153 entering serving area
+09:32:11, Thread-155: Customer 153 eating
+09:32:11, Thread-153: Customer 151 is leaving
+09:32:11, Thread-1: Customer 154 is now created
+09:32:11, Thread-156: Customer 154 entering serving area
+09:32:11, Thread-156: Customer 154 eating
+09:32:11, Thread-154: Customer 152 is leaving
+09:32:11, Thread-1: Customer 155 is now created
+09:32:11, Thread-157: Customer 155 entering serving area
+09:32:11, Thread-157: Customer 155 eating
+09:32:11, Thread-155: Customer 153 is leaving
+09:32:11, Thread-1: Customer 156 is now created
+09:32:11, Thread-158: Customer 156 entering serving area
+09:32:11, Thread-158: Customer 156 eating
+09:32:11, Thread-156: Customer 154 is leaving
+09:32:11, Thread-1: Customer 157 is now created
+09:32:11, Thread-159: Customer 157 entering serving area
+09:32:11, Thread-159: Customer 157 eating
+09:32:11, Thread-157: Customer 155 is leaving
+09:32:11, Thread-1: Customer 158 is now created
+09:32:11, Thread-160: Customer 158 entering serving area
+09:32:11, Thread-160: Customer 158 eating
+09:32:11, Thread-158: Customer 156 is leaving
+09:32:11, Thread-1: Customer 159 is now created
+09:32:11, Thread-161: Customer 159 entering serving area
+09:32:11, Thread-161: Customer 159 eating
+09:32:11, Thread-159: Customer 157 is leaving
+09:32:11, Thread-1: Customer 160 is now created
+09:32:11, Thread-162: Customer 160 entering serving area
+09:32:11, Thread-162: Customer 160 eating
+09:32:11, Thread-160: Customer 158 is leaving
+09:32:11, Thread-1: Customer 161 is now created
+09:32:11, Thread-163: Customer 161 entering serving area
+09:32:11, Thread-163: Customer 161 eating
+09:32:11, Thread-161: Customer 159 is leaving
+09:32:11, Thread-1: Customer 162 is now created
+09:32:11, Thread-164: Customer 162 entering serving area
+09:32:11, Thread-164: Customer 162 eating
+09:32:11, Thread-1: Customer 163 is now created
+09:32:11, Thread-162: Customer 160 is leaving
+09:32:11, Thread-165: Customer 163 entering serving area
+09:32:11, Thread-165: Customer 163 eating
+09:32:11, Thread-163: Customer 161 is leaving
+09:32:11, Thread-1: Customer 164 is now created
+09:32:11, Thread-166: Customer 164 entering serving area
+09:32:11, Thread-166: Customer 164 eating
+09:32:11, Thread-164: Customer 162 is leaving
+09:32:11, Thread-1: Customer 165 is now created
+09:32:11, Thread-167: Customer 165 entering serving area
+09:32:11, Thread-167: Customer 165 eating
+09:32:11, Thread-1: Customer 166 is now created
+09:32:11, Thread-168: Customer 166 entering serving area
+09:32:11, Thread-168: Customer 166 eating
+09:32:11, Thread-165: Customer 163 is leaving
+09:32:11, Thread-166: Customer 164 is leaving
+09:32:11, Thread-1: Customer 167 is now created
+09:32:11, Thread-169: Customer 167 entering serving area
+09:32:11, Thread-169: Customer 167 eating
+09:32:11, Thread-167: Customer 165 is leaving
+09:32:11, Thread-1: Customer 168 is now created
+09:32:11, Thread-170: Customer 168 entering serving area
+09:32:11, Thread-170: Customer 168 eating
+09:32:11, Thread-168: Customer 166 is leaving
+09:32:11, Thread-1: Customer 169 is now created
+09:32:11, Thread-171: Customer 169 entering serving area
+09:32:11, Thread-171: Customer 169 eating
+09:32:11, Thread-169: Customer 167 is leaving
+09:32:11, Thread-1: Customer 170 is now created
+09:32:11, Thread-172: Customer 170 entering serving area
+09:32:11, Thread-172: Customer 170 eating
+09:32:11, Thread-170: Customer 168 is leaving
+09:32:11, Thread-1: Customer 171 is now created
+09:32:11, Thread-173: Customer 171 entering serving area
+09:32:11, Thread-173: Customer 171 eating
+09:32:11, Thread-171: Customer 169 is leaving
+09:32:11, Thread-1: Customer 172 is now created
+09:32:11, Thread-174: Customer 172 entering serving area
+09:32:11, Thread-174: Customer 172 eating
+09:32:11, Thread-172: Customer 170 is leaving
+09:32:11, Thread-1: Customer 173 is now created
+09:32:11, Thread-175: Customer 173 entering serving area
+09:32:11, Thread-175: Customer 173 eating
+09:32:11, Thread-173: Customer 171 is leaving
+09:32:11, Thread-1: Customer 174 is now created
+09:32:11, Thread-176: Customer 174 entering serving area
+09:32:11, Thread-176: Customer 174 eating
+09:32:11, Thread-174: Customer 172 is leaving
+09:32:11, Thread-1: Customer 175 is now created
+09:32:11, Thread-177: Customer 175 entering serving area
+09:32:11, Thread-177: Customer 175 eating
+09:32:11, Thread-175: Customer 173 is leaving
+09:32:11, Thread-1: Customer 176 is now created
+09:32:11, Thread-178: Customer 176 entering serving area
+09:32:11, Thread-178: Customer 176 eating
+09:32:11, Thread-176: Customer 174 is leaving
+09:32:11, Thread-1: Customer 177 is now created
+09:32:11, Thread-179: Customer 177 entering serving area
+09:32:11, Thread-179: Customer 177 eating
+09:32:11, Thread-177: Customer 175 is leaving
+09:32:11, Thread-1: Customer 178 is now created
+09:32:11, Thread-180: Customer 178 entering serving area
+09:32:11, Thread-180: Customer 178 eating
+09:32:11, Thread-178: Customer 176 is leaving
+09:32:11, Thread-1: Customer 179 is now created
+09:32:11, Thread-181: Customer 179 entering serving area
+09:32:11, Thread-181: Customer 179 eating
+09:32:11, Thread-179: Customer 177 is leaving
+09:32:11, Thread-1: Customer 180 is now created
+09:32:11, Thread-182: Customer 180 entering serving area
+09:32:11, Thread-182: Customer 180 eating
+09:32:11, Thread-180: Customer 178 is leaving
+09:32:11, Thread-1: Customer 181 is now created
+09:32:11, Thread-183: Customer 181 entering serving area
+09:32:11, Thread-183: Customer 181 eating
+09:32:11, Thread-181: Customer 179 is leaving
+09:32:11, Thread-1: Customer 182 is now created
+09:32:11, Thread-184: Customer 182 entering serving area
+09:32:11, Thread-184: Customer 182 eating
+09:32:11, Thread-182: Customer 180 is leaving
+09:32:11, Thread-1: Customer 183 is now created
+09:32:11, Thread-185: Customer 183 entering serving area
+09:32:11, Thread-185: Customer 183 eating
+09:32:11, Thread-183: Customer 181 is leaving
+09:32:11, Thread-1: Customer 184 is now created
+09:32:11, Thread-186: Customer 184 entering serving area
+09:32:11, Thread-186: Customer 184 eating
+09:32:11, Thread-184: Customer 182 is leaving
+09:32:11, Thread-1: Customer 185 is now created
+09:32:11, Thread-187: Customer 185 entering serving area
+09:32:11, Thread-187: Customer 185 eating
+09:32:11, Thread-185: Customer 183 is leaving
+09:32:11, Thread-1: Customer 186 is now created
+09:32:11, Thread-188: Customer 186 entering serving area
+09:32:11, Thread-188: Customer 186 eating
+09:32:11, Thread-186: Customer 184 is leaving
+09:32:11, Thread-1: Customer 187 is now created
+09:32:11, Thread-189: Customer 187 entering serving area
+09:32:11, Thread-189: Customer 187 eating
+09:32:11, Thread-187: Customer 185 is leaving
+09:32:11, Thread-1: Customer 188 is now created
+09:32:11, Thread-190: Customer 188 entering serving area
+09:32:11, Thread-190: Customer 188 eating
+09:32:11, Thread-188: Customer 186 is leaving
+09:32:11, Thread-1: Customer 189 is now created
+09:32:11, Thread-191: Customer 189 entering serving area
+09:32:11, Thread-191: Customer 189 eating
+09:32:11, Thread-189: Customer 187 is leaving
+09:32:11, Thread-1: Customer 190 is now created
+09:32:11, Thread-192: Customer 190 entering serving area
+09:32:11, Thread-192: Customer 190 eating
+09:32:11, Thread-190: Customer 188 is leaving
+09:32:11, Thread-1: Customer 191 is now created
+09:32:11, Thread-193: Customer 191 entering serving area
+09:32:11, Thread-193: Customer 191 eating
+09:32:11, Thread-191: Customer 189 is leaving
+09:32:11, Thread-1: Customer 192 is now created
+09:32:11, Thread-194: Customer 192 entering serving area
+09:32:11, Thread-194: Customer 192 eating
+09:32:11, Thread-192: Customer 190 is leaving
+09:32:11, Thread-1: Customer 193 is now created
+09:32:11, Thread-195: Customer 193 entering serving area
+09:32:11, Thread-195: Customer 193 eating
+09:32:11, Thread-193: Customer 191 is leaving
+09:32:11, Thread-1: Customer 194 is now created
+09:32:11, Thread-196: Customer 194 entering serving area
+09:32:11, Thread-196: Customer 194 eating
+09:32:11, Thread-194: Customer 192 is leaving
+09:32:11, Thread-1: Customer 195 is now created
+09:32:11, Thread-197: Customer 195 entering serving area
+09:32:11, Thread-197: Customer 195 eating
+09:32:11, Thread-195: Customer 193 is leaving
+09:32:11, Thread-1: Customer 196 is now created
+09:32:11, Thread-198: Customer 196 entering serving area
+09:32:11, Thread-198: Customer 196 eating
+09:32:11, Thread-196: Customer 194 is leaving
+09:32:11, Thread-1: Customer 197 is now created
+09:32:11, Thread-199: Customer 197 entering serving area
+09:32:11, Thread-199: Customer 197 eating
+09:32:11, Thread-197: Customer 195 is leaving
+09:32:11, Thread-1: Customer 198 is now created
+09:32:11, Thread-200: Customer 198 entering serving area
+09:32:11, Thread-200: Customer 198 eating
+09:32:11, Thread-198: Customer 196 is leaving
+09:32:11, Thread-1: Customer 199 is now created
+09:32:11, Thread-201: Customer 199 entering serving area
+09:32:11, Thread-201: Customer 199 eating
+09:32:11, Thread-199: Customer 197 is leaving
+09:32:11, Thread-1: Customer 200 is now created
+09:32:11, Thread-202: Customer 200 entering serving area
+09:32:11, Thread-202: Customer 200 eating
+09:32:11, Thread-200: Customer 198 is leaving
+09:32:11, Thread-1: Customer 201 is now created
+09:32:11, Thread-203: Customer 201 entering serving area
+09:32:11, Thread-203: Customer 201 eating
+09:32:11, Thread-201: Customer 199 is leaving
+09:32:11, Thread-1: Customer 202 is now created
+09:32:11, Thread-204: Customer 202 entering serving area
+09:32:11, Thread-204: Customer 202 eating
+09:32:11, Thread-202: Customer 200 is leaving
+09:32:11, Thread-1: Customer 203 is now created
+09:32:11, Thread-205: Customer 203 entering serving area
+09:32:11, Thread-205: Customer 203 eating
+09:32:11, Thread-203: Customer 201 is leaving
+09:32:11, Thread-1: Customer 204 is now created
+09:32:11, Thread-206: Customer 204 entering serving area
+09:32:11, Thread-206: Customer 204 eating
+09:32:11, Thread-204: Customer 202 is leaving
+09:32:11, Thread-1: Customer 205 is now created
+09:32:11, Thread-207: Customer 205 entering serving area
+09:32:11, Thread-207: Customer 205 eating
+09:32:11, Thread-205: Customer 203 is leaving
+09:32:11, Thread-1: Customer 206 is now created
+09:32:11, Thread-208: Customer 206 entering serving area
+09:32:11, Thread-208: Customer 206 eating
+09:32:11, Thread-206: Customer 204 is leaving
+09:32:11, Thread-1: Customer 207 is now created
+09:32:11, Thread-209: Customer 207 entering serving area
+09:32:11, Thread-209: Customer 207 eating
+09:32:11, Thread-207: Customer 205 is leaving
+09:32:11, Thread-1: Customer 208 is now created
+09:32:11, Thread-210: Customer 208 entering serving area
+09:32:11, Thread-210: Customer 208 eating
+09:32:11, Thread-208: Customer 206 is leaving
+09:32:11, Thread-1: Customer 209 is now created
+09:32:11, Thread-211: Customer 209 entering serving area
+09:32:11, Thread-211: Customer 209 eating
+09:32:11, Thread-209: Customer 207 is leaving
+09:32:11, Thread-1: Customer 210 is now created
+09:32:11, Thread-212: Customer 210 entering serving area
+09:32:11, Thread-212: Customer 210 eating
+09:32:11, Thread-210: Customer 208 is leaving
+09:32:11, Thread-1: Customer 211 is now created
+09:32:11, Thread-213: Customer 211 entering serving area
+09:32:11, Thread-213: Customer 211 eating
+09:32:11, Thread-211: Customer 209 is leaving
+09:32:11, Thread-1: Customer 212 is now created
+09:32:11, Thread-214: Customer 212 entering serving area
+09:32:11, Thread-214: Customer 212 eating
+09:32:11, Thread-212: Customer 210 is leaving
+09:32:11, Thread-1: Customer 213 is now created
+09:32:11, Thread-215: Customer 213 entering serving area
+09:32:11, Thread-215: Customer 213 eating
+09:32:11, Thread-213: Customer 211 is leaving
+09:32:11, Thread-1: Customer 214 is now created
+09:32:11, Thread-216: Customer 214 entering serving area
+09:32:11, Thread-216: Customer 214 eating
+09:32:11, Thread-214: Customer 212 is leaving
+09:32:11, Thread-1: Customer 215 is now created
+09:32:11, Thread-217: Customer 215 entering serving area
+09:32:11, Thread-217: Customer 215 eating
+09:32:11, Thread-215: Customer 213 is leaving
+09:32:11, Thread-1: Customer 216 is now created
+09:32:11, Thread-218: Customer 216 entering serving area
+09:32:11, Thread-218: Customer 216 eating
+09:32:11, Thread-216: Customer 214 is leaving
+09:32:11, Thread-1: Customer 217 is now created
+09:32:11, Thread-219: Customer 217 entering serving area
+09:32:11, Thread-219: Customer 217 eating
+09:32:11, Thread-217: Customer 215 is leaving
+09:32:11, Thread-1: Customer 218 is now created
+09:32:11, Thread-220: Customer 218 entering serving area
+09:32:11, Thread-220: Customer 218 eating
+09:32:11, Thread-218: Customer 216 is leaving
+09:32:11, Thread-1: Customer 219 is now created
+09:32:11, Thread-221: Customer 219 entering serving area
+09:32:11, Thread-221: Customer 219 eating
+09:32:11, Thread-219: Customer 217 is leaving
+09:32:11, Thread-1: Customer 220 is now created
+09:32:11, Thread-222: Customer 220 entering serving area
+09:32:11, Thread-222: Customer 220 eating
+09:32:11, Thread-220: Customer 218 is leaving
+09:32:11, Thread-1: Customer 221 is now created
+09:32:11, Thread-223: Customer 221 entering serving area
+09:32:11, Thread-223: Customer 221 eating
+09:32:11, Thread-221: Customer 219 is leaving
+09:32:11, Thread-1: Customer 222 is now created
+09:32:11, Thread-224: Customer 222 entering serving area
+09:32:11, Thread-224: Customer 222 eating
+09:32:11, Thread-222: Customer 220 is leaving
+09:32:11, Thread-1: Customer 223 is now created
+09:32:11, Thread-225: Customer 223 entering serving area
+09:32:11, Thread-225: Customer 223 eating
+09:32:11, Thread-223: Customer 221 is leaving
+09:32:11, Thread-1: Customer 224 is now created
+09:32:11, Thread-226: Customer 224 entering serving area
+09:32:11, Thread-226: Customer 224 eating
+09:32:11, Thread-224: Customer 222 is leaving
+09:32:11, Thread-1: Customer 225 is now created
+09:32:11, Thread-227: Customer 225 entering serving area
+09:32:11, Thread-227: Customer 225 eating
+09:32:11, Thread-225: Customer 223 is leaving
+09:32:11, Thread-1: Customer 226 is now created
+09:32:11, Thread-228: Customer 226 entering serving area
+09:32:11, Thread-228: Customer 226 eating
+09:32:11, Thread-226: Customer 224 is leaving
+09:32:11, Thread-1: Customer 227 is now created
+09:32:11, Thread-229: Customer 227 entering serving area
+09:32:11, Thread-229: Customer 227 eating
+09:32:11, Thread-227: Customer 225 is leaving
+09:32:11, Thread-1: Customer 228 is now created
+09:32:11, Thread-230: Customer 228 entering serving area
+09:32:11, Thread-230: Customer 228 eating
+09:32:11, Thread-228: Customer 226 is leaving
+09:32:11, Thread-1: Customer 229 is now created
+09:32:11, Thread-231: Customer 229 entering serving area
+09:32:11, Thread-231: Customer 229 eating
+09:32:11, Thread-229: Customer 227 is leaving
+09:32:11, Thread-1: Customer 230 is now created
+09:32:11, Thread-232: Customer 230 entering serving area
+09:32:11, Thread-232: Customer 230 eating
+09:32:11, Thread-230: Customer 228 is leaving
+09:32:11, Thread-1: Customer 231 is now created
+09:32:11, Thread-233: Customer 231 entering serving area
+09:32:11, Thread-233: Customer 231 eating
+09:32:12, Thread-231: Customer 229 is leaving
+09:32:12, Thread-1: Customer 232 is now created
+09:32:12, Thread-234: Customer 232 entering serving area
+09:32:12, Thread-234: Customer 232 eating
+09:32:12, Thread-232: Customer 230 is leaving
+09:32:12, Thread-1: Customer 233 is now created
+09:32:12, Thread-235: Customer 233 entering serving area
+09:32:12, Thread-235: Customer 233 eating
+09:32:12, Thread-233: Customer 231 is leaving
+09:32:12, Thread-1: Customer 234 is now created
+09:32:12, Thread-236: Customer 234 entering serving area
+09:32:12, Thread-236: Customer 234 eating
+09:32:12, Thread-234: Customer 232 is leaving
+09:32:12, Thread-1: Customer 235 is now created
+09:32:12, Thread-237: Customer 235 entering serving area
+09:32:12, Thread-237: Customer 235 eating
+09:32:12, Thread-235: Customer 233 is leaving
+09:32:12, Thread-1: Customer 236 is now created
+09:32:12, Thread-238: Customer 236 entering serving area
+09:32:12, Thread-238: Customer 236 eating
+09:32:12, Thread-236: Customer 234 is leaving
+09:32:12, Thread-1: Customer 237 is now created
+09:32:12, Thread-239: Customer 237 entering serving area
+09:32:12, Thread-239: Customer 237 eating
+09:32:12, Thread-237: Customer 235 is leaving
+09:32:12, Thread-1: Customer 238 is now created
+09:32:12, Thread-240: Customer 238 entering serving area
+09:32:12, Thread-240: Customer 238 eating
+09:32:12, Thread-238: Customer 236 is leaving
+09:32:12, Thread-1: Customer 239 is now created
+09:32:12, Thread-241: Customer 239 entering serving area
+09:32:12, Thread-241: Customer 239 eating
+09:32:12, Thread-239: Customer 237 is leaving
+09:32:12, Thread-1: Customer 240 is now created
+09:32:12, Thread-242: Customer 240 entering serving area
+09:32:12, Thread-242: Customer 240 eating
+09:32:12, Thread-240: Customer 238 is leaving
+09:32:12, Thread-1: Customer 241 is now created
+09:32:12, Thread-243: Customer 241 entering serving area
+09:32:12, Thread-243: Customer 241 eating
+09:32:12, Thread-241: Customer 239 is leaving
+09:32:12, Thread-1: Customer 242 is now created
+09:32:12, Thread-244: Customer 242 entering serving area
+09:32:12, Thread-244: Customer 242 eating
+09:32:12, Thread-242: Customer 240 is leaving
+09:32:12, Thread-1: Customer 243 is now created
+09:32:12, Thread-245: Customer 243 entering serving area
+09:32:12, Thread-245: Customer 243 eating
+09:32:12, Thread-243: Customer 241 is leaving
+09:32:12, Thread-1: Customer 244 is now created
+09:32:12, Thread-246: Customer 244 entering serving area
+09:32:12, Thread-246: Customer 244 eating
+09:32:12, Thread-244: Customer 242 is leaving
+09:32:12, Thread-1: Customer 245 is now created
+09:32:12, Thread-247: Customer 245 entering serving area
+09:32:12, Thread-247: Customer 245 eating
+09:32:12, Thread-245: Customer 243 is leaving
+09:32:12, Thread-1: Customer 246 is now created
+09:32:12, Thread-248: Customer 246 entering serving area
+09:32:12, Thread-248: Customer 246 eating
+09:32:12, Thread-246: Customer 244 is leaving
+09:32:12, Thread-1: Customer 247 is now created
+09:32:12, Thread-249: Customer 247 entering serving area
+09:32:12, Thread-249: Customer 247 eating
+09:32:12, Thread-247: Customer 245 is leaving
+09:32:12, Thread-1: Customer 248 is now created
+09:32:12, Thread-250: Customer 248 entering serving area
+09:32:12, Thread-250: Customer 248 eating
+09:32:12, Thread-248: Customer 246 is leaving
+09:32:12, Thread-1: Customer 249 is now created
+09:32:12, Thread-251: Customer 249 entering serving area
+09:32:12, Thread-251: Customer 249 eating
+09:32:12, Thread-249: Customer 247 is leaving
+09:32:12, Thread-1: Customer 250 is now created
+09:32:12, Thread-252: Customer 250 entering serving area
+09:32:12, Thread-252: Customer 250 eating
+09:32:12, Thread-250: Customer 248 is leaving
+09:32:12, Thread-1: Customer 251 is now created
+09:32:12, Thread-253: Customer 251 entering serving area
+09:32:12, Thread-253: Customer 251 eating
+09:32:12, Thread-251: Customer 249 is leaving
+09:32:12, Thread-1: Customer 252 is now created
+09:32:12, Thread-254: Customer 252 entering serving area
+09:32:12, Thread-254: Customer 252 eating
+09:32:12, Thread-252: Customer 250 is leaving
+09:32:12, Thread-1: Customer 253 is now created
+09:32:12, Thread-255: Customer 253 entering serving area
+09:32:12, Thread-255: Customer 253 eating
+09:32:12, Thread-253: Customer 251 is leaving
+09:32:12, Thread-1: Customer 254 is now created
+09:32:12, Thread-256: Customer 254 entering serving area
+09:32:12, Thread-256: Customer 254 eating
+09:32:12, Thread-254: Customer 252 is leaving
+09:32:12, Thread-1: Customer 255 is now created
+09:32:12, Thread-257: Customer 255 entering serving area
+09:32:12, Thread-257: Customer 255 eating
+09:32:12, Thread-255: Customer 253 is leaving
+09:32:12, Thread-1: Customer 256 is now created
+09:32:12, Thread-258: Customer 256 entering serving area
+09:32:12, Thread-258: Customer 256 eating
+09:32:12, Thread-256: Customer 254 is leaving
+09:32:12, Thread-1: Customer 257 is now created
+09:32:12, Thread-259: Customer 257 entering serving area
+09:32:12, Thread-259: Customer 257 eating
+09:32:12, Thread-257: Customer 255 is leaving
+09:32:12, Thread-1: Customer 258 is now created
+09:32:12, Thread-260: Customer 258 entering serving area
+09:32:12, Thread-260: Customer 258 eating
+09:32:12, Thread-258: Customer 256 is leaving
+09:32:12, Thread-1: Customer 259 is now created
+09:32:12, Thread-261: Customer 259 entering serving area
+09:32:12, Thread-261: Customer 259 eating
+09:32:12, Thread-259: Customer 257 is leaving
+09:32:12, Thread-1: The door has closed
+09:32:12, Thread-260: Customer 258 is leaving
+09:32:12, Thread-261: Customer 259 is leaving
