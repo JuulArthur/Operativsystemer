@@ -70,6 +70,9 @@ public class ServingArea {
 	}
 	
 	public synchronized static void leave(Customer customer){
+		totalOrders+=customer.getOrders();
+		totalEatenOrders+=customer.getEatenOrders();
+		totalTakeAwayOrders+=customer.getTakeAwayOrders();
 		if(customers.indexOf(customer)>0){
 			Customer oldCustomer = customers.remove(0);
 			synchronized (oldCustomer){
@@ -90,8 +93,6 @@ public class ServingArea {
 			customers.add(newCustomer);
 			queCustomers.remove(newCustomer);
 		}
-		System.out.println(customers);
-		System.out.println(queCustomers);
 		if(customers.size()==0 && queCustomers.size()==0){
 			SushiBar.write(Thread.currentThread().getName()+": Total number of orders are "+totalOrders);
 			SushiBar.write(Thread.currentThread().getName()+": Total number of eaten orders are "+totalEatenOrders);
