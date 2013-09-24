@@ -32,10 +32,6 @@ public class Customer implements Runnable{
 		return id;
 	}
 	
-	public synchronized void notifyMe(){
-		this.notify();
-	}
-	
 	public synchronized void waitMe(){
 		try {
 			this.wait();
@@ -44,19 +40,19 @@ public class Customer implements Runnable{
 	}
 
 	public void run() {
-		if(!ServingArea.isSpace()){
+		if(!ServingArea.enter(this)){
+			SushiBar.write(Thread.currentThread().getName()+ ": Customer "+id+" is waiting for a free seat");
 			waitMe();
 		}
-		ServingArea.handleCustomer(this, true);
 		SushiBar.write(Thread.currentThread().getName()+ ": Customer "+id+" entering serving area");
 		try {
-			SushiBar.write(Thread.currentThread().getName()+ ": Customer "+id+" eating");
+			SushiBar.write(Thread.currentThread().getName()+ ": Customer "+id+" is eating sushi");
 			Thread.sleep(SushiBar.customerWait);
 		} catch (InterruptedException e) {
 			// TODO Auto-generated catch block
 			e.printStackTrace();
 		}
-		ServingArea.handleCustomer(this, false);
+		ServingArea.leave(this);
 		SushiBar.write(Thread.currentThread().getName()+ ": Customer "+id+" is leaving");
 	}
 	
