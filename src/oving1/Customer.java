@@ -40,14 +40,14 @@ public class Customer implements Runnable{
 	}
 
 	public void run() {
-		if(!ServingArea.enter(this)){
+		if(!ServingArea.enter(this)){ //If it is able to enter the serving area it will not wait but just continue to eat
 			SushiBar.write(Thread.currentThread().getName()+ ": Customer "+id+" is waiting for a free seat");
-			waitMe();
+			waitMe(); //The customer waits to be notified
 		}
 		SushiBar.write(Thread.currentThread().getName()+ ": Customer "+id+" entering serving area");
 		try {
 			SushiBar.write(Thread.currentThread().getName()+ ": Customer "+id+" is eating sushi");
-			Thread.sleep(SushiBar.customerWait);
+			Thread.sleep(SushiBar.customerWait); //The customer is eating
 		} catch (InterruptedException e) {
 			// TODO Auto-generated catch block
 			e.printStackTrace();
@@ -56,7 +56,7 @@ public class Customer implements Runnable{
 		SushiBar.write(Thread.currentThread().getName()+ ": Customer "+id+" is leaving");
 	}
 	
-	public String toString(){
+	public String toString(){ //only used when I want to print information about the program, not used in the exercise
 		return (""+id);
 	}
 

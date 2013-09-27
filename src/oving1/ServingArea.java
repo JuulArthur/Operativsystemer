@@ -39,6 +39,14 @@ public class ServingArea {
 		return totalTakeAwayOrders;
 	}
 	
+	public static void printStatistics(){
+		if(customers.size()==0 && queCustomers.size()==0 && !SushiBar.isOpen){ //we shall only print statistics if all the customers have left and the door is closed
+			SushiBar.write(Thread.currentThread().getName()+": Total number of orders are "+totalOrders);
+			SushiBar.write(Thread.currentThread().getName()+": Total number of eaten orders are "+totalEatenOrders);
+			SushiBar.write(Thread.currentThread().getName()+": Total number of takeaway orders are "+totalTakeAwayOrders);
+		}
+	}
+	
 	public synchronized static Customer handleQueCustomer(Customer customer, Boolean bool){
 		if(bool){
 			queCustomers.add(customer);
@@ -56,7 +64,7 @@ public class ServingArea {
 		return queCustomers.get(index);
 	}
 	
-	public synchronized static Boolean enter(Customer customer){
+	public synchronized static Boolean enter(Customer customer){ //Only the customers that enters without beeing called by the leave function use this way to the serving area
 		if (customers.size() < capacity && customer.getId()==id){
 			id++;
 			customers.add(customer);
@@ -70,7 +78,7 @@ public class ServingArea {
 	}
 	
 	public synchronized static void leave(Customer customer){
-		totalOrders+=customer.getOrders();
+		totalOrders+=customer.getOrders(); //adding statistics
 		totalEatenOrders+=customer.getEatenOrders();
 		totalTakeAwayOrders+=customer.getTakeAwayOrders();
 		if(customers.indexOf(customer)>0){
@@ -81,22 +89,18 @@ public class ServingArea {
 		}
 		customers.remove(customer);
 		if(customers.size()+1==capacity){
-			SushiBar.write(Thread.currentThread().getName()+ ": Now there is a free seat in the shop");
+			SushiBar.write(Thread.currentThread().getName()+ ": Now there is a free seat in the shop"); //this is only printet if the bar was full before the customer left
 		}
 		if(queCustomers.size()>0){
 			id++;
 			Customer newCustomer = queCustomers.remove(0);
 			SushiBar.write(Thread.currentThread().getName()+ "Customer "+newCustomer.getId()+": Has a seat now");
 			synchronized (newCustomer){
-				newCustomer.notify();
+				newCustomer.notify(); //wake up the customer that is ready to eat
 			}
-			customers.add(newCustomer);
-			queCustomers.remove(newCustomer);
+			customers.add(newCustomer); //add the customer in the list of customers in the serving area
+			queCustomers.remove(newCustomer); //remove the customer from the waiting que
 		}
-		if(customers.size()==0 && queCustomers.size()==0){
-			SushiBar.write(Thread.currentThread().getName()+": Total number of orders are "+totalOrders);
-			SushiBar.write(Thread.currentThread().getName()+": Total number of eaten orders are "+totalEatenOrders);
-			SushiBar.write(Thread.currentThread().getName()+": Total number of takeaway orders are "+totalTakeAwayOrders);
-		}
+		printStatistics();
 	}
 }

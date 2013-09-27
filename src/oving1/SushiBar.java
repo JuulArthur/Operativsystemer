@@ -10,10 +10,10 @@ import java.util.ArrayList;
 public class SushiBar {
 	//SushiBar settings:
     	//These parameters have to be changed to check that the program works in all situations.
-	public static int capacity =10; //capacity of Sushi Bar
-	private static int duration = 5; // Simulation time
+	public static int capacity =2; //capacity of Sushi Bar
+	private static int duration = 1; // Simulation time
 	public static int maxOrder = 10; // Maximum number of orders for each customer
-	public static int customerWait= 30; // coefficient of eating time for customers
+	public static int customerWait= 1000; // coefficient of eating time for customers
 	public static int doorWait = 10; // coefficient of waiting time for door for creating next customer
 
 
@@ -24,7 +24,7 @@ public class SushiBar {
 	private static File log;
 	private static String path = "./";
         
-	public static void main(String[] args) {
+	public static void main(String[] args) { //It only opens the log file, creates the door and clock.
 		log= new File(path + "log.txt"); 
 		door = new Door();
 		new Thread(door).start();
