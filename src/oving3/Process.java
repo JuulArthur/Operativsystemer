@@ -119,5 +119,34 @@ public class Process implements Constants
 		statistics.nofCompletedProcesses++;
 	}
 
-	// Add more methods as needed
+	/**
+	 * Updates the different timers when a process leaves the CPU 
+	 * @param clock   The global clock used to update the timers
+	 */
+	public void leftCpu(long clock){
+		cpuTimeNeeded-= clock-timeOfLastEvent;
+		timeSpentInCpu += clock-timeOfLastEvent;
+		timeToNextIoOperation -= clock-timeOfLastEvent;
+		timeOfLastEvent = clock;
+	}
+
+	public void enterCpuQueue(long clock) {
+		timeSpentInReadyQueue = clock - timeOfLastEvent;
+		timeOfLastEvent = clock;
+	}
+
+	public void enterCpu(long clock) {
+		timeSpentInReadyQueue += clock - timeOfLastEvent;
+		timeOfLastEvent = clock;
+		
+	}
+
+	public long getTimeToIO() {
+		return timeToNextIoOperation;
+	}
+
+
+	public long getRemainingCpuTime() {
+		return cpuTimeNeeded;
+	}
 }
