@@ -118,6 +118,17 @@ public class Process implements Constants
 		statistics.totalTimeSpentWaitingForMemory += timeSpentWaitingForMemory;
 		statistics.nofCompletedProcesses++;
 	}
+	
+	
+	/**
+	 * Updates the timeSpentInReadyQueue
+	 * @param clock  The global clock used to update the timers
+	 */
+	public void enterCpu(long clock) {
+		timeSpentInReadyQueue += clock - timeOfLastEvent;
+		timeOfLastEvent = clock;
+		
+	}
 
 	/**
 	 * Updates the different timers when a process leaves the CPU 
@@ -130,15 +141,27 @@ public class Process implements Constants
 		timeOfLastEvent = clock;
 	}
 
+	/**
+	 * Updates numberOfTimesInReadyQueue
+	 * @param clock  The global clock used to update the timers
+	 */
 	public void enterCpuQueue(long clock) {
-		timeSpentInReadyQueue = clock - timeOfLastEvent;
+		nofTimesInReadyQueue++;
 		timeOfLastEvent = clock;
 	}
-
-	public void enterCpu(long clock) {
-		timeSpentInReadyQueue += clock - timeOfLastEvent;
+	
+	/**
+	 * Update timeSpentWaitingForIo
+	 * @param clock  The global clock used to update the timers
+	 */
+	public void enterIo(long clock){
+		timeSpentWaitingForIo += clock-timeOfLastEvent;
 		timeOfLastEvent = clock;
-		
+	}
+	
+	public void leftIo(long clock){
+		timeSpentInIo += clock-timeOfLastEvent;
+		// needs morse jobs!
 	}
 
 	public long getTimeToIO() {

@@ -157,11 +157,20 @@ public class Simulator implements Constants
 			process.leftCpu(clock);
 			cpu.addProcess(process);
 			process.enterCpuQueue(clock);
-			statistics.nofCompletedProcesses++;
+			statistics.nofForcedProcessSwitch++;
 		}
 		process = cpu.startNextProcess();
 		if(process != null){
 			process.enterCpu(clock);
+			if(process.getTimeToIO() > cpu.getMaxCpuTime() && process.getRemainingCpuTime() > cpu.getMaxCpuTime()){
+				eventQueue.insertEvent(new Event(SWITCH_PROCESS, clock+cpu.getMaxCpuTime()));
+			}
+			else if(process.getTimeToIO()<process.getRemainingCpuTime()){
+				eventQueue.insertEvent(new Event(END_PROCESS, clock+process.getRemainingCpuTime()));
+			}
+			else{
+				eventQueue.insertEvent(new Event(IO_REQUEST, clock+process.getTimeToIO()));
+			}
 		}
 	}
 
@@ -169,7 +178,10 @@ public class Simulator implements Constants
 	 * Ends the active process, and deallocates any resources allocated to it.
 	 */
 	private void endProcess() {
-		// Incomplete
+		Process process = cpu.getActiveProcess();
+		process.leftCpu(clock);
+		process.updateStatistics(statistics);
+		memory.processCompleted(process);
 	}
 
 	/**
@@ -177,7 +189,7 @@ public class Simulator implements Constants
 	 * perform an I/O operation.
 	 */
 	private void processIoRequest() {
-		// Incomplete
+		
 	}
 
 	/**
