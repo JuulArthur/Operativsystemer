@@ -47,7 +47,8 @@ public class Simulator implements Constants
 		eventQueue = new EventQueue();
 		memory = new Memory(memoryQueue, memorySize, statistics);
 		clock = 0;
-		// Add code as needed
+		cpu = new CPU(cpuQueue, gui, maxCpuTime);
+		io = new IO(gui, ioQueue, avgIoTime, statistics);
     }
 
     /**
@@ -118,10 +119,10 @@ public class Simulator implements Constants
 		// Create a new process
 		Process newProcess = new Process(memory.getMemorySize(), clock);
 		memory.insertProcess(newProcess);
-		flushMemoryQueue();
 		// Add an event for the next process arrival
 		long nextArrivalTime = clock + 1 + (long)(2*Math.random()*avgArrivalInterval);
 		eventQueue.insertEvent(new Event(NEW_PROCESS, nextArrivalTime));
+		flushMemoryQueue();
 		// Update statistics
 		statistics.nofCreatedProcesses++;
     }
@@ -137,7 +138,11 @@ public class Simulator implements Constants
 			
 			// TODO: Add this process to the CPU queue!
 			// Also add new events to the event queue if needed
+			System.out.println(p);
 			cpu.addProcess(p);
+			if (cpu.isIdle()){
+				switchProcess();
+			}
 			// Try to use the freed memory:
 			flushMemoryQueue();
 			// Update statistics
@@ -165,7 +170,7 @@ public class Simulator implements Constants
 			if(process.getTimeToIO() > cpu.getMaxCpuTime() && process.getRemainingCpuTime() > cpu.getMaxCpuTime()){
 				eventQueue.insertEvent(new Event(SWITCH_PROCESS, clock+cpu.getMaxCpuTime()));
 			}
-			else if(process.getTimeToIO()<process.getRemainingCpuTime()){
+			else if(process.getTimeToIO()>process.getRemainingCpuTime()){
 				eventQueue.insertEvent(new Event(END_PROCESS, clock+process.getRemainingCpuTime()));
 			}
 			else{
@@ -189,7 +194,15 @@ public class Simulator implements Constants
 	 * perform an I/O operation.
 	 */
 	private void processIoRequest() {
-		
+		Process process = cpu.getActiveProcess();
+		process.leftCpu(clock);
+		/** addProcess returns true if there is no active process in the IO*/
+		if(io.addProcess(process, clock)){
+			statistics.nofIoOperations++;
+			process.enterIo(clock);
+			eventQueue.insertEvent(new Event(END_IO, clock+io.getRandomIoTime()));
+		}
+		switchProcess();
 	}
 
 	/**
@@ -197,7 +210,18 @@ public class Simulator implements Constants
 	 * is done with its I/O operation.
 	 */
 	private void endIoOperation() {
-		// Incomplete
+		Process process = io.getActiveProcess();
+		process.leftIo(clock);
+		cpu.addProcess(process);
+		process.enterCpuQueue(clock);
+		if(cpu.isIdle()){
+			switchProcess();
+		}
+		process = io.start();
+		if(process!=null){
+			process.enterIo(clock);
+			eventQueue.insertEvent(new Event(END_IO, clock+io.getRandomIoTime()));
+		}
 	}
 
 	/**

@@ -159,9 +159,19 @@ public class Process implements Constants
 		timeOfLastEvent = clock;
 	}
 	
+	/**
+	 * Update timeSpentInIo, and generate time for next IO-operation
+	 * @param clock   The global clock used to update the timers
+	 */
 	public void leftIo(long clock){
 		timeSpentInIo += clock-timeOfLastEvent;
-		// needs morse jobs!
+		timeOfLastEvent = clock;
+		timeToNextIoOperation = (long) (Math.random() * (avgIoInterval+0.5*avgIoInterval));
+	}
+	
+	public void enterIoQueue(long clock){
+		nofTimesInIoQueue++;
+		timeOfLastEvent=clock;
 	}
 
 	public long getTimeToIO() {
