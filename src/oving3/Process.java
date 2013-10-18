@@ -47,6 +47,10 @@ public class Process implements Constants
 
 	/** The global time of the last event involving this process */
 	private long timeOfLastEvent;
+	
+	/** The start and end time for this process*/
+	private long startTime = 0;
+	private long endTime = 0;
 
 	/**
 	 * Creates a new process with given parameters. Other parameters are randomly
@@ -65,6 +69,7 @@ public class Process implements Constants
 		timeOfLastEvent = creationTime;
 		// Assign a process ID
 		processId = nextProcessId++;
+		startTime = creationTime;
 		// Assign a pseudo-random color used by the GUI
 		int red = 64+(int)((processId*101)%128);
 		int green = 64+(int)((processId*47)%128);
@@ -116,7 +121,11 @@ public class Process implements Constants
      */
 	public void updateStatistics(Statistics statistics) {
 		statistics.totalTimeSpentWaitingForMemory += timeSpentWaitingForMemory;
+		statistics.timeInSystem += endTime-startTime;
 		statistics.nofCompletedProcesses++;
+		//statistics.totalCpuTime+=timeSpentInCpu;
+		statistics.totalTimeInReadyQueue += timeSpentInReadyQueue;
+		statistics.totalTimeInIoQueue += timeSpentWaitingForIo;
 	}
 	
 	
@@ -166,7 +175,7 @@ public class Process implements Constants
 	public void leftIo(long clock){
 		timeSpentInIo += clock-timeOfLastEvent;
 		timeOfLastEvent = clock;
-		timeToNextIoOperation = (long) (Math.random() * (avgIoInterval+0.5*avgIoInterval));
+		timeToNextIoOperation = (long) (Math.random() * 2 * avgIoInterval);
 	}
 	
 	public void enterIoQueue(long clock){
@@ -181,5 +190,15 @@ public class Process implements Constants
 
 	public long getRemainingCpuTime() {
 		return cpuTimeNeeded;
+	}
+
+	/** Used to subtract cpuTimeNeeded when a process is interrupted by an IO*/
+	public void subtractRemainingCpuTime(long maxCpuTime) {
+		this.cpuTimeNeeded-=maxCpuTime;
+		if(this.cpuTimeNeeded<0)this.cpuTimeNeeded=0; //Should never happen
+	}
+
+	public void setEndTime(long clock) {
+		this.endTime = clock;
 	}
 }

@@ -24,7 +24,7 @@ public class Simulator implements Constants
 	// Add member variables as needed
 	private CPU cpu;
 	private IO io;
-	
+
 
 	/**
 	 * Constructs a scheduling simulator with the given parameters.
@@ -47,7 +47,7 @@ public class Simulator implements Constants
 		eventQueue = new EventQueue();
 		memory = new Memory(memoryQueue, memorySize, statistics);
 		clock = 0;
-		cpu = new CPU(cpuQueue, gui, maxCpuTime);
+		cpu = new CPU(cpuQueue, gui, maxCpuTime, statistics);
 		io = new IO(gui, ioQueue, avgIoTime, statistics);
     }
 
@@ -73,6 +73,8 @@ public class Simulator implements Constants
 			// Let the memory unit and the GUI know that time has passed
 			memory.timePassed(timeDifference);
 			gui.timePassed(timeDifference);
+			cpu.timePassed(timeDifference);
+			io.timePassed(timeDifference);
 			// Deal with the event
 			if (clock < simulationLength) {
 				processEvent(event);
@@ -135,10 +137,10 @@ public class Simulator implements Constants
 		Process p = memory.checkMemory(clock);
 		// As long as there is enough memory, processes are moved from the memory queue to the cpu queue
 		while(p != null) {
-			
+
 			// TODO: Add this process to the CPU queue!
 			// Also add new events to the event queue if needed
-			System.out.println(p);
+			//p.leftMemoryQueue(clock);
 			cpu.addProcess(p);
 			if (cpu.isIdle()){
 				switchProcess();
@@ -146,7 +148,7 @@ public class Simulator implements Constants
 			// Try to use the freed memory:
 			flushMemoryQueue();
 			// Update statistics
-			p.updateStatistics(statistics);
+			//p.updateStatistics(statistics);
 
 			// Check for more free memory
 			p = memory.checkMemory(clock);
@@ -168,12 +170,15 @@ public class Simulator implements Constants
 		if(process != null){
 			process.enterCpu(clock);
 			if(process.getTimeToIO() > cpu.getMaxCpuTime() && process.getRemainingCpuTime() > cpu.getMaxCpuTime()){
+				statistics.totalCpuTime+=cpu.getMaxCpuTime();
 				eventQueue.insertEvent(new Event(SWITCH_PROCESS, clock+cpu.getMaxCpuTime()));
 			}
 			else if(process.getTimeToIO()>process.getRemainingCpuTime()){
+				statistics.totalCpuTime+=process.getRemainingCpuTime();
 				eventQueue.insertEvent(new Event(END_PROCESS, clock+process.getRemainingCpuTime()));
 			}
 			else{
+				statistics.totalCpuTime+=process.getTimeToIO();
 				eventQueue.insertEvent(new Event(IO_REQUEST, clock+process.getTimeToIO()));
 			}
 		}
@@ -185,8 +190,12 @@ public class Simulator implements Constants
 	private void endProcess() {
 		Process process = cpu.getActiveProcess();
 		process.leftCpu(clock);
+		process.setEndTime(clock);
 		process.updateStatistics(statistics);
 		memory.processCompleted(process);
+		if(cpu.isIdle()){
+			switchProcess();
+		}
 	}
 
 	/**
@@ -198,7 +207,6 @@ public class Simulator implements Constants
 		process.leftCpu(clock);
 		/** addProcess returns true if there is no active process in the IO*/
 		if(io.addProcess(process, clock)){
-			statistics.nofIoOperations++;
 			process.enterIo(clock);
 			eventQueue.insertEvent(new Event(END_IO, clock+io.getRandomIoTime()));
 		}
@@ -212,6 +220,7 @@ public class Simulator implements Constants
 	private void endIoOperation() {
 		Process process = io.getActiveProcess();
 		process.leftIo(clock);
+		statistics.nofIoOperations++;
 		cpu.addProcess(process);
 		process.enterCpuQueue(clock);
 		if(cpu.isIdle()){
